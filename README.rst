@@ -45,5 +45,6 @@ Future features / ToDo:
 - Dynamic template support
 - Possible MarkDown / ReStructuredText / etc support
 - Dynamic Site support (currently requires passing in the url declaration)
+- Generic Meta-tag support (any meta tag, not just keywords & description
 
 Send me a note or post a comment - this will influence what gets done first :)

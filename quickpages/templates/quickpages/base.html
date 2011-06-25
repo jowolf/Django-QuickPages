@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}{{ title }}{% endblock %}
+
+
+{% block header_extras %}  {# Satchmo calls it 'extra_head', other projects call it 'header_extras' - customize accordingly #}
+
+{% if keywords %}<meta name="keywords" content="{{ keywords }}" />{% endif %}
+
+{% if description %}<meta name="description" content="{{ description }}" />{% endif %}
+
+{{ css }}
+{{ javascript }}
+
+{% endblock header_extras %}
+
+
+{% block breadcrumbs %}
+  {% if breadcrumbs %}
+    / <span title="{{ title }}">{{ name|capfirst }}<span>  {# should be unslugify|capwords, but there aren't those filters #}
+  {% endif %}
+{% endblock %}
+
+
+{% block content %}
+
+{{ content|safe }}
+
+{% endblock content %}
