@@ -3,16 +3,16 @@
 {% block title %}{{ title }}{% endblock %}
 
 
-{% block header_extras %}  {# Satchmo calls it 'extra_head', other projects call it 'header_extras' - customize accordingly #}
+{% block extra-head %}  {# Satchmo calls it 'extra-head', other projects call it 'header_extras' - customize accordingly #}
 
 {% if keywords %}<meta name="keywords" content="{{ keywords }}" />{% endif %}
 
 {% if description %}<meta name="description" content="{{ description }}" />{% endif %}
 
-{{ css }}
-{{ javascript }}
+{{ css|safe }}
+{{ javascript|safe }}
 
-{% endblock header_extras %}
+{% endblock extra-head %}
 
 
 {% block breadcrumbs %}

@@ -9,7 +9,7 @@ class QuickPage (models.Model):
     published   = models.BooleanField (default=True, help_text="Published=shown. If not, gives 404")
     javascript  = models.CharField (max_length=300, blank=True, help_text="Comma-separated filenames, relative to MEDIA_ROOT or STATIC_ROOT")
     css         = models.CharField (max_length=300, blank=True, help_text="Comma-separated filenames, relative to MEDIA_ROOT or STATIC_ROOT")
-    heading     = models.BooleanField (default=True, help_text='If "Heading" is checked, "Title" is added to the top of the content in an H2 tag.')
+    heading     = models.BooleanField (default=True, help_text='If "Heading" is checked, "Title" is added to the top of the content in an H1 tag.')
     description = models.TextField (blank=True, help_text="Meta description")
     keywords    = models.TextField (blank=True, help_text="Meta keywords")
     comments    = models.TextField (blank=True, help_text="Internal developer/editor comments, not shown")
