@@ -12,7 +12,7 @@ class PublishedManager (models.Manager):
 
 
 class QuickPage (models.Model):
-    name        = models.CharField (max_length=100, unique=True, help_text="Name - short, typically one or two words. Typically used in 'a' tag.")
+    name        = models.CharField (max_length=100, unique=True, help_text="Name - short, typically one or two words.")
     slug        = models.CharField (max_length=100, unique=True, help_text="This is the url. Slashes are OK, but not necessary.")
     title       = models.CharField (max_length=100, help_text="Page title, and optional H1 tag (see Heading)")
     published   = models.BooleanField (default=True, help_text="Published=shown. If not, gives 404")

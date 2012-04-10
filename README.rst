@@ -4,6 +4,8 @@ Django-QuickPages
 Simliar to django-flatpages, but better & more flexible:
 
 - Allows for meta tags: content, keywords for SEO
+- Separate fields for slug, name & title
+- URLs are placed directly in your URLs - no magic
 - Context can be passed through from url declarations
 - Does not require or use middleware, therefore plays nice with Django Debug Toolbar (DjDT)
 - Allows for added / included JavaScript and CSS assets
@@ -38,8 +40,7 @@ Usage:
 - Then customize accordingly
 - You can also use a different template name, and siumply pass it in in the url declaration, see the examples
 - Additional context, even a db model query, can be passed though to the custom template - again see the examples-url.py.
-- PublishedManager to preselect only piblished or unnpublished objects - simply use
-  - QuickPages.objects.published, or QuickPages.objects.unpublished
+- PublishedManager to preselect only piblished or unnpublished objects - simply use: QuickPages.objects.published, or QuickPages.objects.unpublished
 
 
 Added April, 2012:

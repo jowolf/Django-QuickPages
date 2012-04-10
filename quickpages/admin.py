@@ -8,7 +8,7 @@ from quickpages.models import QuickPage
 
 class QuickPageAdmin (admin.ModelAdmin):
     fieldsets  = (
-                  (None, {'fields': (('name', 'slug', 'title', 'published'),)}),
+                  (None, {'fields': (('name', 'slug'), ('title', 'published'),)}),
                   ('Extras', {'classes': ['collapse'], 'fields': (('javascript','css'), 'heading')}),
                   ('Meta', {'classes': ['collapse'], 'fields': ('description','keywords')}),
                   ('Comments', {'classes': ['collapse','noedit'], 'fields': ('comments',)}),
@@ -18,6 +18,7 @@ class QuickPageAdmin (admin.ModelAdmin):
     list_filter = ('published', 'created', 'updated')
     list_display = ('name', 'slug', 'title', 'published', 'comments', 'created', 'updated')
     save_as = True
+    prepopulated_fields = {"slug": ("name",)}
 
     class Media:
         js = ('/media/tinymce/tiny_mce.js','/media/tinymce/mce_setup.js')
