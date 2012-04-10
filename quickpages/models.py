@@ -3,8 +3,17 @@
 from django.db import models
 
 
+class PublishedManager (models.Manager):
+    def published (self):
+        return self.filter (published=True)
+
+    def unpublished (self):
+        return self.filter (published=False)
+
+
 class QuickPage (models.Model):
-    name        = models.CharField (max_length=100, unique=True, help_text="This is also the url. Slashes are OK, but not necessary.")
+    name        = models.CharField (max_length=100, unique=True, help_text="Name - short, typically one or two words. Typically used in 'a' tag.")
+    slug        = models.CharField (max_length=100, unique=True, help_text="This is the url. Slashes are OK, but not necessary.")
     title       = models.CharField (max_length=100, help_text="Page title, and optional H1 tag (see Heading)")
     published   = models.BooleanField (default=True, help_text="Published=shown. If not, gives 404")
     javascript  = models.CharField (max_length=300, blank=True, help_text="Comma-separated filenames, relative to MEDIA_ROOT or STATIC_ROOT")
@@ -24,6 +33,8 @@ class QuickPage (models.Model):
 
     updated     = models.DateTimeField ('date modified', auto_now=True)
     created     = models.DateTimeField ('date created', auto_now_add=True)
+
+    objects     = PublishedManager()
 
     def __unicode__ (self):
         return self.name

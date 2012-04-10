@@ -20,12 +20,12 @@ trace = 0
 
 # QuickPages view - 'generic' db view, with meta tags, titles, js/css, etc
 
-def quickpage (request, name=None, template='quickpages/base.html', breadcrumbs=True, **kw):
-    if name:
-        page = get_object_or_404 (QuickPage.objects.filter (published=True), name=name)
+def quickpage (request, slug=None, template='quickpages/base.html', breadcrumbs=True, **kw):
+    if slug:
+        page = get_object_or_404 (QuickPage.objects.filter (published=True), slug=slug)
         #crumb = page
     else:  # it's the 'index' page - /
-        page = get_object_or_404 (Page.objects, name='index')
+        page = get_object_or_404 (Page.objects, slug='index')
         #crumb = None
 
     if trace: print 'QuickPage:', page
@@ -42,6 +42,7 @@ def quickpage (request, name=None, template='quickpages/base.html', breadcrumbs=
         content = page.content
 
     kw.update (dict (name=page.name,
+        slug=page.slug,
         title=page.title,
         content=content,
         keywords=page.keywords,
