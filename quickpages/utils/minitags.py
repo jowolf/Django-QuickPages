@@ -1,5 +1,4 @@
-# Copyright (c) 2000-2007 Joseph J Wolff, also GPL Licensed
-# see COPYING and COPYRIGHT
+# Copyright (c)2000-2016 Joseph J Wolff
 
 trace = 0
 

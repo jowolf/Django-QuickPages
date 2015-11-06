@@ -1,0 +1,14 @@
+{% extends "quickpages/press.html" %}
+
+
+{% block content %}
+
+{{ content|safe }}
+
+{% for p in QuickPage_pr_objects.presspages %}
+  <p>
+    <a href="/{{ p.slug }}">{{ p.title }}</a>
+  </p>
+{% endfor %}
+
+{% endblock content %}

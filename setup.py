@@ -12,4 +12,5 @@ setup (
     url          = 'https://github.com/jowolf/Django-QuickPages',
     download_url = 'https://github.com/jowolf/Django-QuickPages/archive/master.zip',
     license      = "BSD",
+    install_requires = ['django-wysiwyg'],
 )

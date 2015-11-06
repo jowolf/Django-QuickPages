@@ -41,12 +41,16 @@ def quickpage (request, slug=None, template='quickpages/base.html', breadcrumbs=
     else:
         content = page.content
 
+    if page.template:
+        template = page.template
+
     kw.update (dict (name=page.name,
         slug=page.slug,
         title=page.title,
         content=content,
-        keywords=page.keywords,
-        description=page.description,
+        meta_title=page.meta_title,
+        meta_keywords=page.keywords,
+        meta_description=page.description,
         breadcrumbs=breadcrumbs,
         javascript=js,
         css=css,
