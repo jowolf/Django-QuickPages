@@ -7,7 +7,7 @@ from django.db import models, migrations
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('obdjects', '__first__'),
+        ('quickpages', '__first__'),
     ]
 
     operations = [
@@ -34,13 +34,13 @@ class Migration(migrations.Migration):
             },
             bases=(models.Model,),
         ),
-        migrations.CreateModel(
-            name='QuickSnippet',
-            fields=[
-            ],
-            options={
-                'proxy': True,
-            },
-            bases=('obdjects.snippet',),
-        ),
+        #migrations.CreateModel(
+        #    name='QuickSnippet',
+        #    fields=[
+        #    ],
+        #    options={
+        #        'proxy': True,
+        #    },
+        #    bases=('obdjects.snippet',),
+        #),
     ]

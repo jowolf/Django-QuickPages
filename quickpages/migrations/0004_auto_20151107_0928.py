@@ -11,9 +11,9 @@ class Migration(migrations.Migration):
     ]
 
     operations = [
-        migrations.DeleteModel(
-            name='QuickSnippet',
-        ),
+        #migrations.DeleteModel(
+        #    name='QuickSnippet',
+        #),
         migrations.CreateModel(
             name='QuickSnippet',
             fields=[
