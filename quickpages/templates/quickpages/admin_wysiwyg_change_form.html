@@ -80,6 +80,9 @@
 
 	{# Replace XXXXXXXX with field name: #}
     {% wysiwyg_editor "id_content" %}
+    {% if original.typ == 'html' %}
+      {% wysiwyg_editor "id_body" %}
+    {% endif %}
 	{# ... add more here... #}
 
 {% endblock %}
