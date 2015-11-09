@@ -1,4 +1,4 @@
 *~
 *.pyc
-/quickpages/fixtures/*.yaml
+#/quickpages/fixtures/*.yaml
 /Django_QuickPages.egg-info/
