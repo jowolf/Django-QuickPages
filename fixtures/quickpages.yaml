@@ -126,8 +126,8 @@
       />\r\n<!-- END MINI-TABLE FOR PARAGRAPH -->\r\n<center xmlns:html=\"http://www.w3.org/1999/xhtml\">\r\n\t<div
       class=\"small\">\r\n\t\teRacks offers more flexibility in rackmount server configuration
       at a better price!</div>\r\n</center>\r\n", created: ! '2012-04-09 19:36:53.035121',
-    css: '', description: '', heading: true, javascript: '', keywords: '', name: Home,
-    published: false, slug: home, template: '', title: Home, updated: ! '2012-10-21
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Home, published: false, slug: home, template: '', title: Home, updated: ! '2012-10-21
       12:31:08.643565'}
   model: quickpages.quickpage
   pk: 1
@@ -219,7 +219,7 @@
       class=\"small\">\r\n\t\t&nbsp;</div>\r\n</div>\r\n<h5>\r\n\tCall or <a href=\"mailto:info@eracks.com\">email
       eRacks</a> to find out more information about our partnerships.</h5>\r\n", created: ! '2012-04-10
       11:57:28.702556', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: Partners, published: true, slug: partners, template: quickpages/one_column.html,
+    meta_title: '', name: Partners, published: true, slug: partners, template: quickpages/one_column.html,
     title: Partners, updated: ! '2013-01-11 16:30:56.473660'}
   model: quickpages.quickpage
   pk: 4
@@ -275,9 +275,9 @@
       is the best way to reach us</strong></p>\r\n<p>\r\n\t<img alt=\"eRacks Open
       Source Systems logo\" border=\"0\" height=\"156\" src=\"/images/logos/eracks_logo_500.png\"
       width=\"500\" /></p>\r\n", created: ! '2012-04-10 12:03:15.390673', css: '',
-    description: '', heading: true, javascript: '', keywords: '', name: Corporate,
-    published: true, slug: corporate, template: quickpages/two_columns.html, title: Corporate,
-    updated: ! '2014-06-19 15:54:19.866396'}
+    description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Corporate, published: true, slug: corporate, template: quickpages/two_columns.html,
+    title: Corporate, updated: ! '2014-06-19 15:54:19.866396'}
   model: quickpages.quickpage
   pk: 7
 - fields: {comments: '', content: "<div id=\"contact-us\">\r\n\t<p>\r\n\t\tCustomized
@@ -307,9 +307,9 @@
       technical support, drivers, maintenance plans, etc: <a href=\"mailto:support@eracks.com\">support@eracks.com</a></li>\r\n\t</ul>\r\n\t<img
       alt=\"\" border=\"0\" height=\"52\" src=\"/images/contact-us/bbb.gif\" width=\"135\"
       /></div>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2012-04-10 12:07:16.716037',
-    css: '', description: '', heading: true, javascript: '', keywords: '', name: Contact
-      us, published: true, slug: contact-us, template: '', title: Contact eRacks,
-    updated: ! '2014-06-19 15:38:12.060499'}
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Contact us, published: true, slug: contact-us, template: '', title: Contact
+      eRacks, updated: ! '2014-06-19 15:38:12.060499'}
   model: quickpages.quickpage
   pk: 10
 - fields: {comments: '', content: "<p>\r\n\teRacks Open Source Systems provides high-performance
@@ -401,8 +401,8 @@
       installation, open source migration services, including network consulting and
       software development services</a>.<br />\r\n\teRacks offers more flexibility
       in configuration at a better price!</p>\r\n", created: ! '2012-10-20 17:02:27.648615',
-    css: '', description: '', heading: true, javascript: '', keywords: '', name: Product
-      Showroom, published: true, slug: showroom, template: quickpages/one_column.html,
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Product Showroom, published: true, slug: showroom, template: quickpages/one_column.html,
     title: Product Showroom, updated: ! '2015-03-31 02:42:50.608864'}
   model: quickpages.quickpage
   pk: 15
@@ -429,8 +429,8 @@
       href=\"mailto:consulting@eracks.com\">consulting@eracks.com</a></p>\r\n</div>\r\n<p>\r\n\t<strong>eMail
       is the best way to reach us</strong></p>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2012-10-21
       15:47:57.577848', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: Services, published: true, slug: services, template: '', title: Services,
-    updated: ! '2014-06-19 15:51:50.818847'}
+    meta_title: '', name: Services, published: true, slug: services, template: '',
+    title: Services, updated: ! '2014-06-19 15:51:50.818847'}
   model: quickpages.quickpage
   pk: 57
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<h2>\r\n\teRacks
@@ -1513,8 +1513,8 @@
       , and <a href=\"http://www.postgresql.org\">PostgreSQL</a> . It is running on
       <a href=\"http://www.debian.org\">Debian Linux</a> .</p>\r\n<p>\r\n\t<br />\r\n\t<br
       />\r\n\t&nbsp;</p>\r\n", created: ! '2012-10-21 15:47:58.151876', css: '', description: '',
-    heading: true, javascript: '', keywords: '', name: FAQ, published: true, slug: faq,
-    template: '', title: FAQ, updated: ! '2012-10-28 11:03:49.480313'}
+    heading: true, javascript: '', keywords: '', meta_title: '', name: FAQ, published: true,
+    slug: faq, template: '', title: FAQ, updated: ! '2012-10-28 11:03:49.480313'}
   model: quickpages.quickpage
   pk: 58
 - fields: {comments: '', content: "<h5>\r\n\teRacks Open Source Systems News coverage,
@@ -1595,9 +1595,9 @@
       href=\"020226\">Feb 26, 2002 - eRacks Announces ISP/ASP Partner Program</a></p>\r\n<p>\r\n\t<a
       href=\"010420\">April 20, 2001 - eRacks offers Preconfigured Rackmount Computers</a></p>\r\n",
     created: ! '2012-10-21 15:47:58.633808', css: '', description: '', heading: true,
-    javascript: '', keywords: '', name: Press - old, published: true, slug: press-old,
-    template: quickpages/press.html, title: eRacks Press Releases and Coverage, updated: ! '2014-03-13
-      10:29:38.962505'}
+    javascript: '', keywords: '', meta_title: '', name: Press - old, published: true,
+    slug: press-old, template: quickpages/press.html, title: eRacks Press Releases
+      and Coverage, updated: ! '2014-03-13 10:29:38.962505'}
   model: quickpages.quickpage
   pk: 59
 - fields: {comments: '', content: "<!-- now content page goes in this cell--><!--
@@ -1704,8 +1704,9 @@
       their information in this different manner. We will use information in accordance
       with the privacy policy under which the information was collected.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2012-10-21 15:47:58.991980', css: '', description: '', heading: true,
-    javascript: '', keywords: '', name: Privacy and Legal, published: true, slug: policies/privacy-and-legal,
-    template: '', title: 'Privacy, Security, and Legal', updated: ! '2012-10-21 16:37:00.866805'}
+    javascript: '', keywords: '', meta_title: '', name: Privacy and Legal, published: true,
+    slug: policies/privacy-and-legal, template: '', title: 'Privacy, Security, and
+      Legal', updated: ! '2012-10-21 16:37:00.866805'}
   model: quickpages.quickpage
   pk: 60
 - fields: {comments: '', content: "<h1>\r\n\tRackmount Servers</h1>\r\n<h4>\r\n\tThe
@@ -1776,8 +1777,9 @@
       various services available, including additional configuration, software and
       infrastructure consulting, network design and assessment, and <a href=\"http://erackshosting.com\">hosting.</a></p>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2012-10-21 15:47:59.525155', css: '', description: '', heading: false,
-    javascript: '', keywords: '', name: Rackmount Servers, published: true, slug: rackmount-servers,
-    template: '', title: Rackmount Servers, updated: ! '2012-10-31 17:01:54.244307'}
+    javascript: '', keywords: '', meta_title: '', name: Rackmount Servers, published: true,
+    slug: rackmount-servers, template: '', title: Rackmount Servers, updated: ! '2012-10-31
+      17:01:54.244307'}
   model: quickpages.quickpage
   pk: 61
 - fields: {comments: '', content: "\n                <!-- now content page goes in
@@ -1955,9 +1957,9 @@
       target=\"new\">http://www.zope.org</a>\n                        </td>\n                      </tr>\n
       \                   </tbody></table>\n                  </div>\n                </div>\n
       \             ", created: ! '2012-10-21 15:47:59.955503', css: '', description: '',
-    heading: true, javascript: '', keywords: '', name: Open Source Links, published: true,
-    slug: open-source-links, template: '', title: Open Source Links, updated: ! '2012-10-21
-      15:48:00.060484'}
+    heading: true, javascript: '', keywords: '', meta_title: '', name: Open Source
+      Links, published: true, slug: open-source-links, template: '', title: Open Source
+      Links, updated: ! '2012-10-21 15:48:00.060484'}
   model: quickpages.quickpage
   pk: 62
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\tWarranty,
@@ -2135,9 +2137,9 @@
       sold hereunder shall be subject to exclusive jurisdiction and venue of the United
       States District Court closest to the current headquarters location of eRacks
       Systems.</p>\r\n", created: ! '2012-10-21 16:58:25.505656', css: '', description: '',
-    heading: true, javascript: '', keywords: '', name: Warranty and Order Policies,
-    published: true, slug: policies/warranty-and-order, template: '', title: Warranty
-      and Order Policies, updated: ! '2014-02-19 13:19:45.263060'}
+    heading: true, javascript: '', keywords: '', meta_title: '', name: Warranty and
+      Order Policies, published: true, slug: policies/warranty-and-order, template: '',
+    title: Warranty and Order Policies, updated: ! '2014-02-19 13:19:45.263060'}
   model: quickpages.quickpage
   pk: 63
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<div
@@ -2178,8 +2180,8 @@
       (714) 532-5322. eRacks offers educational and bulk discounts.</p>\r\n\t<p>\r\n\t\teRacks
       Open Source Systems<br />\r\n\t\twww.eRacks.com<br />\r\n\t\tPhone: 714 532-5322</p>\r\n</div>\r\n",
     created: ! '2012-08-27 00:00:00', css: '', description: '', heading: false, javascript: '',
-    keywords: '', name: 'Aug 27, 2012 - eRacks Launches Amazon Storefront Featuring
-      Custom Line of Computers and Servers', published: true, slug: press/aug-27-2012-eracks-launches-amazon-storefront-featuring-custom-line-of-computers-and-servers,
+    keywords: '', meta_title: '', name: 'Aug 27, 2012 - eRacks Launches Amazon Storefront
+      Featuring Custom Line of Computers and Servers', published: true, slug: press/aug-27-2012-eracks-launches-amazon-storefront-featuring-custom-line-of-computers-and-servers,
     template: quickpages/press.html, title: 'Aug 27, 2012 - eRacks Launches Amazon
       Storefront Featuring Custom Line of Computers and Servers', updated: ! '2014-03-12
       20:30:14.614362'}
@@ -2244,8 +2246,8 @@
       It&#39;s also a plus for the open source channel as a whole, which needs all
       the love from hardware vendors that it can get.</p>\r\n</div>\r\n", created: ! '2012-05-21
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'May 21, 2012 - theVARGuy.com: eRacks Offers High-End PC to Open Source
-      Crowd', published: true, slug: press/may-21-2012-thevarguycom-eracks-offers-high-end-pc-to-open-source-crowd,
+    meta_title: '', name: 'May 21, 2012 - theVARGuy.com: eRacks Offers High-End PC
+      to Open Source Crowd', published: true, slug: press/may-21-2012-thevarguycom-eracks-offers-high-end-pc-to-open-source-crowd,
     template: quickpages/press.html, title: 'May 21, 2012 - theVARGuy.com: eRacks
       Offers High-End PC to Open Source Crowd', updated: ! '2014-03-12 20:30:15.607567'}
   model: quickpages.quickpage
@@ -2402,10 +2404,10 @@
       terms like cloud computing, cloud services and Big Data management.</p>\r\n\t<p>\r\n\t\tThat&#39;s
       all for now. The VAR Guy needs some sleep.</p>\r\n</div>\r\n", created: ! '2012-05-09
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'May  09, 2012 - Top 50 Open Source Companies: Where Are They Now?', published: true,
-    slug: press/may-09-2012-top-50-open-source-companies-where-are-they-now, template: quickpages/press.html,
-    title: 'May  09, 2012 - Top 50 Open Source Companies: Where Are They Now?', updated: ! '2014-03-12
-      20:30:14.660741'}
+    meta_title: '', name: 'May  09, 2012 - Top 50 Open Source Companies: Where Are
+      They Now?', published: true, slug: press/may-09-2012-top-50-open-source-companies-where-are-they-now,
+    template: quickpages/press.html, title: 'May  09, 2012 - Top 50 Open Source Companies:
+      Where Are They Now?', updated: ! '2014-03-12 20:30:14.660741'}
   model: quickpages.quickpage
   pk: 67
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<div
@@ -2444,9 +2446,9 @@
       more information visit the eRacks website: <a href=\"http://eracks.com\">eRacks.com</a>
       or call (714) 532-5322. eRacks offers educational and bulk discounts.</p>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2012-04-25 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'April 25, 2012 - Custom NAS50 File Server from eRacks Makes
-      Petabyte-scale Data Storage Accessible for Every Business', published: true,
-    slug: press/april-25-2012-custom-nas50-file-server-from-eracks-makes-petabyte-scale-data-storage-accessible-for-every-business,
+    keywords: '', meta_title: '', name: 'April 25, 2012 - Custom NAS50 File Server
+      from eRacks Makes Petabyte-scale Data Storage Accessible for Every Business',
+    published: true, slug: press/april-25-2012-custom-nas50-file-server-from-eracks-makes-petabyte-scale-data-storage-accessible-for-every-business,
     template: quickpages/press.html, title: 'April 25, 2012 - Custom NAS50 File Server
       from eRacks Makes Petabyte-scale Data Storage Accessible for Every Business',
     updated: ! '2014-03-12 20:30:14.691011'}
@@ -2491,8 +2493,8 @@
       Information:<br />\r\n\t\t\t\teRacks Open Source Systems<br />\r\n\t\t\t\tGreg
       Stoops<br />\r\n\t\t\t\t(714) 532-5322<br />\r\n\t\t\t\tinfo@eRacks.com<br />\r\n\t\t\t\teRacks.com</p>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2012-04-09 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'April 09, 2012 - eRacks Introduces Eseries Line of Fast,
-      Green Intel E5-Powered Rackmount Servers', published: true, slug: press/april-09-2012-eracks-introduces-eseries-line-of-fast-green-intel-e5-powered-rackmount-servers,
+    keywords: '', meta_title: '', name: 'April 09, 2012 - eRacks Introduces Eseries
+      Line of Fast, Green Intel E5-Powered Rackmount Servers', published: true, slug: press/april-09-2012-eracks-introduces-eseries-line-of-fast-green-intel-e5-powered-rackmount-servers,
     template: quickpages/press.html, title: 'April 09, 2012 - eRacks Introduces Eseries
       Line of Fast, Green Intel E5-Powered Rackmount Servers', updated: ! '2014-03-12
       20:30:14.718848'}
@@ -2606,8 +2608,8 @@
       information, visit: http://www.owncloud.com.</p>\r\n\t<p>\r\n\t\t###</p>\r\n\t<p>\r\n\t\tCONTACT:
       Joe Eckert, jeckert@owncloud.com 203-300-2649</p>\r\n</div>\r\n", created: ! '2012-03-28
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'March  28, 2012 - ownCloud Launches Partner Program, Announces Partnerships
-      Across the Globe', published: true, slug: press/march-28-2012-owncloud-launches-partner-program-announces-partnerships-across-the-globe,
+    meta_title: '', name: 'March  28, 2012 - ownCloud Launches Partner Program, Announces
+      Partnerships Across the Globe', published: true, slug: press/march-28-2012-owncloud-launches-partner-program-announces-partnerships-across-the-globe,
     template: quickpages/press.html, title: 'March  28, 2012 - ownCloud Launches Partner
       Program, Announces Partnerships Across the Globe', updated: ! '2014-03-12 20:30:14.760552'}
   model: quickpages.quickpage
@@ -2683,8 +2685,8 @@
       offers educational and bulk discounts.</p>\r\n\t\t<p>\r\n\t\t\tTo learn more
       about the eRacks Blade Technology visit: http://eRacks.com/products/Blade%20Servers</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2012-03-15 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'March 15, 2012 - eRacks adds blade servers to its rackmount
-      server line.', published: true, slug: press/march-15-2012-eracks-adds-blade-servers-to-its-rackmount-server-line,
+    keywords: '', meta_title: '', name: 'March 15, 2012 - eRacks adds blade servers
+      to its rackmount server line.', published: true, slug: press/march-15-2012-eracks-adds-blade-servers-to-its-rackmount-server-line,
     template: quickpages/press.html, title: 'March 15, 2012 - eRacks adds blade servers
       to its rackmount server line.', updated: ! '2014-03-12 20:30:14.735496'}
   model: quickpages.quickpage
@@ -2755,8 +2757,8 @@
       that knows Linux. With affordable prices and freedom, you have nothing to lose.\n
       \                 </p>\n                </div>\n              ", created: ! '2012-02-01
       00:00:00', css: '', description: '', heading: false, javascript: '', keywords: '',
-    name: 'Feb 01, 2012 - MakeTechEasier.com: 2012 Linux Computer Buyer''s Guide',
-    published: true, slug: press/feb-01-2012-maketecheasiercom-2012-linux-computer-buyers-guide,
+    meta_title: '', name: 'Feb 01, 2012 - MakeTechEasier.com: 2012 Linux Computer
+      Buyer''s Guide', published: true, slug: press/feb-01-2012-maketecheasiercom-2012-linux-computer-buyers-guide,
     template: quickpages/press.html, title: 'Feb 01, 2012 - MakeTechEasier.com: 2012
       Linux Computer Buyer''s Guide', updated: ! '2014-03-12 20:30:14.785623'}
   model: quickpages.quickpage
@@ -2807,8 +2809,8 @@
       visit the eRacks website:<br />\r\n\t\t\thttp://www.eracks.com or call (714)
       532-5322.<br />\r\n\t\t\teRacks offers educational and bulk discounts.</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2012-01-30 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Jan 30, 2012 - eRacks Bucks Server Trend Towards Higher Prices',
-    published: true, slug: press/jan-30-2012-eracks-bucks-server-trend-towards-higher-prices,
+    keywords: '', meta_title: '', name: 'Jan 30, 2012 - eRacks Bucks Server Trend
+      Towards Higher Prices', published: true, slug: press/jan-30-2012-eracks-bucks-server-trend-towards-higher-prices,
     template: quickpages/press.html, title: 'Jan 30, 2012 - eRacks Bucks Server Trend
       Towards Higher Prices', updated: ! '2014-03-12 20:30:14.818953'}
   model: quickpages.quickpage
@@ -2850,8 +2852,8 @@
       bulk discounts. For more information, visit http://www.eracks.com or call their
       USA-based customer service at (714) 532-5322.</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2011-11-21 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Nov 21, 2011 - eRacks releases line of Fully-Redundant Failover
-      Firewalls', published: true, slug: press/nov-21-2011-eracks-releases-line-of-fully-redundant-failover-firewalls,
+    keywords: '', meta_title: '', name: 'Nov 21, 2011 - eRacks releases line of Fully-Redundant
+      Failover Firewalls', published: true, slug: press/nov-21-2011-eracks-releases-line-of-fully-redundant-failover-firewalls,
     template: quickpages/press.html, title: 'Nov 21, 2011 - eRacks releases line of
       Fully-Redundant Failover Firewalls', updated: ! '2014-03-12 20:30:14.844002'}
   model: quickpages.quickpage
@@ -2909,8 +2911,8 @@
       fully in innovations within the open-source community.</p>\r\n\t\t<p>\r\n\t\t\tFor
       more information, please visit http://www.canonical.com.</p>\r\n\t\t<p>\r\n\t\t\t###</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2011-09-09 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Sep 9, 2011 - eRacks Open Source Systems Announces Reseller
-      Agreement with Canonical', published: true, slug: press/sep-9-2011-eracks-open-source-systems-announces-reseller-agreement-with-canonical,
+    keywords: '', meta_title: '', name: 'Sep 9, 2011 - eRacks Open Source Systems
+      Announces Reseller Agreement with Canonical', published: true, slug: press/sep-9-2011-eracks-open-source-systems-announces-reseller-agreement-with-canonical,
     template: quickpages/press.html, title: 'Sep 9, 2011 - eRacks Open Source Systems
       Announces Reseller Agreement with Canonical', updated: ! '2014-03-12 20:30:14.860632'}
   model: quickpages.quickpage
@@ -2948,9 +2950,9 @@
       added=\"JJW 9/23/11\">\r\n\t\t<h2>\r\n\t\t\t<a href=\"http://eracks.com/products/ASERIES\">eRacks/ASERIES</a></h2>\r\n\t\t<a
       href=\"http://eracks.com/products/ASERIES\"><img alt=\"\" src=\"/images/press/aseries_chassis.jpeg\"
       /></a></div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2011-08-25 00:00:00',
-    css: '', description: '', heading: true, javascript: '', keywords: '', name: 'Aug
-      25, 2011 - eRacks Releases AMD Fusion A-Series Desktop and Rackmount Computer
-      Models', published: true, slug: press/aug-25-2011-eracks-releases-amd-fusion-a-series-desktop-and-rackmount-computer-models,
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: 'Aug 25, 2011 - eRacks Releases AMD Fusion A-Series Desktop and Rackmount
+      Computer Models', published: true, slug: press/aug-25-2011-eracks-releases-amd-fusion-a-series-desktop-and-rackmount-computer-models,
     template: quickpages/press.html, title: 'Aug 25, 2011 - eRacks Releases AMD Fusion
       A-Series Desktop and Rackmount Computer Models', updated: ! '2014-03-12 20:30:14.885720'}
   model: quickpages.quickpage
@@ -3003,8 +3005,9 @@
       server: <a href=\"http://eracks.com/products/SANDYCORE\">http://eracks.com/products/SANDYCORE</a><br
       />\r\n\t\t\t\t\tDesktop model: <a href=\"http://eracks.com/products/FLAGSHIP\">http://eracks.com/products/FLAGSHIP</a></p>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2011-02-28 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Feb 28, 2011 - eRacks/SANDYCORE - utilizing the second generation
-      Intel Core processor, Sandy Bridge CPU', published: true, slug: press/feb-28-2011-erackssandycore-utilizing-the-second-generation-intel-core-processor-sandy-bridge-cpu,
+    keywords: '', meta_title: '', name: 'Feb 28, 2011 - eRacks/SANDYCORE - utilizing
+      the second generation Intel Core processor, Sandy Bridge CPU', published: true,
+    slug: press/feb-28-2011-erackssandycore-utilizing-the-second-generation-intel-core-processor-sandy-bridge-cpu,
     template: quickpages/press.html, title: 'Feb 28, 2011 - eRacks/SANDYCORE - utilizing
       the second generation Intel Core processor, Sandy Bridge CPU', updated: ! '2014-03-12
       20:30:14.910868'}
@@ -3046,8 +3049,8 @@
       href=\"http://erackshosting.com\">eRacksHosting.com</a><br />\r\n\t\t\t\t\tphone:
       714 532-5322</p>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2011-01-23 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Jan 23, 2011 - eRacks/FLAT: the Dust-proof and Silent Small
-      Form Factor Computer', published: true, slug: press/jan-23-2011-eracksflat-the-dust-proof-and-silent-small-form-factor-computer,
+    keywords: '', meta_title: '', name: 'Jan 23, 2011 - eRacks/FLAT: the Dust-proof
+      and Silent Small Form Factor Computer', published: true, slug: press/jan-23-2011-eracksflat-the-dust-proof-and-silent-small-form-factor-computer,
     template: quickpages/press.html, title: 'Jan 23, 2011 - eRacks/FLAT: the Dust-proof
       and Silent Small Form Factor Computer', updated: ! '2014-03-12 20:30:14.957958'}
   model: quickpages.quickpage
@@ -3105,9 +3108,9 @@
       />\r\n\t\t\thttp://www.eRacks.com<br />\r\n\t\t\thttp://www.eRacksHosting.com<br
       />\r\n\t\t\tphone: 714 532-5322</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2010-12-22 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Dec 22, 2010 - eRacks introduces the first 150TB storage
-      server, bringing affordable petabyte-class storage to a space-hungry market.',
-    published: true, slug: press/dec-22-2010-eracks-introduces-the-first-150tb-storage-server-bringing-affordable-petabyte-class-storage-to-a-space-hungry-market,
+    keywords: '', meta_title: '', name: 'Dec 22, 2010 - eRacks introduces the first
+      150TB storage server, bringing affordable petabyte-class storage to a space-hungry
+      market.', published: true, slug: press/dec-22-2010-eracks-introduces-the-first-150tb-storage-server-bringing-affordable-petabyte-class-storage-to-a-space-hungry-market,
     template: quickpages/press.html, title: 'Dec 22, 2010 - eRacks introduces the
       first 150TB storage server, bringing affordable petabyte-class storage to a
       space-hungry market.', updated: ! '2014-03-12 20:30:14.975823'}
@@ -3161,8 +3164,8 @@
       of restrictions, licenses, and vendor lock-in. That&#39;s why eRacks believes
       the future lies in Open Source software.</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2010-09-24 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Sep 24, 2010 -      eRacks presents the OPT4100 AMD low energy,
-      high power, affordable server.', published: true, slug: press/sep-24-2010-eracks-presents-the-opt4100-amd-low-energy-high-power-affordable-server,
+    keywords: '', meta_title: '', name: 'Sep 24, 2010 -      eRacks presents the OPT4100
+      AMD low energy, high power, affordable server.', published: true, slug: press/sep-24-2010-eracks-presents-the-opt4100-amd-low-energy-high-power-affordable-server,
     template: quickpages/press.html, title: 'Sep 24, 2010 -      eRacks presents the
       OPT4100 AMD low energy, high power, affordable server.', updated: ! '2014-03-12
       20:30:14.991118'}
@@ -3221,8 +3224,8 @@
       purchasers.</p>\r\n\t<p>\r\n\t\t<a href=\"/products/amd-systems/OPTERNATOR48\">http://eracks.com/products/OPTERNATOR48</a></p>\r\n\t<p>\r\n\t\teRacks
       Open Source Systems<br />\r\n\t\twww.eRacks.com<br />\r\n\t\tPhone: 714 532-5322</p>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2010-05-13 00:00:00', css: '', description: '', heading: false, javascript: '',
-    keywords: '', name: 'May 13, 2010 - eRacks releases the Opternator', published: true,
-    slug: press/may-13-2010-eracks-releases-the-opternator, template: quickpages/press.html,
+    keywords: '', meta_title: '', name: 'May 13, 2010 - eRacks releases the Opternator',
+    published: true, slug: press/may-13-2010-eracks-releases-the-opternator, template: quickpages/press.html,
     title: 'May 13, 2010 - eRacks releases the Opternator', updated: ! '2014-03-12
       20:30:15.005056'}
   model: quickpages.quickpage
@@ -3319,8 +3322,9 @@
       \                   eRacks Open Source Systems<br/>\n                    www.eRacks.com<br/>\n
       \                   Phone: 714 532-5322<br/>\n                  </p>\n                </div>\n
       \             ", created: ! '2010-01-26 00:00:00', css: '', description: '',
-    heading: false, javascript: '', keywords: '', name: 'January 26, 2010 - eRacks
-      Introduces largest NAS & DAS storage systems', published: true, slug: press/january-26-2010-eracks-introduces-largest-nas-das-storage-systems,
+    heading: false, javascript: '', keywords: '', meta_title: '', name: 'January 26,
+      2010 - eRacks Introduces largest NAS & DAS storage systems', published: true,
+    slug: press/january-26-2010-eracks-introduces-largest-nas-das-storage-systems,
     template: quickpages/press.html, title: 'January 26, 2010 - eRacks Introduces
       largest NAS & DAS storage systems', updated: ! '2014-03-12 20:30:15.031473'}
   model: quickpages.quickpage
@@ -3388,10 +3392,10 @@
       \                   www.eRacks.com<br/>\n                    Phone: 714 532-5322<br/>\n
       \                 </p>\n                </div>\n              ", created: ! '2009-08-26
       00:00:00', css: '', description: '', heading: false, javascript: '', keywords: '',
-    name: 'August 26, 2009 - eRacks introduces Cash for PC Clunkers program', published: true,
-    slug: press/august-26-2009-eracks-introduces-cash-for-pc-clunkers-program, template: quickpages/press.html,
-    title: 'August 26, 2009 - eRacks introduces Cash for PC Clunkers program', updated: ! '2014-03-12
-      20:30:15.050020'}
+    meta_title: '', name: 'August 26, 2009 - eRacks introduces Cash for PC Clunkers
+      program', published: true, slug: press/august-26-2009-eracks-introduces-cash-for-pc-clunkers-program,
+    template: quickpages/press.html, title: 'August 26, 2009 - eRacks introduces Cash
+      for PC Clunkers program', updated: ! '2014-03-12 20:30:15.050020'}
   model: quickpages.quickpage
   pk: 87
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<div
@@ -3432,8 +3436,8 @@
       Open Source Systems<br />\r\n\t\t\twww.eRacks.com<br />\r\n\t\t\tPhone: 714
       532-5322</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2009-07-16
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'July 16, 2009 - eRacks Latest Virtualization Server Utilizes the Six-Core
-      AMD Opteron Processor', published: true, slug: press/july-16-2009-eracks-latest-virtualization-server-utilizes-the-six-core-amd-opteron-processor,
+    meta_title: '', name: 'July 16, 2009 - eRacks Latest Virtualization Server Utilizes
+      the Six-Core AMD Opteron Processor', published: true, slug: press/july-16-2009-eracks-latest-virtualization-server-utilizes-the-six-core-amd-opteron-processor,
     template: quickpages/press.html, title: 'July 16, 2009 - eRacks Latest Virtualization
       Server Utilizes the Six-Core AMD Opteron Processor', updated: ! '2014-03-12
       20:30:15.063511'}
@@ -3469,8 +3473,8 @@
       Open Source Systems<br />\r\n\t\t\twww.eRacks.com<br />\r\n\t\t\tPhone: 714
       532-5322</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2009-06-01
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'June 01, 2009 - eRacks Introduces an Energy-Saving Quad-Core Xeon 5000
-      Rackmount Server, the eRacks/NSERVE', published: true, slug: press/june-01-2009-eracks-introduces-an-energy-saving-quad-core-xeon-5000-rackmount-server-the-eracksnserve,
+    meta_title: '', name: 'June 01, 2009 - eRacks Introduces an Energy-Saving Quad-Core
+      Xeon 5000 Rackmount Server, the eRacks/NSERVE', published: true, slug: press/june-01-2009-eracks-introduces-an-energy-saving-quad-core-xeon-5000-rackmount-server-the-eracksnserve,
     template: quickpages/press.html, title: 'June 01, 2009 - eRacks Introduces an
       Energy-Saving Quad-Core Xeon 5000 Rackmount Server, the eRacks/NSERVE', updated: ! '2014-03-12
       20:30:15.592586'}
@@ -3515,8 +3519,8 @@
       eRacks, contact:<br />\r\n\t\t\teRacks Open Source Systems,<br />\r\n\t\t\thttp://www.eRacks.com<br
       />\r\n\t\t\thttp://www.eRacksHosting.com<br />\r\n\t\t\tphone: 714 532-5322</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2009-04-07 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Apr 07, 2009 - eRacks Introduces a Behemoth 100TB Capacity
-      8U Rackmount Server', published: true, slug: press/apr-07-2009-eracks-introduces-a-behemoth-100tb-capacity-8u-rackmount-server,
+    keywords: '', meta_title: '', name: 'Apr 07, 2009 - eRacks Introduces a Behemoth
+      100TB Capacity 8U Rackmount Server', published: true, slug: press/apr-07-2009-eracks-introduces-a-behemoth-100tb-capacity-8u-rackmount-server,
     template: quickpages/press.html, title: 'Apr 07, 2009 - eRacks Introduces a Behemoth
       100TB Capacity 8U Rackmount Server', updated: ! '2014-03-12 20:30:15.082855'}
   model: quickpages.quickpage
@@ -3549,8 +3553,8 @@
       eRacks, contact:<br />\r\n\t\t\teRacks Open Source Systems,<br />\r\n\t\t\thttp://www.eRacks.com<br
       />\r\n\t\t\thttp://www.eRacksHosting.com<br />\r\n\t\t\tphone: 714 532-5322</p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2009-03-06 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Mar 06, 2009 - eRacks to debut AMD AM3 rackmount server with
-      triple/quad core Phenom II CPUs', published: true, slug: press/mar-06-2009-eracks-to-debut-amd-am3-rackmount-server-with-triplequad-core-phenom-ii-cpus,
+    keywords: '', meta_title: '', name: 'Mar 06, 2009 - eRacks to debut AMD AM3 rackmount
+      server with triple/quad core Phenom II CPUs', published: true, slug: press/mar-06-2009-eracks-to-debut-amd-am3-rackmount-server-with-triplequad-core-phenom-ii-cpus,
     template: quickpages/press.html, title: 'Mar 06, 2009 - eRacks to debut AMD AM3
       rackmount server with triple/quad core Phenom II CPUs', updated: ! '2014-03-12
       20:30:15.365475'}
@@ -3589,8 +3593,8 @@
       target=\"new\">prlog.com</a></p>\r\n\t\t<p>\r\n\t\t\t<a href=\"http://www.prweb.com/releases/2009/02/prweb2169034.htm\"
       target=\"new\">prweb.com</a></p>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2009-02-23 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Feb 23, 2009 - eRacks Announces New Shallow-Depth Rackmount
-      Server for Broadcast and Audio Studios', published: true, slug: press/feb-23-2009-eracks-announces-new-shallow-depth-rackmount-server-for-broadcast-and-audio-studios,
+    keywords: '', meta_title: '', name: 'Feb 23, 2009 - eRacks Announces New Shallow-Depth
+      Rackmount Server for Broadcast and Audio Studios', published: true, slug: press/feb-23-2009-eracks-announces-new-shallow-depth-rackmount-server-for-broadcast-and-audio-studios,
     template: quickpages/press.html, title: 'Feb 23, 2009 - eRacks Announces New Shallow-Depth
       Rackmount Server for Broadcast and Audio Studios', updated: ! '2014-03-12 20:30:15.190321'}
   model: quickpages.quickpage
@@ -3634,8 +3638,8 @@
       />\r\n\tphone: 714 532-5322</p>\r\n<p>\r\n\tThe Libre Group, consultants specializing
       in open source migration for the enterprise.<br />\r\n\thttp://www.thelibregroup.com/</p>\r\n",
     created: ! '2009-02-11 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Feb 11, 2009 - eRacks Announces Significant Uptick in Demand
-      for Open Source Systems', published: true, slug: press/feb-11-2009-eracks-announces-significant-uptick-in-demand-for-open-source-systems,
+    keywords: '', meta_title: '', name: 'Feb 11, 2009 - eRacks Announces Significant
+      Uptick in Demand for Open Source Systems', published: true, slug: press/feb-11-2009-eracks-announces-significant-uptick-in-demand-for-open-source-systems,
     template: quickpages/press.html, title: 'Feb 11, 2009 - eRacks Announces Significant
       Uptick in Demand for Open Source Systems', updated: ! '2014-03-12 20:30:15.208292'}
   model: quickpages.quickpage
@@ -3692,9 +3696,9 @@
       \                   www.eRacks.com<br/>\n                    Phone: 714 532-5322<br/>\n
       \                 </p>\n                </div>\n              ", created: ! '2012-05-18
       00:00:00', css: '', description: '', heading: false, javascript: '', keywords: '',
-    name: 'May 18, 2012 - eRacks Announces AresPro Line of High Performance Desktop
-      Computers Tailored For Engineers, Graphic Designers, Video Editors, and High-End
-      Gamers', published: true, slug: press/may-18-2012-eracks-announces-arespro-line-of-high-performance-desktop-computers-tailored-for-engineers-graphic-designers-video-editors-and-high-end-gamers,
+    meta_title: '', name: 'May 18, 2012 - eRacks Announces AresPro Line of High Performance
+      Desktop Computers Tailored For Engineers, Graphic Designers, Video Editors,
+      and High-End Gamers', published: true, slug: press/may-18-2012-eracks-announces-arespro-line-of-high-performance-desktop-computers-tailored-for-engineers-graphic-designers-video-editors-and-high-end-gamers,
     template: quickpages/press.html, title: 'May 18, 2012 - eRacks Announces AresPro
       Line of High Performance Desktop Computers Tailored For Engineers, Graphic Designers,
       Video Editors, and High-End Gamers', updated: ! '2014-03-12 20:30:15.230530'}
@@ -3739,8 +3743,8 @@
       Open Source Systems<br/>\n                    www.eRacks.com<br/>\n                    Phone:
       714 532-5322<br/>\n                  </p>\n                </div>\n              ",
     created: ! '2011-07-05 00:00:00', css: '', description: '', heading: false, javascript: '',
-    keywords: '', name: 'July 5, 2011 - eRacks releases Intel Xeon E7-4800 and E7-8800
-      series rackmount servers', published: true, slug: press/july-5-2011-eracks-releases-intel-xeon-e7-4800-and-e7-8800-series-rackmount-servers,
+    keywords: '', meta_title: '', name: 'July 5, 2011 - eRacks releases Intel Xeon
+      E7-4800 and E7-8800 series rackmount servers', published: true, slug: press/july-5-2011-eracks-releases-intel-xeon-e7-4800-and-e7-8800-series-rackmount-servers,
     template: quickpages/press.html, title: 'July 5, 2011 - eRacks releases Intel
       Xeon E7-4800 and E7-8800 series rackmount servers', updated: ! '2014-03-12 20:30:15.271055'}
   model: quickpages.quickpage
@@ -3782,8 +3786,8 @@
       for buying in bulk. For more information, visit the eRacks website at <a href=\"http://www.eracks.com\">http://www.eracks.com</a>
       or call (714) 532-5322.</p>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2011-04-29 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Apr 29, 2011 - 10 Gigabit Ethernet Connectivity Available
-      on eRacks Rackmount Servers.', published: true, slug: press/apr-29-2011-10-gigabit-ethernet-connectivity-available-on-eracks-rackmount-servers,
+    keywords: '', meta_title: '', name: 'Apr 29, 2011 - 10 Gigabit Ethernet Connectivity
+      Available on eRacks Rackmount Servers.', published: true, slug: press/apr-29-2011-10-gigabit-ethernet-connectivity-available-on-eracks-rackmount-servers,
     template: quickpages/press.html, title: 'Apr 29, 2011 - 10 Gigabit Ethernet Connectivity
       Available on eRacks Rackmount Servers.', updated: ! '2014-03-12 20:30:15.297298'}
   model: quickpages.quickpage
@@ -3829,8 +3833,8 @@
       <a href=\"http://venturebeat.com/2009/01/01/android-netbooks-on-their-way-likely-by-2010/\"
       target=\"_blank\">http://venturebeat.com/2009/01/01/android-netbooks-on-their-way-likely-by-2010/</a></p>\r\n",
     created: ! '2009-01-08 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Jan 08, 2009 - eRacks offers top netbooks preinstalled with
-      Ubuntu and Fedora Linux', published: true, slug: press/jan-08-2009-eracks-offers-top-netbooks-preinstalled-with-ubuntu-and-fedora-linux,
+    keywords: '', meta_title: '', name: 'Jan 08, 2009 - eRacks offers top netbooks
+      preinstalled with Ubuntu and Fedora Linux', published: true, slug: press/jan-08-2009-eracks-offers-top-netbooks-preinstalled-with-ubuntu-and-fedora-linux,
     template: quickpages/press.html, title: 'Jan 08, 2009 - eRacks offers top netbooks
       preinstalled with Ubuntu and Fedora Linux', updated: ! '2014-03-12 20:30:15.350171'}
   model: quickpages.quickpage
@@ -3876,8 +3880,8 @@
       more information on eRacks, contact:<br />\r\n\teRacks Open Source Systems,<br
       />\r\n\thttp://www.eRacks.com<br />\r\n\tphone: 714 532-5322</p>\r\n", created: ! '2008-12-15
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'Dec 15, 2008 - eRacks  Announces a Linux Intel Core i7 Desktop Computer',
-    published: true, slug: press/dec-15-2008-eracks-announces-a-linux-intel-core-i7-desktop-computer,
+    meta_title: '', name: 'Dec 15, 2008 - eRacks  Announces a Linux Intel Core i7
+      Desktop Computer', published: true, slug: press/dec-15-2008-eracks-announces-a-linux-intel-core-i7-desktop-computer,
     template: quickpages/press.html, title: 'Dec 15, 2008 - eRacks  Announces a Linux
       Intel Core i7 Desktop Computer', updated: ! '2014-03-12 20:30:14.927418'}
   model: quickpages.quickpage
@@ -3936,9 +3940,9 @@
       on eRacks, contact:<br />\r\n\teRacks Open Source Systems,<br />\r\n\thttp://www.eRacks.com<br
       />\r\n\thttp://www.eRacksHosting.com<br />\r\n\temail: info@erackshosting.com<br
       />\r\n\tphone: 714 532-5322</p>\r\n", created: ! '2007-12-07 00:00:00', css: '',
-    description: '', heading: true, javascript: '', keywords: '', name: 'Dec 7, 2007
-      - eRacks Open Source Systems announces eRacks Hosting, a division offering dedicated
-      hosting services.', published: true, slug: press/dec-7-2007-eracks-open-source-systems-announces-eracks-hosting-a-division-offering-dedicated-hosting-services,
+    description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: 'Dec 7, 2007 - eRacks Open Source Systems announces eRacks Hosting, a division
+      offering dedicated hosting services.', published: true, slug: press/dec-7-2007-eracks-open-source-systems-announces-eracks-hosting-a-division-offering-dedicated-hosting-services,
     template: quickpages/press.html, title: 'Dec 7, 2007 - eRacks Open Source Systems
       announces eRacks Hosting, a division offering dedicated hosting services.',
     updated: ! '2014-03-12 20:30:15.096782'}
@@ -4005,8 +4009,8 @@
       to listen closely to the channel, conceive and adapt services per demand, and
       develop solutions that best fit the needs of our partners,&quot; Bonnefon concluded.</p>\r\n<p>\r\n\t&mdash;Steven
       J. Vaughan-Nichols</p>\r\n", created: ! '2007-10-19 00:00:00', css: '', description: '',
-    heading: true, javascript: '', keywords: '', name: 'Oct 19, 2007 - Desktop Linux:
-      The wide world of pre-installed Ubuntu', published: true, slug: press/oct-19-2007-desktop-linux-the-wide-world-of-pre-installed-ubuntu,
+    heading: true, javascript: '', keywords: '', meta_title: '', name: 'Oct 19, 2007
+      - Desktop Linux: The wide world of pre-installed Ubuntu', published: true, slug: press/oct-19-2007-desktop-linux-the-wide-world-of-pre-installed-ubuntu,
     template: quickpages/press.html, title: 'Oct 19, 2007 - Desktop Linux: The wide
       world of pre-installed Ubuntu', updated: ! '2014-03-12 20:30:15.115028'}
   model: quickpages.quickpage
@@ -4075,10 +4079,10 @@
       Wikipedia&#39;s entry on &quot;Virtual machine&quot;<br />\r\n\t<a href=\"http://en.wikipedia.org/wiki/Virtual_machine\"
       target=\"new\">http://en.wikipedia.org/wiki/Virtual_machine</a></p>\r\n", created: ! '2007-08-01
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'Aug 1, 2007 - eRacks offers a Virtualization Server Solution', published: true,
-    slug: press/aug-1-2007-eracks-offers-a-virtualization-server-solution, template: quickpages/press.html,
-    title: 'Aug 1, 2007 - eRacks offers a Virtualization Server Solution', updated: ! '2014-03-12
-      20:30:15.332161'}
+    meta_title: '', name: 'Aug 1, 2007 - eRacks offers a Virtualization Server Solution',
+    published: true, slug: press/aug-1-2007-eracks-offers-a-virtualization-server-solution,
+    template: quickpages/press.html, title: 'Aug 1, 2007 - eRacks offers a Virtualization
+      Server Solution', updated: ! '2014-03-12 20:30:15.332161'}
   model: quickpages.quickpage
   pk: 107
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\t<a
@@ -4153,8 +4157,8 @@
       />\r\n\tFor information on direct donations to OpenBSD and OpenSSH, please see<br
       />\r\n\thttp://www.OpenBSD.org/donations.html<br />\r\n\thttp://www.openSSH.com/donations.html</p>\r\n",
     created: ! '2007-02-27 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Feb 27, 2007 - eRacks enables donations to OpenBSD with rackmount
-      server sales', published: true, slug: press/feb-27-2007-eracks-enables-donations-to-openbsd-with-rackmount-server-sales,
+    keywords: '', meta_title: '', name: 'Feb 27, 2007 - eRacks enables donations to
+      OpenBSD with rackmount server sales', published: true, slug: press/feb-27-2007-eracks-enables-donations-to-openbsd-with-rackmount-server-sales,
     template: quickpages/press.html, title: 'Feb 27, 2007 - eRacks enables donations
       to OpenBSD with rackmount server sales', updated: ! '2014-03-12 20:30:15.138562'}
   model: quickpages.quickpage
@@ -4228,9 +4232,9 @@
       >                  **Canonical Ltd:**<br/>\n                  *Christina Armstrong,
       Communications Manager *<br/>\n                  *T: +44 (0) 207 590 2551 *\n
       \               </p>\n              ", created: ! '2007-02-16 00:00:00', css: '',
-    description: '', heading: false, javascript: '', keywords: '', name: 'Feb 16,
-      2007 - eRacks partners with Canonical to promote Ubuntu Linux', published: true,
-    slug: press/feb-16-2007-eracks-partners-with-canonical-to-promote-ubuntu-linux,
+    description: '', heading: false, javascript: '', keywords: '', meta_title: '',
+    name: 'Feb 16, 2007 - eRacks partners with Canonical to promote Ubuntu Linux',
+    published: true, slug: press/feb-16-2007-eracks-partners-with-canonical-to-promote-ubuntu-linux,
     template: quickpages/press.html, title: 'Feb 16, 2007 - eRacks partners with Canonical
       to promote Ubuntu Linux', updated: ! '2014-03-12 20:30:15.149698'}
   model: quickpages.quickpage
@@ -4323,10 +4327,11 @@
       means a server room is less of a requirement down the road, and admins can keep
       systems in the same office and have easy access to server utilities and monitoring
       software.</p>\r\n<p>\r\n\tby John Brandon</p>\r\n", created: ! '2006-12-08 00:00:00',
-    css: '', description: '', heading: true, javascript: '', keywords: '', name: 'Dec
-      8, 2006 -  Processor Magazine: Server Quietization', published: true, slug: press/dec-8-2006-processor-magazine-server-quietization,
-    template: quickpages/press.html, title: 'Dec 8, 2006 -  Processor Magazine: Server
-      Quietization', updated: ! '2014-03-12 20:30:15.500056'}
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: 'Dec 8, 2006 -  Processor Magazine: Server Quietization', published: true,
+    slug: press/dec-8-2006-processor-magazine-server-quietization, template: quickpages/press.html,
+    title: 'Dec 8, 2006 -  Processor Magazine: Server Quietization', updated: ! '2014-03-12
+      20:30:15.500056'}
   model: quickpages.quickpage
   pk: 110
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\t<a
@@ -4374,8 +4379,8 @@
       on request and provides consulting, network configuration, and open-source enterprise
       migration planning.</p>\r\n<p>\r\n\tby Joe Lazzaro</p>\r\n", created: ! '2006-09-29
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'Sept 29, 2006 -  Processor Magazine: Ready-To-Run Desktops & Servers',
-    published: true, slug: press/sept-29-2006-processor-magazine-ready-to-run-desktops-servers,
+    meta_title: '', name: 'Sept 29, 2006 -  Processor Magazine: Ready-To-Run Desktops
+      & Servers', published: true, slug: press/sept-29-2006-processor-magazine-ready-to-run-desktops-servers,
     template: quickpages/press.html, title: 'Sept 29, 2006 -  Processor Magazine:
       Ready-To-Run Desktops & Servers', updated: ! '2014-03-12 20:30:15.617421'}
   model: quickpages.quickpage
@@ -4435,8 +4440,9 @@
       Ubuntu-specific enterprise-level support by Ubuntu developers: http://www.canonical.com/support</p>\r\n<p>\r\n\t<a
       href=\"http://ubuntu.com\" target=\"new\"><img alt=\"\" border=\"0\" src=\"/images/press/getubuntu.png\"
       /></a></p>\r\n", created: ! '2006-08-10 00:00:00', css: '', description: '',
-    heading: true, javascript: '', keywords: '', name: 'August 10, 2006 -  eRacks
-      offers ready-to-run Ubuntu desktops and servers.', published: true, slug: press/august-10-2006-eracks-offers-ready-to-run-ubuntu-desktops-and-servers,
+    heading: true, javascript: '', keywords: '', meta_title: '', name: 'August 10,
+      2006 -  eRacks offers ready-to-run Ubuntu desktops and servers.', published: true,
+    slug: press/august-10-2006-eracks-offers-ready-to-run-ubuntu-desktops-and-servers,
     template: quickpages/press.html, title: 'August 10, 2006 -  eRacks offers ready-to-run
       Ubuntu desktops and servers.', updated: ! '2014-03-12 20:30:15.509525'}
   model: quickpages.quickpage
@@ -4491,8 +4497,8 @@
       on proactive security<br />\r\n\t<a href=\"http://www.openbsd.org/index.html\">http://www.openbsd.org/index.html</a></p>\r\n<p>\r\n\t2.
       Common Address Redundancy Protocol (CARP):<br />\r\n\t<a href=\"http://www.openbsd.org/faq/faq6.html#CARP\">http://www.openbsd.org/faq/faq6.html#CARP</a></p>\r\n",
     created: ! '2005-05-25 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'May 25, 2005 -  Dual Redundant Firewalls with Failover in
-      Single 1U Rackmount Offered by eRacks', published: true, slug: press/may-25-2005-dual-redundant-firewalls-with-failover-in-single-1u-rackmount-offered-by-eracks,
+    keywords: '', meta_title: '', name: 'May 25, 2005 -  Dual Redundant Firewalls
+      with Failover in Single 1U Rackmount Offered by eRacks', published: true, slug: press/may-25-2005-dual-redundant-firewalls-with-failover-in-single-1u-rackmount-offered-by-eracks,
     template: quickpages/press.html, title: 'May 25, 2005 -  Dual Redundant Firewalls
       with Failover in Single 1U Rackmount Offered by eRacks', updated: ! '2014-03-12
       20:30:15.524179'}
@@ -4538,8 +4544,8 @@
       contact:</p>\r\n<p>\r\n\teRacks Open Source Systems<br />\r\n\tinfo@eRacks.com<br
       />\r\n\tphone: +949 376 9220<br />\r\n\thttp://www.eracks.com</p>\r\n", created: ! '2005-02-01
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'Feb 1, 2005 - eRacks Open Source Systems Enables & Matches Donation to
-      EFF', published: true, slug: press/feb-1-2005-eracks-open-source-systems-enables-matches-donation-to-eff,
+    meta_title: '', name: 'Feb 1, 2005 - eRacks Open Source Systems Enables & Matches
+      Donation to EFF', published: true, slug: press/feb-1-2005-eracks-open-source-systems-enables-matches-donation-to-eff,
     template: quickpages/press.html, title: 'Feb 1, 2005 - eRacks Open Source Systems
       Enables & Matches Donation to EFF', updated: ! '2014-03-12 20:30:15.439196'}
   model: quickpages.quickpage
@@ -4585,10 +4591,10 @@
       more information contact:</p>\r\n<p>\r\n\teRacks Open Source Systems<br />\r\n\tinfo@eRacks.com<br
       />\r\n\tphone: +949 376 9220<br />\r\n\thttp://www.eracks.com</p>\r\n", created: ! '2004-09-28
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'Sep 28, 2004 - eRacks Open Source Systems offers Leasing', published: true,
-    slug: press/sep-28-2004-eracks-open-source-systems-offers-leasing, template: quickpages/press.html,
-    title: 'Sep 28, 2004 - eRacks Open Source Systems offers Leasing', updated: ! '2014-03-12
-      20:30:15.457085'}
+    meta_title: '', name: 'Sep 28, 2004 - eRacks Open Source Systems offers Leasing',
+    published: true, slug: press/sep-28-2004-eracks-open-source-systems-offers-leasing,
+    template: quickpages/press.html, title: 'Sep 28, 2004 - eRacks Open Source Systems
+      offers Leasing', updated: ! '2014-03-12 20:30:15.457085'}
   model: quickpages.quickpage
   pk: 115
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\t<a
@@ -4623,8 +4629,8 @@
       />\r\n\tphone: +949 376 9220<br />\r\n\thttp://www.eracks.com</p>\r\n<p>\r\n\tNote:
       AMD and AMD Opteron are trademarks of Advanced Micro Devices, Inc.</p>\r\n",
     created: ! '2004-08-03 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Aug 3, 2004 - eRacks Introduces a 4-way Opteron Server',
-    published: true, slug: press/aug-3-2004-eracks-introduces-a-4-way-opteron-server,
+    keywords: '', meta_title: '', name: 'Aug 3, 2004 - eRacks Introduces a 4-way Opteron
+      Server', published: true, slug: press/aug-3-2004-eracks-introduces-a-4-way-opteron-server,
     template: quickpages/press.html, title: 'Aug 3, 2004 - eRacks Introduces a 4-way
       Opteron Server', updated: ! '2014-03-12 20:30:15.466712'}
   model: quickpages.quickpage
@@ -4672,10 +4678,11 @@
       H. Elabbadi<br />\r\n\tDirector of Marketing &amp; Sales<br />\r\n\teRacks Open
       Source Systems<br />\r\n\tinfo@eRacks.com<br />\r\n\tphone: +949 376 9220<br
       />\r\n\thttp://www.eracks.com</p>\r\n", created: ! '2004-03-18 00:00:00', css: '',
-    description: '', heading: true, javascript: '', keywords: '', name: 'Mar 18, 2004
-      - eRacks Offers a New Level of Server Customization', published: true, slug: press/mar-18-2004-eracks-offers-a-new-level-of-server-customization,
-    template: quickpages/press.html, title: 'Mar 18, 2004 - eRacks Offers a New Level
-      of Server Customization', updated: ! '2014-03-12 20:30:15.482205'}
+    description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: 'Mar 18, 2004 - eRacks Offers a New Level of Server Customization', published: true,
+    slug: press/mar-18-2004-eracks-offers-a-new-level-of-server-customization, template: quickpages/press.html,
+    title: 'Mar 18, 2004 - eRacks Offers a New Level of Server Customization', updated: ! '2014-03-12
+      20:30:15.482205'}
   model: quickpages.quickpage
   pk: 117
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\t<a
@@ -4707,10 +4714,10 @@
       9220<br />\r\n\t<a href=\"http://eracks.com\">http://eracks.com</a></p>\r\n<p>\r\n\tNote:
       Intel and Centrino are trademarks owned by the Intel Corporation.</p>\r\n",
     created: ! '2003-12-31 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Dec 31, 2003 - eRacks Announces Linux Centrino Laptop', published: true,
-    slug: press/dec-31-2003-eracks-announces-linux-centrino-laptop, template: quickpages/press.html,
-    title: 'Dec 31, 2003 - eRacks Announces Linux Centrino Laptop', updated: ! '2014-03-12
-      20:30:15.166353'}
+    keywords: '', meta_title: '', name: 'Dec 31, 2003 - eRacks Announces Linux Centrino
+      Laptop', published: true, slug: press/dec-31-2003-eracks-announces-linux-centrino-laptop,
+    template: quickpages/press.html, title: 'Dec 31, 2003 - eRacks Announces Linux
+      Centrino Laptop', updated: ! '2014-03-12 20:30:15.166353'}
   model: quickpages.quickpage
   pk: 118
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\t<a
@@ -4749,10 +4756,10 @@
       href=\"mailto:info@eracks.com\">info@eRacks.com</a><br />\r\n\tphone: +949 376
       9220<br />\r\n\t<a href=\"http://eracks.com\">http://eracks.com</a></p>\r\n",
     created: ! '2003-10-21 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Oct 21, 2003 - eRacks Expands Line of Quiet Computers', published: true,
-    slug: press/oct-21-2003-eracks-expands-line-of-quiet-computers, template: quickpages/press.html,
-    title: 'Oct 21, 2003 - eRacks Expands Line of Quiet Computers', updated: ! '2014-03-12
-      20:30:15.491744'}
+    keywords: '', meta_title: '', name: 'Oct 21, 2003 - eRacks Expands Line of Quiet
+      Computers', published: true, slug: press/oct-21-2003-eracks-expands-line-of-quiet-computers,
+    template: quickpages/press.html, title: 'Oct 21, 2003 - eRacks Expands Line of
+      Quiet Computers', updated: ! '2014-03-12 20:30:15.491744'}
   model: quickpages.quickpage
   pk: 119
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\t<a
@@ -4784,8 +4791,8 @@
       &amp; Sales<br />\r\n\t<a href=\"mailto:info@eracks.com\">info@eRacks.com</a><br
       />\r\n\tphone: +949 376 9220<br />\r\n\t<a href=\"http://eracks.com\">http://eracks.com</a></p>\r\n",
     created: ! '2003-10-08 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Oct 8, 2003 - eRacks Contributes Web & Mail Server to OCLUG',
-    published: true, slug: press/oct-8-2003-eracks-contributes-web-mail-server-to-oclug,
+    keywords: '', meta_title: '', name: 'Oct 8, 2003 - eRacks Contributes Web & Mail
+      Server to OCLUG', published: true, slug: press/oct-8-2003-eracks-contributes-web-mail-server-to-oclug,
     template: quickpages/press.html, title: 'Oct 8, 2003 - eRacks Contributes Web
       & Mail Server to OCLUG', updated: ! '2014-03-12 20:30:15.387123'}
   model: quickpages.quickpage
@@ -4823,8 +4830,8 @@
       of Marketing &amp; Sales<br />\r\n\t<a href=\"mailto:info@eracks.com\">info@eRacks.com</a><br
       />\r\n\tphone: +949 376 9220<br />\r\n\t<a href=\"http://eracks.com\">http://eracks.com</a></p>\r\n",
     created: ! '2003-09-22 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Sep 22, 2003 - eRacks Mirrors Two Terabytes in RealTime',
-    published: true, slug: press/sep-22-2003-eracks-mirrors-two-terabytes-in-realtime,
+    keywords: '', meta_title: '', name: 'Sep 22, 2003 - eRacks Mirrors Two Terabytes
+      in RealTime', published: true, slug: press/sep-22-2003-eracks-mirrors-two-terabytes-in-realtime,
     template: quickpages/press.html, title: 'Sep 22, 2003 - eRacks Mirrors Two Terabytes
       in RealTime', updated: ! '2014-03-12 20:30:15.558766'}
   model: quickpages.quickpage
@@ -4858,8 +4865,8 @@
       H. Elabbadi<br />\r\n\tDirector of Marketing &amp; Sales<br />\r\n\t<a href=\"mailto:info@eracks.com\">info@eRacks.com</a><br
       />\r\n\tphone: +949 376 9220<br />\r\n\t<a href=\"http://eracks.com\">http://eracks.com</a></p>\r\n",
     created: ! '2003-06-27 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Jun 27, 2003 - eRacks Presents QUIET Rackmount Systems',
-    published: true, slug: press/jun-27-2003-eracks-presents-quiet-rackmount-systems,
+    keywords: '', meta_title: '', name: 'Jun 27, 2003 - eRacks Presents QUIET Rackmount
+      Systems', published: true, slug: press/jun-27-2003-eracks-presents-quiet-rackmount-systems,
     template: quickpages/press.html, title: 'Jun 27, 2003 - eRacks Presents QUIET
       Rackmount Systems', updated: ! '2014-03-12 20:30:15.567024'}
   model: quickpages.quickpage
@@ -4889,10 +4896,10 @@
       Elabbadi<br />\r\n\tDirector of Marketing &amp; Sales<br />\r\n\t<a href=\"mailto:info@eracks.com\">info@eRacks.com</a><br
       />\r\n\tphone: +949 376 9220<br />\r\n\t<a href=\"http://eracks.com\">http://eracks.com</a></p>\r\n",
     created: ! '2003-05-10 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'May 10, 2003 -  eRacks Presents Open Source Laptops', published: true,
-    slug: press/may-10-2003-eracks-presents-open-source-laptops, template: quickpages/press.html,
-    title: 'May 10, 2003 -  eRacks Presents Open Source Laptops', updated: ! '2014-03-12
-      20:30:15.308691'}
+    keywords: '', meta_title: '', name: 'May 10, 2003 -  eRacks Presents Open Source
+      Laptops', published: true, slug: press/may-10-2003-eracks-presents-open-source-laptops,
+    template: quickpages/press.html, title: 'May 10, 2003 -  eRacks Presents Open
+      Source Laptops', updated: ! '2014-03-12 20:30:15.308691'}
   model: quickpages.quickpage
   pk: 123
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<p>\r\n\t<a
@@ -4927,8 +4934,8 @@
       source operating systems and software. For more information about eRacks&#39;
       complete portfolio of products and professional services, please visit <a href=\"www.eracks.com\">www.eracks.com</a>.</p>\r\n",
     created: ! '2002-02-26 00:00:00', css: '', description: '', heading: true, javascript: '',
-    keywords: '', name: 'Feb 26, 2002 - eRacks Announces ISP/ASP Partner Program',
-    published: true, slug: press/feb-26-2002-eracks-announces-ispasp-partner-program,
+    keywords: '', meta_title: '', name: 'Feb 26, 2002 - eRacks Announces ISP/ASP Partner
+      Program', published: true, slug: press/feb-26-2002-eracks-announces-ispasp-partner-program,
     template: quickpages/press.html, title: 'Feb 26, 2002 - eRacks Announces ISP/ASP
       Partner Program', updated: ! '2014-03-12 20:30:15.533710'}
   model: quickpages.quickpage
@@ -4977,16 +4984,16 @@
       376 9220<br />\r\n\tFax: 949 376 9230<br />\r\n\tinfo@eracks.com<br />\r\n\t<a
       href=\"http://eracks.com\">http://eracks.com</a></p>\r\n", created: ! '2001-04-20
       00:00:00', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: 'April 20, 2001 - eRacks offers Preconfigured Rackmount Computers', published: true,
-    slug: press/april-20-2001-eracks-offers-preconfigured-rackmount-computers, template: quickpages/press.html,
-    title: 'April 20, 2001 - eRacks offers Preconfigured Rackmount Computers', updated: ! '2014-03-12
-      20:30:15.549147'}
+    meta_title: '', name: 'April 20, 2001 - eRacks offers Preconfigured Rackmount
+      Computers', published: true, slug: press/april-20-2001-eracks-offers-preconfigured-rackmount-computers,
+    template: quickpages/press.html, title: 'April 20, 2001 - eRacks offers Preconfigured
+      Rackmount Computers', updated: ! '2014-03-12 20:30:15.549147'}
   model: quickpages.quickpage
   pk: 125
 - fields: {comments: '', content: "<p>\r\n\tgoogle-site-verification: google2e69e08250508a93.html</p>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2012-10-30 18:31:41.060256', css: '', description: '', heading: true,
-    javascript: '', keywords: '', name: google2e69e08250508a93.html, published: true,
-    slug: google2e69e08250508a93.html, template: '', title: google2e69e08250508a93.html,
+    javascript: '', keywords: '', meta_title: '', name: google2e69e08250508a93.html,
+    published: true, slug: google2e69e08250508a93.html, template: '', title: google2e69e08250508a93.html,
     updated: ! '2012-10-30 18:31:41.060205'}
   model: quickpages.quickpage
   pk: 126
@@ -5032,8 +5039,8 @@
       />\r\n\t\t<a href=\"mailto:consulting@eracks.com\">consulting@eracks.com</a></p>\r\n</div>\r\n<p>\r\n\t<strong>eMail
       is the best way to reach us</strong></p>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2012-10-31
       15:23:21.936860', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: Network, published: true, slug: services/network, template: '', title: Network
-      Services, updated: ! '2014-06-19 15:53:23.439467'}
+    meta_title: '', name: Network, published: true, slug: services/network, template: '',
+    title: Network Services, updated: ! '2014-06-19 15:53:23.439467'}
   model: quickpages.quickpage
   pk: 127
 - fields: {comments: '', content: "<style type=\"text/css\">\r\nul, li { list-style:
@@ -5068,8 +5075,9 @@
       /></p>\r\n<hr />\r\n<p>\r\n\tContact eRacks for more information.<br />\r\n\tCall:
       1 (714) 532-5322<br />\r\n\tEmail: <a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n",
     created: ! '2012-10-31 16:20:06.771342', css: '', description: '', heading: true,
-    javascript: '', keywords: '', name: Open Mirror, published: true, slug: services/open-mirror,
-    template: '', title: Open Mirror Dev Services, updated: ! '2012-10-31 16:29:02.387789'}
+    javascript: '', keywords: '', meta_title: '', name: Open Mirror, published: true,
+    slug: services/open-mirror, template: '', title: Open Mirror Dev Services, updated: ! '2012-10-31
+      16:29:02.387789'}
   model: quickpages.quickpage
   pk: 128
 - fields: {comments: '', content: "<p>\r\n\t9/9 Mon</p>\r\n<p>\r\n\teracks 10 up n
@@ -5098,9 +5106,9 @@
       (714) 758-5423</b><br />\r\n\tFax: (631) 392-9842</p>\r\n<p>\r\n\tper the below
       list:</p>\r\n<p>\r\n\taddress &amp; phone / emails in many places:</p>\r\n<p>\r\n\tcontact</p>\r\n<p>\r\n\tcorporate</p>\r\n<p>\r\n\tservices</p>\r\n<p>\r\n\tblog
       about</p>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2013-09-08 17:32:50.519983',
-    css: '', description: '', heading: true, javascript: '', keywords: '', name: Todo,
-    published: false, slug: todo, template: '', title: Todo list - internal, updated: ! '2013-09-10
-      13:04:31.217594'}
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Todo, published: false, slug: todo, template: '', title: Todo list - internal,
+    updated: ! '2013-09-10 13:04:31.217594'}
   model: quickpages.quickpage
   pk: 129
 - fields: {comments: '', content: "<style type=\"text/css\">\r\nul { list-style: inside
@@ -5139,8 +5147,8 @@
       to jobs@eracks.com</p>\r\n<p>\r\n\tInclude resume, job history, desired hourly
       rate and availability</p>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2013-09-20
       11:43:15.431935', css: '', description: '', heading: true, javascript: '', keywords: '',
-    name: Jobs, published: true, slug: jobs, template: '', title: eRacks open positions,
-    updated: ! '2013-09-20 12:25:23.275327'}
+    meta_title: '', name: Jobs, published: true, slug: jobs, template: '', title: eRacks
+      open positions, updated: ! '2013-09-20 12:25:23.275327'}
   model: quickpages.quickpage
   pk: 130
 - fields: {comments: '', content: "<h1>\r\n\teRacks Price Match Policy</h1>\r\n<div>\r\n\t<div>\r\n\t\t<div>\r\n\t\t\t<div>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t-
@@ -5160,8 +5168,8 @@
       various services available, including additional configuration, software and
       infrastructure consulting, network design and assessment, and <a href=\"http://erackshosting.com\">hosting.</a></p>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2014-01-10 13:27:06.621474', css: '', description: '', heading: false,
-    javascript: '', keywords: '', name: Price Match Policy, published: true, slug: price-match,
-    template: '', title: Price Match, updated: ! '2014-01-10 13:30:28.940300'}
+    javascript: '', keywords: '', meta_title: '', name: Price Match Policy, published: true,
+    slug: price-match, template: '', title: Price Match, updated: ! '2014-01-10 13:30:28.940300'}
   model: quickpages.quickpage
   pk: 131
 - fields: {comments: '', content: "<p class=\"subtitle\">\r\n\t<em><a href=\"/NAS36\"><img
@@ -5234,9 +5242,9 @@
       technology. The eRacks/NAS36 rackmount server is shipped pre-configured to the
       user&#39;s custom specs, with any available open-source software, and more flavors
       of Linux or BSD available than any other vendor.</h2>\r\n", heading: true, javascript: '',
-    keywords: '', name: 'Feb 14, 2014 - The New eRacks/NAS36 Rackmount Storage Server
-      Achieves Price/Density Breakthrough: 100TB Storage in Only 4U for Under $20K ',
-    published: true, slug: press/Feb-14-2014-new-nas36-storage-server-achieves-price-density-breakthrough-100tb-storage-4u-under-20k,
+    keywords: '', meta_title: '', name: 'Feb 14, 2014 - The New eRacks/NAS36 Rackmount
+      Storage Server Achieves Price/Density Breakthrough: 100TB Storage in Only 4U
+      for Under $20K ', published: true, slug: press/Feb-14-2014-new-nas36-storage-server-achieves-price-density-breakthrough-100tb-storage-4u-under-20k,
     template: quickpages/press.html, title: 'Feb 14, 2014 - The New eRacks/NAS36 Rackmount
       Storage Server Achieves Price/Density Breakthrough: 100TB Storage in Only 4U
       for Under $20K ', updated: ! '2014-03-20 11:43:06.517886'}
@@ -5248,9 +5256,9 @@
       <a href=\"./brochures/index_html\">past brochures and flyers</a>. -->\r\n<p>\r\n\t<img
       alt=\"\" src=\"/images/press/news.gif\" style=\"border-width: 0px; border-style:
       solid; float: right;\" /></p>\r\n", created: ! '2014-03-12 23:30:59.968928',
-    css: '', description: '', heading: true, javascript: '', keywords: '', name: Press,
-    published: true, slug: press, template: quickpages/press-list.html, title: eRacks
-      Press Releases and Coverage, updated: ! '2014-03-13 10:29:53.652559'}
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Press, published: true, slug: press, template: quickpages/press-list.html,
+    title: eRacks Press Releases and Coverage, updated: ! '2014-03-13 10:29:53.652559'}
   model: quickpages.quickpage
   pk: 135
 - fields: {comments: '', content: "<h2 class=\"subtitle\" style=\"font-size: 1.4em;
@@ -5373,9 +5381,9 @@
       none; color: rgb(7, 104, 155); text-decoration: none; padding-right: 6px !important;
       padding-left: 6px !important;\" xmlns=\"\">Print</a></span></div>\r\n\t\t\t<div>\r\n\t\t\t\t&nbsp;</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2014-04-07 21:35:13.843894', css: '', description: '', heading: true,
-    javascript: '', keywords: '', name: "March 27, 2014 - eRacks Announces the Launch
-      of Their Biggest Cloud Server Ever \u2013 eRacks/NAS50 rackmount server is Now
-      Available with 300 Terabytes of Storage", published: true, slug: press/march-27-2014-eracks-announces-launch-their-biggest-cloud-server-ever-eracksnas50-rackmount-server-now-available-300-terabytes-storage,
+    javascript: '', keywords: '', meta_title: '', name: "March 27, 2014 - eRacks Announces
+      the Launch of Their Biggest Cloud Server Ever \u2013 eRacks/NAS50 rackmount
+      server is Now Available with 300 Terabytes of Storage", published: true, slug: press/march-27-2014-eracks-announces-launch-their-biggest-cloud-server-ever-eracksnas50-rackmount-server-now-available-300-terabytes-storage,
     template: quickpages/press.html, title: "March 27, 2014 - eRacks Announces the
       Launch of Their Biggest Cloud Server Ever \u2013 eRacks/NAS50 rackmount server
       is Now Available with 300 Terabytes of Storage", updated: ! '2014-04-10 11:05:07.037889'}
@@ -5469,9 +5477,1172 @@
       Friendly Version\" height=\"12\" src=\"http://www.prweb.com/images/icon-print.gif\"
       width=\"16\" /><a href=\"http://www.prweb.com/printer/11784699.htm\" rel=\"nofollow\">Print</a></span></div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\t&nbsp;</p>\r\n",
     created: ! '2014-04-24 09:21:24.431089', css: '', description: '', heading: true,
-    javascript: '', keywords: '', name: 'Apr 24, 2014 -  eRacks Debuts New 4U eRacks/NAS72
-      Petabyte-class Storage/Cloud Server', published: true, slug: apr-24-2014-eracks-debuts-new-4u-eracksnas72-petabyte-class-storagecloud-server,
+    javascript: '', keywords: '', meta_title: '', name: 'Apr 24, 2014 -  eRacks Debuts
+      New 4U eRacks/NAS72 Petabyte-class Storage/Cloud Server', published: true, slug: apr-24-2014-eracks-debuts-new-4u-eracksnas72-petabyte-class-storagecloud-server,
     template: quickpages/press.html, title: 'Apr 24, 2014 -  eRacks Debuts New 4U
       eRacks/NAS72 Petabyte-class Storage/Cloud Server', updated: ! '2014-04-24 09:25:43.632123'}
   model: quickpages.quickpage
   pk: 137
+- fields: {comments: 'PRLeap Oct 28, $99 Amex', content: "<h5 class=\"subtitle\">\r\n\t<em>eRacks
+      Open Source Systems announces the upgraded 4U eRacks/NAS36 rackmount cloud &amp;
+      storage server, now available in a 36-drive 216TB configuration for under US$30,000.&nbsp;&nbsp;<br
+      />\r\n\tThe eRacks/NAS36 rackmount server is shipped pre-configured to the user&rsquo;s
+      custom specs, with their choice of available open-source cloud software, such
+      as OpenStack, and more flavors of Linux or BSD available than any other vendor.</em></h5>\r\n<div
+      class=\"share\">\r\n\t<a data-original-title=\"Interactive sharing buttons will
+      be available on your live press release, this is just a preview of your press
+      release.\" href=\"https://secure.prleap.com/news/preview/229943/success#\" rel=\"tooltip\"
+      title=\"\"><img src=\"https://secure.prleap.com/includes/img/share-responsive.png\"
+      /></a></div>\r\n<p>\r\n\t<a class=\"image\" href=\"https://secure.prleap.com/news/preview/229943/success#\"
+      name=\"https://media.prleap.com/image/31883/640/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      rel=\"image\" title=\"eRacks/NAS36\"><img alt=\"eRacks/NAS36\" src=\"https://media.prleap.com/image/31883/120/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      style=\"height: 90px; float: right;\" title=\"eRacks/NAS36\" /></a></p>\r\n<div
+      class=\"clearfix\" id=\"gallery\">\r\n\t<div id=\"thumbs\">\r\n\t\t<div class=\"thumb
+      \">\r\n\t\t\t<a class=\"image\" href=\"https://secure.prleap.com/news/preview/229943/success#\"
+      name=\"https://media.prleap.com/image/31884/640/NAS36-both-SC847E16-R1K28LPB_spec.jpg\"
+      rel=\"image\" title=\"eRacks/NAS36 Front &amp; Rear\"><img alt=\"eRacks/NAS36
+      Front &amp; Rear\" src=\"https://media.prleap.com/image/31884/120/NAS36-both-SC847E16-R1K28LPB_spec.jpg\"
+      style=\"height: 90px; float: right;\" title=\"eRacks/NAS36 Front &amp; Rear\"
+      /></a></div>\r\n\t\t<div class=\"thumb \">\r\n\t\t\t<a class=\"image\" href=\"https://secure.prleap.com/news/preview/229943/success#\"
+      name=\"https://media.prleap.com/image/31885/640/nas36_266.jpeg\" rel=\"image\"
+      title=\"eRacks/NAS36 angle\"><img alt=\"eRacks/NAS36 angle\" src=\"https://media.prleap.com/image/31885/120/nas36_266.jpeg\"
+      style=\"height: 90px; float: right;\" title=\"eRacks/NAS36 angle\" /></a></div>\r\n\t</div>\r\n</div>\r\n<div
+      class=\"data clearfix\">\r\n\t<strong>Fremont, California &nbsp; October 29,
+      2014 &nbsp; <a href=\"http://www.prleap.com/industry/Technology/\">Technology
+      News</a></strong></div>\r\n<div class=\"data clearfix\">\r\n\t&nbsp;</div>\r\n<p>\r\n\t(<a
+      href=\"http://www.prleap.com\">PRLEAP.COM</a>) <a href=\"http://eracks.com/#prleap\"
+      rel=\"nofollow\">eRacks Open Source Systems</a> is pleased to announce the newest,
+      higher-storage-density upgrade of its popular <a href=\"http://eracks.com/NAS36/#prleap\"
+      rel=\"nofollow\">eRacks/NAS36</a> rackmount storage server.<br />\r\n\t<br />\r\n\tAvailable
+      immediately, it combines a rack usage of only 4U with a density of 36 drives
+      (24 front and 12 rear), which, when combined with the current technology of
+      widely available 6TB drives, yields a total storage of 216TB*.<br />\r\n\t<br
+      />\r\n\tThis rounds out eRacks&#39; line of rackmount cloud storage servers
+      and NAS solutions, nicely filling the gap between the 24-drive <a href=\"http://eracks.com/NAS24/#prleap\"
+      rel=\"nofollow\">eRacks/NAS24</a> and the all-front-loading 50-drive <a href=\"http://eRacks.com/NAS50/#prleap\"
+      rel=\"nofollow\">eRacks/NAS50</a>, eRacks&#39; flagship storage server.<br />\r\n\t<br
+      />\r\n\tThe unit is available with either enterprise-class drives, including
+      the new energy-saving Helium-filled drives which use 30% less power, or standard-class
+      drives such as the WD (Western Digital) Green or NAS-ready WD Red drives.<br
+      />\r\n\t<br />\r\n\tWhen fully-populated with 36 removable drives, this represents
+      a density / price breakthrough &ndash; using the best value (lowest price/TB)
+      6TB drives, this enables 216TB* of raw storage in only 4U, and for less than
+      $30,000, as configured on the eRacks website.<br />\r\n\t<br />\r\n\tThe unit
+      is also available partially populated, at a reduced price, to make it accessible
+      at a lower initial price, and the storage can be increased later by filling
+      the empty drive trays.<br />\r\n\t<br />\r\n\t<strong>&quot;We are delighted
+      to make available petascale solutions such as this, enabled by the new higher-density
+      6TB drives that are now readily available. This makes our great open source
+      cloud server solutions more accessible to a wider audience at this price-point&quot;</strong>
+      said Joseph Wolff, Founder and CTO of eRacks Systems.<br />\r\n\t<br />\r\n\t<br
+      />\r\n\tIn addition, software pre-installations are eRacks&#39; signature service
+      - eRacks will be happy to install any of the popular Linux distributions on
+      request &ndash; Ubuntu, Debian, RedHat, Centos, Fedora, even the Arch Linux
+      distro, which is growing fast in popularity, as well as FreeBSD, OpenBSD, or
+      other Open Source OSes.<br />\r\n\t<br />\r\n\tAlso available is cloud software
+      such as OpenStack, Ceph, and other OSS cloud software, such as Eucaluyptus or
+      CloudStack, as well as best-of-breed Open Source software for BigData / Cloud
+      storage, NAS, and networking &ndash; including Hadoop, MooseFS, CIFS, GlusterFS,
+      Ceph, etc &ndash; and eRacks is a partner with MooseFS.org.<br />\r\n\t<br />\r\n\teRacks
+      will also pre-install any open source NAS software, such as FreeNAS, OpenFiler,
+      NAS4Free and OpenMediaVault, among others &ndash; and administrative dashboards
+      and web GUIs are offered on most of these software choices.<br />\r\n\t<br />\r\n\tIn
+      addition, the eRacks policy is to install <strong>any</strong> Linux/BSD distro
+      or Open Source software on request &ndash; Contact eRacks today at the link
+      below to see how they can meet your needs.<br />\r\n\t<br />\r\n\teRacks&#39;
+      expert consultants will also be happy to work with you to design and architect
+      your particular solution, whether it be for one server, such as an OpenStack
+      standalone server, or an entire rack of servers representing a full multi-server
+      OpenStack private cloud.<br />\r\n\t<br />\r\n\tPlease contact eRacks at <a
+      href=\"http://eracks.com/contact\" rel=\"nofollow\">http://eracks.com/contact</a>
+      or email <a href=\"mailto:info@eracks.com\" rel=\"nofollow\">info@eracks.com</a>
+      to request a custom quote.<br />\r\n\t<br />\r\n\t<strong>About eRacks</strong><br
+      />\r\n\t<br />\r\n\teRacks Open Source Systems, founded in 1999, features its
+      own line of rackmount servers, desktops, and laptops and offers a wide array
+      of services including open source migration &amp; consulting, security, and
+      network architecture services.<br />\r\n\t<br />\r\n\teRacks strives to return
+      the control of the IT department back to the business owner, by providing quality
+      open source enterprise-level applications on easily-upgradable industry-standard
+      hardware. eRacks believes businesses should not be required to rely on third-party
+      closed-source software vendors.<br />\r\n\t<br />\r\n\teRacks was founded by
+      system architects and network design consultants who over the last twenty-five
+      years have had first-hand experience setting up enterprise-level computing infrastructures.
+      eRacks&#39; founders decided to leverage their expertise by designing ready-to-run
+      systems, saving customers money, configuration time, and frustration.<br />\r\n\t<br
+      />\r\n\teRacks Systems has locations in Fremont and Los Gatos CA.<br />\r\n\t<br
+      />\r\n\t&hellip;<br />\r\n\t<br />\r\n\tNote: *For the purposes of this press
+      release, the term &quot;Terabyte&quot; is used to mean one trillion bytes &ndash;
+      eRacks understands the issues about this, we are using the term as the disk
+      drive and other industry manufacturers use it.</p>\r\n<p>\r\n\t&nbsp;</p>\r\n<div
+      id=\"contact\">\r\n\t<strong>Contact Information</strong><br />\r\n\tJoseph
+      Wolff<br />\r\n\t<a href=\"http://eracks.com/#prleap\" rel=\"nofollow\">eRacks
+      Systems</a><br />\r\n\t408-431-8154<br />\r\n\t&nbsp;</div>\r\n<div class=\"span3\">\r\n\t<div
+      id=\"brand_box\">\r\n\t\t<div class=\"thumb\">\r\n\t\t\t<img alt=\"\" height=\"48\"
+      src=\"https://media.prleap.com/image/31829/75/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      title=\"\" width=\"48\" /> <strong>eRacks Open Source Systems</strong>\r\n\t\t\t<hr
+      />\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\teRacks Open Source Systems<br
+      />\r\n\t<a class=\"trackingLink\" href=\"http://www.eRacks.com\" rel=\"nofollow\">http://www.eRacks.com</a><br
+      />\r\n\teMail: info@eracks.com</p>\r\n", created: ! '2014-10-28 18:08:31.202586',
+    css: '', description: "eRacks Open Source Systems announces the upgraded 4U eRacks/NAS36
+      rackmount cloud  storage server, now available in a 36-drive 216TB configuration
+      for under US$30,000.\r\n\tThe eRacks/NAS36 rackmount server is shipped pre-configured
+      to the users custom specs, with their choice of available open-source cloud
+      software, such as OpenStack, and more flavors of Linux or BSD available than
+      any other vendor.", heading: true, javascript: '', keywords: 'NAS, Linux, Cloud,
+      Storage, OpenStack', meta_title: '', name: 'Oct 29, 2014 - eRacks/NAS36 Cloud
+      Server Price/Density Breakthrough - 216TB in 4U Now Available Under $30,000',
+    published: true, slug: oct-29-2014-eracks-nas36-cloud-server-pricedensity-breakthrough-216tb-4u-now-available-under-30000,
+    template: quickpages/press.html, title: 'Oct 29, 2014 - eRacks/NAS36 Cloud Server
+      Price/Density Breakthrough - 216TB in 4U Now Available Under $30,000', updated: ! '2015-09-23
+      17:30:36.817873'}
+  model: quickpages.quickpage
+  pk: 138
+- fields: {comments: 'iNewwswire per Sri, Feb23 2015, ~$250 Amex', content: "<section
+      class=\"content-view\">\r\n\t<div class=\"content-type-pr\" id=\"cv-container\">\r\n\t\t<article
+      class=\"article\">\r\n\t\t\t<header class=\"article-header\">\r\n\t\t\t\t<h2
+      class=\"active\">\r\n\t\t\t\t\tGo Green with eRacks 400TB version of the flagship
+      NAS50 9U Server</h2>\r\n\t\t\t</header>\r\n\t\t\t<section class=\"article-content\">\r\n\t\t\t\t<a
+      class=\"use-lightbox floated-featured-image\" data-caption=\"\" href=\"http://www.newswire.com/files/b9/65/01b2d66649f9e8b699fbe14c7b8d.jpeg\"><img
+      alt=\"Go Green with eRacks 400TB version of the flagship NAS50 9U Server\" class=\"add-border\"
+      src=\"http://www.newswire.com/files/6f/ed/4c56607e3b68feba387c086c9eeb.jpg\"
+      /></a>\r\n\t\t\t\t<div class=\"article-info\">\r\n\t\t\t\t\t<span class=\"ai-category\">Press
+      Release</span> - <a href=\"http://eracks.com/media/home/pdf/Go_Green_with_eRacks_400TB_version_of_the_flagship_NAS50_9U_Serv.pdf\">PDF</a>
+      - Los Gatos, California <span class=\"dash\">-</span> <span class=\"ai-date\">
+      Feb 25, 2015 05:30 PST </span></div>\r\n\t\t\t\t<div class=\"article-info\">\r\n\t\t\t\t\t&nbsp;</div>\r\n\t\t\t\t<div
+      class=\"article-info\">\r\n\t\t\t\t\t<span class=\"ai-date\">Via PR Newswire:
+      </span><a href=\"http://www.newswire.com/press-release/go-green-with-eracks-400tb-version-of-the-flagship-nas50-9u\"
+      target=\"_blank\">http://www.newswire.com/press-release/go-green-with-eracks-400tb-version-of-the-flagship-nas50-9u</a></div>\r\n\t\t\t\t<p
+      class=\"article-summary\">\r\n\t\t\t\t\teRacks Open Source Systems innovative
+      offering will not only reduce power consumption but also offer a twenty five
+      percent additional storage capacity and bring watts per petabyte efficiency
+      to a completely new level.</p>\r\n\t\t\t\t<blockquote id=\"sq-block\" style=\"margin-bottom:
+      28px;\">\r\n\t\t\t\t\t<q>&quot;A &#39;green&#39; Big Data / Private Cloud system
+      like this is the ultimate tool that any business out there should consider as
+      it will not only reduce power consumption but also offer a twenty five percent
+      additional storage capacity and bring watts per petabyte efficiency to a completely
+      new level,&quot; said Joseph Wolff, Founder &amp; CTO, eRacks Open Source Systems.
+      He further adds that this is a great opportunity for businesses of all sizes
+      to go-green.</q>\r\n\t\t\t\t\t<p class=\"author\" id=\"sq-author\" style=\"bottom:
+      -32px;\">\r\n\t\t\t\t\t\tJoseph Wolff, Founder &amp; CTO</p>\r\n\t\t\t\t</blockquote>\r\n\t\t\t\t<div
+      class=\"marbot-15 html-content\">\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\tBuliding on
+      its outstanding commitment to innovation, eRacks Open Source Systems today announced
+      400TB version of the flagship NAS50 9U server. At full capacity, this system
+      houses 400 terabytes (8TB x 50 drives)</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\t&nbsp;<a
+      href=\"http://eracks.com/products/storage-servers-nas/NAS50/#add\">Available
+      immediately</a>, the new 6TB &amp; 8TB drives are Helium-filled - which require
+      far less rotational energy, making them 23%-44% more efficient - and the drives
+      are also lighter (the helium helps, here!), meaning the packing crate has a
+      lower shipping weight as well, saving money on shipping as well as on month-to-month
+      electricity bills - a truly green solution.</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\t&ldquo;A
+      &#39;green&#39; Big Data / Private Cloud system like this is the ultimate tool
+      that any business out there should consider as it will not only reduce power
+      consumption but also offer a twenty five percent additional storage capacity
+      &nbsp;and bring watts per petabyte efficiency to a completely new level,&rdquo;
+      said Joseph Wolff, Founder &amp; CTO, eRacks Open Source Systems. &nbsp;He further
+      adds that this is a great opportunity for businesses of all sizes to go-green.</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\tSuitable
+      for cloud storage, NAS/Local LAN usage, media libraries, or any number of other
+      storage uses, the eRacks/NAS50 is a truly petascale solution &ndash; four <a
+      href=\"http://eracks.com/NAS50\">eRacks/NAS50</a>&nbsp;servers in a standard
+      42u rack gives you 1.2 Petabytes - with room to spare for a UPS, KVM, Network
+      switch/firewall, or other of eRacks&#39; rack accessories.</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\tAbout
+      eRacks Open Source Systems</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\teRacks Open Source
+      Systems features its own line of rackmount servers, desktops, and laptops and
+      offers a wide array of services including open source enterprise migration,
+      security, and network architecture services&nbsp;striving to return the control
+      of the IT department back to the business owner, by providing quality open source
+      enterprise-level applications on easily-upgradable industry-standard hardware.
+      eRacks believes businesses should not be required to rely on third-party closed-source
+      software vendors.</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\tLearn More at: www.eracks.com</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\t<strong>PR
+      Contact:</strong></p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\teRacks Open Source Systems<br
+      />\r\n\t\t\t\t\t\tMobile: 408-431-8154</p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\tPhone:
+      (714) 758-5423 (Leave a VM)<br />\r\n\t\t\t\t\t\tFax: (631) 392-9842<br />\r\n\t\t\t\t\t\t<a
+      href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n\t\t\t\t\t<p>\r\n\t\t\t\t\t\t&nbsp;</p>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div
+      class=\"share-bottom marbot-20\">\r\n\t\t\t\t\t<a class=\"share-facebook share-window
+      no-custom\" data-height=\"400\" data-width=\"640\" href=\"http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.newswire.com%2Fpress-release%2Fgo-green-with-eracks-400tb-version-of-the-flagship-nas50-9u\"
+      target=\"_blank\">Share on Facebook </a> <a class=\"share-twitter share-window
+      no-custom\" data-height=\"440\" data-width=\"640\" href=\"http://twitter.com/intent/tweet?text=Go+Green+with+eRacks+400TB+version+of+the+flagship+NAS50+9U+Server+http%3A%2F%2Fwww.newswire.com%2Fpress-release%2Fgo-green-with-eracks-400tb-version-of-the-flagship-nas50-9u\"
+      target=\"_blank\"> Share on Twitter </a> <a class=\"share-google-plus share-window
+      no-custom\" data-height=\"600\" data-width=\"500\" href=\"https://plus.google.com/share?url=http%3A%2F%2Fwww.newswire.com%2Fpress-release%2Fgo-green-with-eracks-400tb-version-of-the-flagship-nas50-9u\"
+      target=\"_blank\"> </a> <a class=\"share-linkedin share-window no-custom\" data-height=\"570\"
+      data-width=\"520\" href=\"http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.newswire.com%2Fpress-release%2Fgo-green-with-eracks-400tb-version-of-the-flagship-nas50-9u&amp;title=Go+Green+with+eRacks+400TB+version+of+the+flagship+NAS50+9U+Server&amp;summary=eRacks+Open+Source+Systems+innovative+offering+will+not+only+reduce+power+consumption+but+also+offer+a+twenty+five+percent+additional+storage+capacity+and+bring+watts+per+petabyte+efficiency+to+a+completely+new+level.&amp;source=eRacks+Systems\"
+      target=\"_blank\"> </a></div>\r\n\t\t\t</section>\r\n\t\t\t<section class=\"resources-block
+      rb-additional-resources\">\r\n\t\t\t\t<div class=\"row-fluid\">\r\n\t\t\t\t\t<div
+      class=\"span12\">\r\n\t\t\t\t\t\t<h3>\r\n\t\t\t\t\t\t\tAdditional <strong>Links</strong></h3>\r\n\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+      href=\"http://eracks.com/products/storage-servers-nas/NAS50/#config\">Configure
+      Now</a></li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a href=\"http://eracks.com/products/storage-servers-nas/NAS50/#specs\">eRacks
+      NAS50 Specs</a></li>\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</section>\r\n\t\t\t<section
+      class=\"resources-block view-web-images-section\">\r\n\t\t\t\t<h3>\r\n\t\t\t\t\tAdditional
+      <strong>Images</strong></h3>\r\n\t\t\t\t<div class=\"view-web-images clearfix\">\r\n\t\t\t\t\t<a
+      class=\"use-lightbox\" data-caption=\"\" href=\"http://www.newswire.com/files/b9/65/01b2d66649f9e8b699fbe14c7b8d.jpeg\"
+      target=\"_blank\" title=\"\"><img alt=\"\" class=\"has-2x\" data-url-2x=\"shared/resim/view-web-2x/52239\"
+      height=\"110\" src=\"http://www.newswire.com/files/62/37/6f12767712af68913455ad29026e.jpg\"
+      width=\"160\" /> </a> <a class=\"use-lightbox\" data-caption=\"\" href=\"http://www.newswire.com/files/e3/0f/d01eb83ad8c05786547519960c81.jpeg\"
+      target=\"_blank\" title=\"\"> <img alt=\"\" class=\"has-2x\" data-url-2x=\"shared/resim/view-web-2x/52240\"
+      height=\"110\" src=\"http://www.newswire.com/files/c4/7a/72157adbf1562f9ed98d9bf2d0b2.jpg\"
+      width=\"160\" /> </a> <a class=\"use-lightbox\" data-caption=\"\" href=\"http://www.newswire.com/files/3e/f7/41b5aa536ec01493ce53244ee1ed.jpeg\"
+      target=\"_blank\" title=\"\"> <img alt=\"\" class=\"has-2x\" data-url-2x=\"shared/resim/view-web-2x/52241\"
+      height=\"110\" src=\"http://www.newswire.com/files/fd/fb/3eaa905717565ae582ec1084b04e.jpg\"
+      width=\"160\" /> </a> <a class=\"use-lightbox\" data-caption=\"\" href=\"http://www.newswire.com/files/e0/c6/19680be73bff44f2abc0ef881e91.jpeg\"
+      target=\"_blank\" title=\"\"> <img alt=\"\" class=\"has-2x\" data-url-2x=\"shared/resim/view-web-2x/52242\"
+      height=\"110\" src=\"http://www.newswire.com/files/50/da/0d187dff215567461116b38c98fc.jpg\"
+      width=\"160\" /> </a></div>\r\n\t\t\t</section>\r\n\t\t\t<div class=\"row-fluid
+      rb-categories-block\">\r\n\t\t\t\t<div class=\"span6\">\r\n\t\t\t\t\t<section
+      class=\"rb-categories\">\r\n\t\t\t\t\t\t<h3>\r\n\t\t\t\t\t\t\tCategories:</h3>\r\n\t\t\t\t\t\t<p>\r\n\t\t\t\t\t\t\t<a
+      href=\"http://www.newswire.com/browse/cat/computer-software\">Software</a>,
+      <a href=\"http://www.newswire.com/browse/cat/computer\">Computer</a>, <a href=\"http://www.newswire.com/browse/cat/engineering\">Engineering</a></p>\r\n\t\t\t\t\t</section>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div
+      class=\"span6\">\r\n\t\t\t\t\t<section class=\"rb-categories rb-tags\">\r\n\t\t\t\t\t\t<h3>\r\n\t\t\t\t\t\t\tTags:</h3>\r\n\t\t\t\t\t\t<p>\r\n\t\t\t\t\t\t\t<a
+      href=\"http://www.newswire.com/browse/tag/cloud-software\">cloud software</a>,
+      <a href=\"http://www.newswire.com/browse/tag/cloud-storge\">cloud storge</a>,
+      <a href=\"http://www.newswire.com/browse/tag/cloudstack\">CloudStack</a>, <a
+      href=\"http://www.newswire.com/browse/tag/cloudy\">Cloudy</a>, <a href=\"http://www.newswire.com/browse/tag/eracks\">eRacks</a>,
+      <a href=\"http://www.newswire.com/browse/tag/eucalyptus\">Eucalyptus</a>, <a
+      href=\"http://www.newswire.com/browse/tag/nas50\">NAS50</a>, <a href=\"http://www.newswire.com/browse/tag/opennebula\">OpenNebula</a>,
+      <a href=\"http://www.newswire.com/browse/tag/openstack\">OpenStack</a>, <a href=\"http://www.newswire.com/browse/tag/proxmox\">ProxMox</a></p>\r\n\t\t\t\t\t</section>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</article>\r\n\t</div>\r\n</section>\r\n<aside
+      class=\"span4 aside aside-right\">\r\n\t<section class=\"al-block\">\r\n\t\t<h3>\r\n\t\t\tAbout
+      eRacks Systems</h3>\r\n\t\t<div class=\"aside-content\">\r\n\t\t\t<div class=\"aside-website
+      marbot\">\r\n\t\t\t\t<a href=\"http://www.eracks.com\">Visit Website</a></div>\r\n\t\t\t<p>\r\n\t\t\t\teRacks
+      Open Source Systems features its own line of rackmount servers, desktops, and
+      laptops and offers a wide array of services including open source enterprise
+      migration, security, and network architecture services.</p>\r\n\t\t</div>\r\n\t</section>\r\n</aside>\r\n<p>\r\n\t&nbsp;</p>\r\n",
+    created: ! '2015-02-25 16:19:30.946081', css: '', description: 'eRacks Open Source
+      Systems today announced 400TB version of the flagship NAS50 9U server. At full
+      capacity, this system houses 400 terabytes (8TB x 50 drives)', heading: true,
+    javascript: '', keywords: 'NAS, Linux, Cloud, Storage, OpenStack, hybrid cloud,
+      private cloud, petascale', meta_title: '', name: 'Feb 25, 2015 - Go Green with
+      eRacks 400TB version of the flagship NAS50 9U Server', published: true, slug: feb-25-2015-go-green-eracks-400tb-version-flagship-nas50-9u-server,
+    template: quickpages/press.html, title: 'Feb 25, 2015 - Go Green with eRacks 400TB
+      version of the flagship NAS50 9U Server', updated: ! '2015-09-23 17:30:36.850569'}
+  model: quickpages.quickpage
+  pk: 139
+- fields: {comments: "PRLog Mar 11, 2015\r\n+ more to come", content: "<h4 id=\"hd\">\r\n\t<em><strong>eRacks
+      Announces Upgraded eRacks/NAS24 - 200-TB-class Storage for under $20,000</strong></em></h4>\r\n<div
+      id=\"sm\">\r\n\t<em><b>eRacks Open Source Systems is pleased to announce their
+      higher-storage-density upgrade of its popular eRacks/NAS24 rackmount storage
+      server - new 8TB Archive drives allow price-breakthrough $/density of nearly
+      200TB for well under $20,000.</b></em></div>\r\n<p>\r\n\t<a href=\"/NAS24\"
+      style=\"float:right;\" target=\"_blank\"><img alt=\"eRacks/NAS24 Storage Server\"
+      src=\"http://s28.postimg.org/friqkss71/e_Racks_NAS24.jpg\" style=\"width: 250px;
+      height: 188px; float: right;\" title=\"eRacks/NAS24 Storage Server\" /></a></p>\r\n<p>\r\n\t<i><a
+      href=\"http://www.prlog.org/12433970-eracks-announces-upgraded-eracksnas24-200-tb-class-storage-for-under-20000.html\"
+      style=\"text-decoration:none\" target=\"_blank\">PRLog</a></i> - <b><i>March
+      11, 2015</i> - <i>FREMONT, Calif.</i> -- </b><a href=\"http://www.prlog.org/12433970.pdf\"
+      target=\"_blank\">PDF</a></p>\r\n<p>\r\n\tAvailable immediately, it combines
+      a rack usage of only 4U with a density of 24 drives, which, when combined with
+      the current technology of widely available 8TB drives, yields a total storage
+      of up to 192TB*.<br />\r\n\t<br />\r\n\tFor this affordable price-point, <a
+      href=\"http://www.seagate.com/em/en/products/enterprise-servers-storage/nearline-storage/archive-hdd/\"
+      target=\"_blank\">Seagate Archive</a> Hard Drives for Cloud Storage / Near-line
+      storage are utilized. (Enterprise-class 8TB Helium filled drives are also availabel
+      at additional cost, and are also very miserly on power and quite &quot;Green&quot;.)</p>\r\n<div
+      class=\"content\" id=\"bd\">\r\n\t<br />\r\n\tIndustry&rsquo;s first high-capacity
+      hard drive designed for cost-effectively storing active archive data and cloud
+      content . Here are some Technical specifications (http://www.seagate.com/<wbr
+      />files/www-content/<wbr />product-content/<wbr />hdd-fam/seagate-<wbr />archive-hdd/<wbr
+      />en-us/docs/archive-<wbr />hdd-dS1834-3-<wbr />1411us.pdf) that make it so
+      unique:<br />\r\n\t<br />\r\n\tHigh-density 8TB hard drives for petabytes of
+      affordable and accessible long-term online storage.<br />\r\n\tEnables significant
+      system-level TCO savings with best cost-per-TB<br />\r\n\tMaximum storage efficiency
+      with lowest watts-per-TB<br />\r\n\tReliable, low-power data retrieval based
+      on Shingled Magnetic Recording (SMR) technology<br />\r\n\tRV-balanced for high
+      density environments<br />\r\n\t<br />\r\n\tThe <a href=\"http://eracks.com/products/storage-servers-nas/NAS24/\">eRacks/NAS24</a>
+      is a Cloud or NAS (Network Attached Storage) storage server, Available with
+      OpenStack, OpenAttic, or any variety of cloud, SDS (Software Defined Storage),
+      or NAS software. &nbsp;This model has been upgraded to include multicore Intel
+      E5 V2 and V3 Haswell and IvyBridge CPUs in either single or dual-processor configurations.
+      Quad-socket and even higher-end confuigurations are available, including AMD
+      Opteron. &nbsp;Contact eRacks for a quote.<br />\r\n\t<br />\r\n\tThe default
+      configuration includes:<br />\r\n\t<b>Chassis:</b> NAS4U 24RHD 1200W RPS 26&quot;depth<br
+      />\r\n\t<b>Motherboard:<wbr /></b> eRacks Intel Dual Xeon E5-2600 v2/v3 IPMI
+      motherboard<br />\r\n\t<b>CPU:</b> Intel Xeon E5-2609 v3 (15M Cache, 1.90 GHz)<br
+      />\r\n\t<b>Memory:</b> 4GB DDR4 Memory (2133/2400/2666)<wbr /> ECC / REG<br
+      />\r\n\t<b>Hard Drives:</b> Seagate Archive 5-8TB 3.5&quot; SATA6 5900RPM SMR
+      Hard Drive<br />\r\n\t<b>RAID card:</b> RAID 6 (striped with dual parity)<br
+      />\r\n\t<b>OS:</b> 2x SSD 120GB Samsung 840 or 850 EVO or better, Mirrored<br
+      />\r\n\t<br />\r\n\t<b>&quot;We are delighted to be able to make this affordable
+      new 200TB-class upgrade available, enabled by the new higher-density 8TB Archive
+      drives that are now readily available. This makes our great open source cloud
+      server solutions more accessible to a wider audience at this price-point&quot;<wbr
+      /></b> said Joseph Wolff, Founder and CTO of eRacks Systems.<br />\r\n\t<br
+      />\r\n\t<b>About eRacks</b><br />\r\n\t<br />\r\n\t<a href=\"http://eracks.com/corporate/\">eRacks</a>
+      was founded by system architects and network design consultants who over the
+      last twenty-five years have had first-hand experience setting up enterprise-level
+      computing infrastructures. eRacks&rsquo; founders decided to leverage their
+      expertise by designing ready-to-run systems, saving customers money, configuration
+      time, and frustration. eRacks Systems, founded in 1999, has locations in Fremont
+      and Los Gatos CA.<br />\r\n\t<br />\r\n\tPlease contact us at:<br />\r\n\t<br
+      />\r\n\tEmail: info (at) eracks.com or via our contact page at <a href=\"http://eracks.com/contact-us/\">eracks.com/contact</a>
+      if you have any questions.<br />\r\n\t<br />\r\n\t*For the purposes of this
+      press release, the term &ldquo;Terabyte&rdquo;<wbr /> is used to mean one trillion
+      bytes &ndash; eRacks understands the issues about this, we are using the term
+      as the disk drive and other industry manufacturers use it.</div>\r\n<div class=\"content\">\r\n\t&nbsp;</div>\r\n<p
+      style=\"color: rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream
+      Charter', Times, serif; font-size: 16px; line-height: 24px;\">\r\n\t<strong
+      style=\"color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size:
+      12px;\">Contact Information</strong></p>\r\n<div id=\"contact\">\r\n\tJoseph
+      Wolff<br />\r\n\t<a href=\"http://eracks.com/#prleap\" rel=\"nofollow\">eRacks
+      Systems</a><br />\r\n\t408-431-8154<br />\r\n\t&nbsp;</div>\r\n<div class=\"span3\">\r\n\t<div
+      id=\"brand_box\">\r\n\t\t<div class=\"thumb\">\r\n\t\t\t<img alt=\"\" height=\"48\"
+      src=\"https://media.prleap.com/image/31829/75/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      title=\"\" width=\"48\" /> <strong>eRacks Open Source Systems</strong>\r\n\t\t\t<hr
+      />\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\teRacks Open Source Systems<br
+      />\r\n\t<a class=\"trackingLink\" href=\"http://www.eRacks.com\" rel=\"nofollow\">http://www.eRacks.com</a><br
+      />\r\n\teMail: info@eracks.com</p>\r\n", created: ! '2015-03-10 12:11:56.877683',
+    css: '', description: "eRacks Open Source Systems announces their upgraded 4U
+      eRacks/NAS24 rackmount cloud  storage server, now available in a 24-drive upto
+      192TB configuration for under US$20,000.\r\n\tThe eRacks/NAS24 rackmount server
+      is shipped pre-configured to the users custom specs, with their choice of available
+      open-source cloud software, such as OpenStack, and more flavors of Linux or
+      BSD available than any other vendor.", heading: true, javascript: '', keywords: 'NAS,
+      Linux, Cloud, Storage, OpenStack, SDS, LizardFS, FreeNAS', meta_title: '', name: 'Mar
+      11, 2015 - eRacks Announces Upgraded eRacks/NAS24 - 200-TB-class Storage for
+      under $20,000', published: true, slug: mar-11-2015-eracks-announces-upgraded-eracks-nas24-200-tb-class-storage-under-20000,
+    template: quickpages/press.html, title: 'Mar 11, 2015 - eRacks Announces Upgraded
+      eRacks/NAS24 - 200-TB-class Storage for under $20,000', updated: ! '2015-09-23
+      17:30:36.864774'}
+  model: quickpages.quickpage
+  pk: 140
+- fields: {comments: "PRLog April 02, 2015\r\n+ more to come", content: "<h4 id=\"hd\">\r\n\t<em><b>eRacks
+      Open Source Systems&nbsp;</b></em><strong>has recently focused on hybrid OpenStack
+      and Private Cloud Hosting Services in a bid to ensure that business owners are
+      able to get sufficient storage servers and software systems that will help them
+      manage their businesses efficiently<em>.</em></strong></h4>\r\n<p>\r\n\t&nbsp;</p>\r\n<p>\r\n\t<i><a
+      href=\"http://www.prlog.org/12433970-eracks-announces-upgraded-eracksnas24-200-tb-class-storage-for-under-20000.html\"
+      style=\"text-decoration:none\" target=\"_blank\">PRLog</a></i> - <strong>April
+      02</strong><b><i>, 2015</i> - <i>FREMONT, Calif.</i> -- </b><a href=\"http://www.prlog.org/12433970.pdf\"
+      target=\"_blank\">PDF</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\r\n<p>\r\n\t<img alt=\"eRacks-Logo\"
+      src=\"http://s9.postimg.org/58hyfpun3/e_Racks_Logo.png\" style=\"width: 300px;
+      height: 112px; float: left;\" title=\"eRacks-OpenStack\" /></p>\r\n<p>\r\n\teRacks
+      announces their new storage Servers models eRacks/NAS50, eRacks/NAS36 and eRacks/NAS24
+      that comes with OpenStack (https://www.openstack.org/)&nbsp;as the preconfigured
+      software with other versions available upon request such as( Ceph, OpenAttic,
+      Gluster, LizardFS, etc). eRacks is also offering Hosting currently available
+      on a pre-arrangement custom set-up. Formal hosting date and more information
+      will be made available soon.&nbsp;</p>\r\n<p>\r\n\t&nbsp;</p>\r\n<div class=\"content\"
+      id=\"bd\">\r\n\t<p>\r\n\t\t&nbsp; &nbsp; The eRacks/NAS50 (http://eracks.com/products/storage-servers-nas/NAS50/)and
+      eRacks/NAS36&nbsp;</p>\r\n\t<img alt=\"eRacks-Logo\" src=\"http://s18.postimg.org/4qcp5lxmh/openstack.jpg\"
+      style=\"width: 300px; height: 100px; float: left;\" title=\"eRacks-OpenStack\"
+      />\r\n\t<p>\r\n\t\t(http://eracks.com/products/storage-servers-nas/NAS36/) models
+      are scalable, practical, recyclable, and compatible with a wide range of operating
+      systems. They are also flexible enough to suit different types and sizes of
+      businesses. These new models are very efficient and use less energy than their
+      predecessors. eRacks have redesigned the original eRacks/NAS50 and eRacks/NAS36
+      in order to improve their performance efficiency and reduce energy consumption.
+      This, therefore, means that users will be able to cut down power bills by big
+      margins.&nbsp;&nbsp;&nbsp;</p>\r\n\t<p>\r\n\t\t&ldquo;<strong>With 23 percent
+      less power consumption and 50 percent more storage, this brings watts-per-petabyte
+      efficiency to a whole new level. Go Green now and save Big Bucks on your Big
+      Data power bill!&rdquo; </strong>&ndash; Joseph Wolff, Founder and CTO of eRacks
+      Open Source Systems.</p>\r\n\t<p>\r\n\t\teRacks has received positive comments
+      from some of their clients:</p>\r\n\t<p>\r\n\t\t<strong>&ldquo;It was a pleasure
+      doing business with you guys and I hope to be able to give you some more business
+      in the future.&rdquo;</strong> &ndash; CW, NexBand Communications, Inc. &nbsp;
+      &nbsp;&nbsp;</p>\r\n\t<a href=\"/NAS50\" target=\"_blank\"><img alt=\"eRacks/NAS50\"
+      src=\"http://s15.postimg.org/84v3vbol7/e_Racks_NAS_50_400_TB.jpg\" style=\"width:
+      308px; height: 200px; float: right;\" title=\"eRacks/NAS50\" /></a>\r\n\t<p>\r\n\t\t<br
+      />\r\n\t\t<b>About eRacks</b><br />\r\n\t\t<br />\r\n\t\t<a href=\"http://eracks.com/corporate/\">eRacks</a>
+      was founded by system architects and network design consultants who over the
+      last twenty-five years have had first-hand experience setting up enterprise-level
+      computing infrastructures. eRacks&rsquo; founders decided to leverage their
+      expertise by designing ready-to-run systems, saving customers money, configuration
+      time, and frustration. eRacks Systems, founded in 1999, has locations in Fremont
+      and Los Gatos CA.<br />\r\n\t\t<br />\r\n\t\tPlease contact us at:<br />\r\n\t\t<br
+      />\r\n\t\tEmail: info (at) eracks.com or via our contact page at <a href=\"http://eracks.com/contact-us/\">eracks.com/contact</a>
+      if you have any questions.<br />\r\n\t\t<br />\r\n\t\t<strong>Quick Links</strong></p>\r\n</div>\r\n<div
+      class=\"content\">\r\n\t<p>\r\n\t\t<strong>About us link</strong>: http://eracks.com/corporate/</p>\r\n\t<p>\r\n\t\t<strong>Contact
+      us link</strong>: <a href=\"http://eracks.com/contact/\">http://eracks.com/contact/</a></p>\r\n\t<p>\r\n\t\t<strong>Products
+      link</strong>: <a href=\"http://eracks.com/showroom/\">http://eracks.com/showroom/</a></p>\r\n\t<p>\r\n\t\t<strong>Services
+      link</strong>: <a href=\"http://eracks.com/services/\">http://eracks.com/services/</a></p>\r\n\t<p>\r\n\t\t<strong>Website</strong>:
+      <a href=\"http://eracks.com/\">http://eracks.com/</a></p>\r\n</div>\r\n<p style=\"color:
+      rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter',
+      Times, serif; font-size: 16px; line-height: 24px;\">\r\n\t<strong style=\"color:
+      rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px;\">Contact
+      Information</strong></p>\r\n<div id=\"contact\">\r\n\tJoseph Wolff<br />\r\n\t<a
+      href=\"http://eracks.com/#prleap\" rel=\"nofollow\">eRacks Systems</a><br />\r\n\t408-431-8154<br
+      />\r\n\t&nbsp;</div>\r\n<div class=\"span3\">\r\n\t<div id=\"brand_box\">\r\n\t\t<div
+      class=\"thumb\">\r\n\t\t\t<img alt=\"\" height=\"48\" src=\"https://media.prleap.com/image/31829/75/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      title=\"\" width=\"48\" /> <strong>eRacks Open Source Systems</strong>\r\n\t\t\t<hr
+      />\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\teRacks Open Source Systems<br
+      />\r\n\t<a class=\"trackingLink\" href=\"http://www.eRacks.com\" rel=\"nofollow\">http://www.eRacks.com</a><br
+      />\r\n\teMail: info@eracks.com</p>\r\n", created: ! '2015-03-17 12:10:53.228172',
+    css: '', description: 'eRacks is always developing new open-source servers based
+      on customer needs. Recently, the company has focused on OpenStack and Cloud
+      commitment mainly on upgrading storage servers and introduction of Private Cloud
+      Hosting Services', heading: true, javascript: '', keywords: 'OpenStack, Open
+      Source Servers, Servers, Linux, Cloud computing, Hosting', meta_title: '', name: 'April-02-2015-eRacks
+      Continues OpenStack and Cloud commitment, with Upgraded Storage Servers, as
+      well as Private Cloud Hosting Services', published: true, slug: april-02-2015-eracks-continues-openstack-and-cloud-commitment-upgraded-storage-servers-well-private-cloud-hosting-services,
+    template: quickpages/press.html, title: 'April-02-2015-eRacks Continues OpenStack
+      and Cloud commitment, with Upgraded Storage Servers, as well as Private Cloud
+      Hosting Services', updated: ! '2015-09-23 17:30:36.880770'}
+  model: quickpages.quickpage
+  pk: 141
+- fields: {comments: "PRLog May 29, 2015\r\n+ more to come", content: "<h4 id=\"hd\">\r\n\teRacks
+      announces the upcoming integration of HGST-10TB HDD Helium SMR drives - they
+      won&#39;t be in your laptop, but the 10-terabyte hard drive will be in your
+      datacenter servers soon!</h4>\r\n<p>\r\n\t<i><a href=\"http://www.prlog.org/12460908-eracks-upgrades-their-storage-servers-with-the-new-hgst-technology-10tb-hdd.html\"
+      style=\"text-decoration:none\" target=\"_blank\">PRLog</a></i> - <strong>May
+      29</strong><b><i><strong>,</strong> 2015</i> - <i>FREMONT, Calif.</i> -- </b><a
+      href=\"http://www.prlog.org/12460908.pdf\" target=\"_blank\">PDF&nbsp;</a><a
+      href=\"http://www.prlog.org/12460908.pdf\" target=\"_blank\"> </a>&nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\r\n<p>\r\n\teRacks
+      open source systems is now qualifying their servers with the latest HGST-10TB
+      Helium-filled SMR (Shingled Magnetic Recording) hard drives&nbsp; in a bid to
+      ensure that business owners are able to get sufficient storage servers and software
+      systems that will help them manage their businesses efficiently. Helium drives
+      are quickly becoming the de-facto choice for data center applications where
+      storage density, reliability and power efficiency are paramount this led eRacks
+      to plan on how to upgrade their storage servers.</p>\r\n<p>\r\n\tHGST 10TB HelioSeal
+      uses two new complementary technologies: <a href=\"http://www.hgst.com/science-of-storage/emerging-technologies/helium-technology\"><strong>HelioSeal
+      technology</strong></a> and host-managed <strong><a href=\"http://www.hgst.com/science-of-storage/emerging-technologies/shingled-magnetic-recording\">Shingled
+      Magnetic Recording (SMR)</a>.</strong> This&nbsp;<a href=\"https://www.hgst.com/science-of-storage/next-generation-data-centers/10tb-smr-helioseal-hdd\">HGST
+      HelioSeal</a>&nbsp;drives with helium enables more disks in the standard hard
+      drive form factor. Helium, being 1/7 the density of air, allows the use of much
+      thinner disks without the disruptive effects of turbulence. Turbulence kills
+      performance and drives down reliability. More disks means more capacity, and
+      more capacity per drive results in lower total cost of ownership&ndash;since
+      the entire data center infrastructure can be leveraged to store more with no
+      additional cost. In addition to the fixed cost benefits, operating costs are
+      reduced because helium drives consume much less power, cutting power and cooling
+      costs, in spite of the higher capacity. This makes them greener, so you really
+      can save the planet&hellip; while saving money!&nbsp;</p>\r\n<p>\r\n\tIn SMR-(<strong>Shingled
+      Magnetic Recording</strong>), relatively wide data tracks are written that partially
+      overlap the previous ones. These successively written data tracks overlap in
+      a way that reminds me of roof shingles. In addition, old-style disk drives tracks
+      are separated by a small gap to make sure adjacent writes don&#39;t corrupt
+      data. In SMR drives, this gap is removed, thus enabling 25 percent to 100 percent
+      more data on the same basic disk platter. Eventually, SMR is expected to enable
+      data densities as high as 3 trillion bits per square inch</p>\r\n<p>\r\n\t<img
+      alt=\"\" src=\"http://s13.postimg.org/6tx3f2pt3/HGST.jpg\" style=\"float: right;\"
+      />eRacks will incorporate the HGST Technology &nbsp;to increase on their storage
+      server capacities thus boosting their storage servers performance for data centers/big
+      data companies enabling data centers store more data with no additional costs.
+      Further more reduce companies operating costs because helium drive consumes
+      less KHS Power. Here is a list of the storage servers that will upgrade on their
+      storage capacities and will be &nbsp;compatible with the HGST technology:</p>\r\n<ul>\r\n\t<li>\r\n\t\t<a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS72/\">eRacks/NAS72</a></li>\r\n\t<li>\r\n\t\t<span
+      style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;\"><a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS50/\">eRacks/NAS50</a></span></li>\r\n\t<li>\r\n\t\t<span
+      style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;\"><a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS36/\">eRacks/NAS36</a></span></li>\r\n\t<li>\r\n\t\t<span
+      style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;\"><a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS24/\">eRacks/NAS24</a></span></li>\r\n\t<li>\r\n\t\t<span
+      style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;\"><a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS16/\">eRacks/NAS16</a></span></li>\r\n\t<li>\r\n\t\t<span
+      style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;\"><a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS12/\">eRacks/NAS12</a></span></li>\r\n\t<li>\r\n\t\t<span
+      style=\"color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;\"><a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS8/\">eRacks/NAS8</a></span></li>\r\n\t<li>\r\n\t\t<a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS6/\"><span style=\"color:
+      rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif;\">eRacks/NAS6</span>&nbsp;</a></li>\r\n\t<li>\r\n\t\t<a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS4/\">eRacks/NAS4</a></li>\r\n\t<li>\r\n\t\t<a
+      href=\"https://eracks.com/products/storage-servers-nas/NAS3/\">eRacks/NAS3</a></li>\r\n</ul>\r\n<p>\r\n\tCurrently
+      the 8TB Helium drives are now available on all our servers, our <a href=\"https://eracks.com/products/storage-servers-nas/NAS72/#specs\">eRacks/NAS72</a>&nbsp;now
+      has 576TB of storage! a must have for your business needs.</p>\r\n<p>\r\n\t<span
+      style=\"color: rgb(85, 85, 85); font-family: 'Helvetica Neue', HelveticaNeue,
+      Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; line-height:
+      16.25px;\">&ldquo;&nbsp;</span><strong>We&rsquo;ve passed an important milestone
+      on the road to remaking the future of storage</strong> w<strong style=\"margin:
+      0px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', HelveticaNeue,
+      Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; font-stretch:
+      inherit; line-height: 16.25px; vertical-align: baseline; color: rgb(85, 85,
+      85);\">ith less power consumption and yet more storage, this brings watts-per-petabyte
+      efficiency to a whole new level. Go Green now and save Big Bucks on your Cloud
+      and Big Data power bill!&rdquo;&nbsp;</strong><span style=\"color: rgb(85, 85,
+      85); font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, Arial, 'Lucida
+      Grande', sans-serif; font-size: 13px; line-height: 16.25px;\">&ndash; Joseph
+      Wolff, Founder and CTO of eRacks Open Source Systems.</span></p>\r\n<div class=\"content\"
+      id=\"bd\">\r\n\t<p>\r\n\t\tEmail: info (at) eracks.com or via our contact page
+      at <a href=\"http://eracks.com/contact-us/\">eracks.com/contact</a> if you have
+      any questions.<br />\r\n\t\t<br />\r\n\t\t<strong>Quick Links</strong></p>\r\n</div>\r\n<div
+      class=\"content\">\r\n\t<p>\r\n\t\t<strong>About us link</strong>: http://eracks.com/corporate/</p>\r\n\t<p>\r\n\t\t<strong>Contact
+      us link</strong>: <a href=\"http://eracks.com/contact/\">http://eracks.com/contact/</a></p>\r\n\t<p>\r\n\t\t<strong>Products
+      link</strong>: <a href=\"http://eracks.com/showroom/\">http://eracks.com/showroom/</a></p>\r\n\t<p>\r\n\t\t<strong>Services
+      link</strong>: <a href=\"http://eracks.com/services/\">http://eracks.com/services/</a></p>\r\n\t<p>\r\n\t\t<strong>Website</strong>:
+      <a href=\"http://eracks.com/\">http://eracks.com/</a></p>\r\n</div>\r\n<p style=\"color:
+      rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter',
+      Times, serif; font-size: 16px; line-height: 24px;\">\r\n\t<strong style=\"color:
+      rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px;\">Contact
+      Information</strong></p>\r\n<div id=\"contact\">\r\n\tJoseph Wolff<br />\r\n\t<a
+      href=\"http://eracks.com/#prleap\" rel=\"nofollow\">eRacks Systems</a><br />\r\n\t408-431-8154<br
+      />\r\n\t&nbsp;</div>\r\n<div class=\"span3\">\r\n\t<div id=\"brand_box\">\r\n\t\t<div
+      class=\"thumb\">\r\n\t\t\t<img alt=\"\" height=\"48\" src=\"https://media.prleap.com/image/31829/75/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      title=\"\" width=\"48\" /> <strong>eRacks Open Source Systems</strong>\r\n\t\t\t<hr
+      />\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\teRacks Open Source Systems<br
+      />\r\n\t<a class=\"trackingLink\" href=\"http://www.eRacks.com\" rel=\"nofollow\">http://www.eRacks.com</a><br
+      />\r\n\teMail: info@eracks.com</p>\r\n", created: ! '2015-05-11 13:34:50.073094',
+    css: '', description: 'eRacks is always developing new open-source servers based
+      on customer needs. eRacks announces the integration of HGST-10TB HDD they say
+      this wont be in your laptop, but the 10-terabyte hard drive will be in your
+      datacenter servers.', heading: true, javascript: '', keywords: 'Storage server,
+      Open Source Servers, Servers, Linux, Cloud computing, Hosting, HGST, Hard drives,
+      Helio Seal, SMR,', meta_title: '', name: May-29-2015- eRacks Upgrades their
+      Storage Servers with the New HGST Technology-10TB HDD, published: true, slug: May-29-2015-eRacks-Upgrades-their-Storage-Servers-with-the-New-HGST-Technology-10TB-HDD,
+    template: quickpages/press.html, title: May-29-2015-eRacks Upgrades their Storage
+      Servers with the New HGST Technology-10TB HDD, updated: ! '2015-09-23 17:30:36.906681'}
+  model: quickpages.quickpage
+  pk: 142
+- fields: {comments: "PRLog June 30, 2015\r\n+ more to come", content: "<h4 id=\"hd\">\r\n\teRacks
+      Systems Introduces New Higher Capacity Drives to its NAS72 Cloud Storage Servers
+      - Now With 576TB Space</h4>\r\n<p>\r\n\t<i><a href=\"http://www.prlog.org/12470962-eracks-systems-introduces-new-higher-capacity-drives-to-its-nas72-cloud-storage-servers.html\"
+      style=\"text-decoration:none\" target=\"_blank\">PRLog</a></i> - <strong>June&nbsp;30</strong><b><i><strong>,</strong>
+      2015</i> - <i>FREMONT, Calif.</i> -- </b><a href=\"http://www.prlog.org/12470962.pdf\"
+      target=\"_blank\">PDF&nbsp;</a><a href=\"http://www.prlog.org/12460908.pdf\"
+      target=\"_blank\"> </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp;</p>\r\n<div>\r\n\teRacks Systems, a nation-wide
+      leading rack-mount Open Source solution provider and an innovator in cloud based
+      storage server and accessories announced today that it&rsquo;s high-end NAS72
+      server series can now be built and shipped with 8 Terabyte storage drives. The
+      drives raise the capacity of the 72-bay unit to a total of 576 Terabytes of
+      raw storage space. The 4U system can also be equipped with advanced green drives
+      consuming up to 23% less power than company&rsquo;s traditional network drives.&nbsp;</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\tThe
+      <a href=\"https://eracks.com/products/storage-servers-nas/NAS72/\">NAS72</a>
+      by eRacks is a high-storage-density 4U rack-mount storage server with 72 removable
+      drive bays suitable for Open Source Cloud Storage, Private Cloud, Hybrid Cloud,
+      and Near-Line Storage (NLS) with choices of Open-Source cloud software such
+      as OpenStack, CloudStack, Eucalyptus, OpenNebula, ProxMox, and others. The server
+      accommodates applications for SDS, NAS and Local LAN, in addition to all types
+      of media libraries. Customers have a choice of storage or SDS software such
+      as Ceph, GlusterFS, MooseFS, and LizardFS in order to facilitate integration
+      in to larger architectures or cloud infrastructures. The available software
+      choices are updated, with even more Cloud-ready and Cloud-friendly offerings
+      than before.&nbsp;<a href=\"https://eracks.com/products/storage-servers-nas/NAS72/\"
+      target=\"_blank\"><img alt=\"\" src=\"http://s23.postimg.org/vmihcvv17/nas72_front_and_back.jpg\"
+      style=\"width: 237px; height: 234px; float: right;\" /></a></div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\tFor
+      an unprecedented price-point, eRacks Systems, offers the NAS72 servers already
+      available with 5, 6, and now 8 Terabyte Seagate Archive-style drives. The 4U
+      unit leaves 2U of space in a standard 42u rack for other eRacks&rsquo; accessories
+      such as UPS, KVM, Network switch/firewall, and others. The Company says that
+      <strong><a href=\"https://eracks.com/May-29-2015-eRacks-Upgrades-their-Storage-Servers-with-the-New-HGST-Technology-10TB-HDD/\">10
+      Terabyte HGST</a></strong> archive-style SMR drives are also coming soon and
+      the company can be contacted for pre-orders. The SMR (Shingled Magnetic Recording)
+      archive-style drives are key for NLS (Near-Line-Storage) servers.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\teRacks&rsquo;
+      new NAS72 storage drives come with higher energy-efficiency ratios than their
+      predecessors due to the fact that the new, larger 8TB drives are Helium-filled
+      requiring far less rotational energy and making them 23% more Energy-efficient.
+      The helium also makes the drives lighter in weight comparing to older drive
+      types. The new green drives make the NAS72 storage system much more cost-effective
+      as well as environment-friendly.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\tFounded
+      in 1999 by system architects and network design consultants, eRacks Systems
+      has over 25 years of setting up enterprise-class computing infrastructures.
+      eRacks Systems&rsquo; innovative contributions to the computing industry and
+      its dedication and expertise in providing Open-Source solutions, has made the
+      company well recognized as the go-to-source for Enterprise-class Petascale solutions.
+      While many of the company&rsquo;s products come pre-installed and pre-configured
+      with customers&rsquo; choice of Open-Source software, eRacks specializes in
+      customized rack-mount and desktop systems and welcomes customers with unique
+      requirements.</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\t&ldquo;Once again,
+      eRacks provides an unbeatable price-point for Petascale-class storage,&rdquo;
+      said Joseph Wolff, CTO and Founder of eRacks. &ldquo;The new HelioSeal drives,
+      at an unheard-of miserly energy usage, at an all-time low of watts-per-terabyte
+      - allows customers to really &#39;Go Green&#39; with their data center or cloud
+      facility.&rdquo;</div>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\teRacks Systems
+      holds offices in Fremont and Los Gatos, California. For more information on
+      the NAS72 8TB Cloud Storage Servers as well as other Petascale storage solutions,
+      contact eRacks at <a href=\"http://info@eracks.com\">info@eracks.com</a> or
+      visit http://www.eracks.com.</div>\r\n<div class=\"content\" id=\"bd\">\r\n\t<p>\r\n\t\t<br
+      />\r\n\t\t<strong>Quick Links</strong></p>\r\n</div>\r\n<div class=\"content\">\r\n\t<p>\r\n\t\t<strong>About
+      us link</strong>: <a href=\"http://eracks.com/corporate/\">http://eracks.com/corporate/</a></p>\r\n\t<p>\r\n\t\t<strong>Contact
+      us link</strong>: <a href=\"http://eracks.com/contact/\">http://eracks.com/contact/</a></p>\r\n\t<p>\r\n\t\t<strong>Products
+      link</strong>: <a href=\"http://eracks.com/showroom/\">http://eracks.com/showroom/</a></p>\r\n\t<p>\r\n\t\t<strong>Services
+      link</strong>: <a href=\"http://eracks.com/services/\">http://eracks.com/services/</a></p>\r\n\t<p>\r\n\t\t<strong>Website</strong>:
+      <a href=\"http://eracks.com/\">http://eracks.com/</a></p>\r\n</div>\r\n<p style=\"color:
+      rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter',
+      Times, serif; font-size: 16px; line-height: 24px;\">\r\n\t<strong style=\"color:
+      rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px;\">Contact
+      Information</strong></p>\r\n<div id=\"contact\">\r\n\tJoseph Wolff<br />\r\n\t<a
+      href=\"http://eracks.com/#prleap\" rel=\"nofollow\">eRacks Systems</a><br />\r\n\t408-431-8154<br
+      />\r\n\t&nbsp;</div>\r\n<div class=\"span3\">\r\n\t<div id=\"brand_box\">\r\n\t\t<div
+      class=\"thumb\">\r\n\t\t\t<img alt=\"\" height=\"48\" src=\"https://media.prleap.com/image/31829/75/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      title=\"\" width=\"48\" /> <strong>eRacks Open Source Systems</strong>\r\n\t\t\t<hr
+      />\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\teRacks Open Source Systems<br
+      />\r\n\t<a class=\"trackingLink\" href=\"http://www.eRacks.com\" rel=\"nofollow\">http://www.eRacks.com</a><br
+      />\r\n\teMail: info@eracks.com</p>\r\n", created: ! '2015-06-30 14:19:07.204216',
+    css: '', description: eRacks Systems Introduces New Higher Capacity Drives to
+      its NAS72 Cloud Storage Servers - Now With 576TB Space, heading: true, javascript: '',
+    keywords: 'Storage server, Open Source Servers, Servers, NAS72, Cloud computing,
+      Hosting, HGST, Hard drives, rackmount storage server', meta_title: '', name: eRacks
+      Higher Capacity Drives-NAS72, published: true, slug: June-30-2015-eRacks-Systems-Introduces-New-Higher-Capacity-Drives-to-its-NAS72-Cloud-Storage-Servers-
+      Now-With-576TB-Space, template: quickpages/press.html, title: June-30-2015-
+      eRacks Systems Introduces New Higher Capacity Drives to its NAS72 Cloud Storage
+      Servers - Now With 576TB Space, updated: ! '2015-09-23 17:30:36.923286'}
+  model: quickpages.quickpage
+  pk: 143
+- fields: {comments: "PRWeb July 31, 2015\r\n+blog, emailers to come from NetZela\r\n",
+    content: "<h4 id=\"hd\">\r\n\t<span class=\"HeaderTextSpan H1TextSize\" id=\"distributionHeadlineTextTD\"><span
+      class=\"TextSpan\"><span class=\"SubHeaderTextSpan\">eRacks Systems Announces
+      NAS36 Upgrade To 288 Terabytes Data Storage Space Priced at Below $25,000</span></span></span></h4>\r\n<p>\r\n\t<i><a
+      href=\"http://www.prweb.com/releases/2015/07/prweb12881038.htm\" style=\"text-decoration:none\"
+      target=\"_blank\">PRWeb</a></i> - <strong>July 31</strong><b><i><strong>,</strong>
+      2015</i> - <i>HAYWARD, Calif.</i> -- </b><a href=\"http://www.prweb.com/pdfdownload/12881038.pdf\"
+      target=\"_blank\">PDF&nbsp;</a><a href=\"http://www.prlog.org/12460908.pdf\"
+      target=\"_blank\"> </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp;</p>\r\n<p class=\"responsiveNews\">\r\n\t<a href=\"http://eracks.com\"
+      rel=\"nofollow\" title=\"The Best Rackmount Servers\">eRacks Systems</a>, a
+      leading nation-wide high capacity storage solution provider and a frontier in
+      cloud based petascale storage servers based in Silicon Valley, California announced
+      today that it has upgraded its already high-capacity <a href=\"http://eracks.com/NAS36\"
+      rel=\"nofollow\" title=\"eRacks/NAS36 Petascale rackmount storage server\">eRacks/NAS36</a>
+      storage server models to provide for 288 Terabytes of data storage capacity
+      having thirty-six 8 Terabyte Seagate Archive drives. The NAS36 will be available
+      at a break-through price of under $25,000 making it highly affordable for enterprises
+      of any size that require petascale volumes of data storage.</p>\r\n<p class=\"responsiveNews\">\r\n\t<a
+      href=\"eracks.com//NAS36/\"><img alt=\"NAS36 from front corner\" src=\"/images/products/nas36/nas36-angle-square.jpg\"
+      style=\"width: 240px; height: 240px; float: right; margin-left: 15px; margin-right:
+      15px;\" title=\"Finest rackmount 36-drive storage server\" /></a>eRacks Newly
+      upgraded <a href=\"http://eracks.com/NAS36\" rel=\"nofollow\" title=\"eRacks/NAS36
+      Petascale rackmount storage server\">eRacks/NAS36</a> storage units are rack-mount
+      servers uniquely designed to encompass thirty-six 8TB Seagate Archive Drives
+      while they require minimum of space on a standard data center rack. The drives
+      are mounted on a single backplane on the 4U unit and are controlled by a RAID
+      controller handling up to 36 drives. The unit places 24 hotswap drives in front
+      and 12 in the back considerably reducing the total space required for the server
+      (only 4Us) leaving plenty of space for accompanying and necessary accessories
+      on the rack.</p>\r\n<p class=\"responsiveNews\">\r\n\tThe high capacity Seagate
+      Archive Drives feature SMR (Shingled Magnetic Recording) technology, making
+      eRacks NAS36 storage system servers to be unequivocally reliable and efficient,
+      yet achieving a new low in price/TB. Price-tagged at under $25,000 the 4U unit
+      is the most valuable and cost-effective solution available to eRacks customers
+      looking for a reliable high-volume storage server.</p>\r\n<p class=\"responsiveNews\">\r\n\tAvailable
+      immediately at this affordable price, the NAS36 Seagate Drive Archive Storage
+      Server is best utilized for Cloud Storage and Near-Line Storage for companies
+      and enterprises requiring petascale online storage capacities, with an archival
+      use-case. The server is configurable for cloud or NAS (Network Attached Storage)
+      applications and is available with any variety of cloud, SDS (Software Defined
+      Storage), or NAS software. NAS36 servers are also suitable for Private Cloud
+      and Hybrid Cloud architectures as well and also provide a high quality solution
+      for media-rich content library applications.</p>\r\n<blockquote class=\"blockquote
+      blockquote--lg quote-lines qa-news-quote\" style=\"background-color:whitesmoke;float:left;padding:10px;margin:10px;width:240px\">\r\n\t<span
+      class=\"blockquote-text\">&quot;Once again, we are proud to lead the pack in
+      bringing a new breakthru price-point to the market in lowest cost-per-petabyte
+      - and helping champion the use of the new archival-storage SMR drives to both
+      NLS and Cloud storage applications&quot; - JJW, eRacks</span></blockquote>\r\n<p
+      class=\"responsiveNews\">\r\n\teRacks Systems will pre-install any open source
+      Cloud, NAS, or storage software on the NAS36 server according to its customers
+      preference and needs before delivering the unit. All open-source cloud software
+      such as OpenStack, CloudStack, Eucalyptus, OpenNebula, ProxMox are supported.
+      eRacks Systems is committed to open-source systems and can preinstall storage
+      and SDS software such as Ceph, GlusterFS, MooseFS, and LizardFs to facilitate
+      larger architectural or cloud infrastructure integrations.</p>\r\n<p class=\"responsiveNews\">\r\n\t<a
+      href=\"http://eracks.com\" rel=\"nofollow\" title=\"Finest rack mount servers\">eRacks
+      Systems</a>&nbsp; was founded in 1999 by system architects and network design
+      consultants. The company is well known as a go-to-source provider for open source
+      enterprise-class petascale storage solutions. eRacks customers can contact the
+      company for any unique customization requirements and pre-orders. eRacks Systems
+      specializes in providing customized rack-mount and desktop systems to customers.</p>\r\n<p
+      class=\"responsiveNews\">\r\n\tThe company has offices in Hayward and Los Gatos,
+      California. Customers can contact eRacks Systems by email at info(at)eracks(dot)com
+      or via the Contact page on the company&rsquo;s website, <a href=\"http://eracks.com\"
+      rel=\"nofollow\">https://eracks.com</a> where additional information is also
+      available on the eRacks/NAS36 and other petascale solutions provided by the
+      company.</p>\r\n<div class=\"content\" id=\"bd\">\r\n\t<p>\r\n\t\t<strong>Quick
+      Links</strong></p>\r\n</div>\r\n<div class=\"content\">\r\n\t<p>\r\n\t\t<strong>About
+      us link</strong>: <a href=\"http://eracks.com/corporate/\">http://eracks.com/corporate/</a></p>\r\n\t<p>\r\n\t\t<strong>Contact
+      us link</strong>: <a href=\"http://eracks.com/contact/\">http://eracks.com/contact/</a></p>\r\n\t<p>\r\n\t\t<strong>Products
+      link</strong>: <a href=\"http://eracks.com/showroom/\">http://eracks.com/showroom/</a></p>\r\n\t<p>\r\n\t\t<strong>Services
+      link</strong>: <a href=\"http://eracks.com/services/\">http://eracks.com/services/</a></p>\r\n\t<p>\r\n\t\t<strong>Website</strong>:
+      <a href=\"http://eracks.com/\">http://eracks.com/</a></p>\r\n</div>\r\n<p style=\"color:
+      rgb(51, 51, 51); font-family: Georgia, 'Times New Roman', 'Bitstream Charter',
+      Times, serif; font-size: 16px; line-height: 24px;\">\r\n\t<strong style=\"color:
+      rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px;\">Contact
+      Information</strong></p>\r\n<div id=\"contact\">\r\n\tJoseph Wolff<br />\r\n\t<a
+      href=\"http://eracks.com/#prleap\" rel=\"nofollow\">eRacks Systems</a><br />\r\n\t408-431-8154<br
+      />\r\n\t&nbsp;</div>\r\n<div class=\"span3\">\r\n\t<div id=\"brand_box\">\r\n\t\t<div
+      class=\"thumb\">\r\n\t\t\t<img alt=\"\" height=\"48\" src=\"https://media.prleap.com/image/31829/75/NAS-24-36-elbow-20131206_100956-320x240.jpg\"
+      title=\"\" width=\"48\" /> <strong>eRacks Open Source Systems</strong>\r\n\t\t\t<hr
+      />\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>\r\n\teRacks Open Source Systems<br
+      />\r\n\t<a class=\"trackingLink\" href=\"http://www.eRacks.com\" rel=\"nofollow\">http://www.eRacks.com</a><br
+      />\r\n\teMail: info@eracks.com</p>\r\n", created: ! '2015-08-10 17:52:39.070925',
+    css: '', description: eRacks Systems price breakthru NAS36 Cloud Storage Servers
+      with 288TB storage for under $25000, heading: true, javascript: '', keywords: 'Storage
+      server, Open Source Servers, Servers, NAS36, Cloud computing, Hosting, HGST,
+      HelioSeal, Seagate Archive, Hard drives, rackmount storage server', meta_title: '',
+    name: eRacks 288TB NAS36 under $25K, published: true, slug: jul-31-2015-eracks-288tb-nas36-under-25k,
+    template: quickpages/press.html, title: 'July 31, 2015 - eRacks 288TB NAS36 under
+      $25K', updated: ! '2015-09-23 17:30:36.892556'}
+  model: quickpages.quickpage
+  pk: 144
+- fields: {comments: "PRLog Aug 31, 2015\r\n+blog, emailers to come from Ron Sh\r\n",
+    content: "<div id=\"sm\"><strong>eRacks Systems, leading open-source and high-capacity
+      storage server provider in U.S. announces its latest upgrade to its flagship
+      eRacks/NAS50, which will provide 500 Terabytes of data storage space. The company
+      is taking pre-orders as the product is in final stages of production.</strong></div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div
+      id=\"bdab\" style=\"min-height:410px\">\r\n<div class=\"content\" id=\"bd\"><a
+      href=\"http://www.prlog.org/12489059-nas50-front-diag-565.jpg\" target=\"_blank\"><img
+      alt=\"nas50_front_diag_565\" class=\"im2\" src=\"http://www.prlog.org/12489059-nas50-front-diag-565.jpg\"
+      style=\"float:right; height:222px; width:250px\" title=\"nas50_front_diag_565\"
+      /></a> <strong>FREMONT, Calif.</strong> - <strong>Aug. 31, 2015</strong> - <em><a
+      href=\"http://www.prlog.org\" style=\"text-decoration:none\">PRLog</a></em>
+      -- <a href=\"http://eracks.com\" rel=\"nofollow\" target=\"_blank\">eRacks Systems</a>,
+      the leading nation-wide provider of high-capacity, cloud-ready, enterprise-class
+      storage solutions based in Fremont, California today announced the availability
+      of its flagship eRacks/NAS50, now with up to 500 Terabytes of data storage capacity
+      utilizing the newest 10TB HGST high-end drives. The <a href=\"http://eracks.com/NAS50\"
+      rel=\"nofollow\" target=\"_blank\">eRacks/NAS50</a> will be available presently
+      and the company is now accepting pre-orders.<br />\r\n<br />\r\nThe <a href=\"http://eracks.com/NAS50\"
+      rel=\"nofollow\" target=\"_blank\">eRacks/NAS50</a> is a 9U rack mount unit
+      with 50 removable drive bays. Previously providing 400 terabytes of data storage
+      space, NAS50 will now be offering half a Petabyte (500TB) of storage capacity.<br
+      />\r\n<br />\r\nThe 9U rack mount <a href=\"http://eracks.com/NAS50\" rel=\"nofollow\"
+      target=\"_blank\">eRacks/NAS50</a> storage server is truly a remarkable petascale
+      solution suitable for cloud storage, SDS (Software-Defined Storage), as well
+      as NAS/Local LAN applications. The solution is also essential for media library
+      applications that require massive amounts of data storage space. On standard
+      data center 42u racks, four NAS50 servers will provide two full Petabytes of
+      data storage while leaving enough extra room for equipments such as UPS, KVM,
+      network switches and firewalls, or other accessories.<br />\r\n<br />\r\nThe
+      new <a href=\"http://eracks.com/NAS50\" rel=\"nofollow\" target=\"_blank\">eRacks/NAS50</a>
+      high-capacity storage servers will incorporate 50 HGST 10 Terabyte HelioSeal
+      hard drives. The HGST hard drives use HelioSeal and Shingled Magnetic Recording
+      (SMR) technologies.<br />\r\n<br />\r\nThe HGST hard drives use helium in place
+      of air allowing extra room for more disks in a standard hard drive. That is
+      because helium allows for much thinner disks without any disruptive turbulence
+      effects. The feature, therefore, allows for incorporation of more disks in one
+      drive providing for more capacity on each drive. That leads to lower total cost
+      of ownership as an added bonus for utilizing eRacks Systems&rsquo; NAS50 storage
+      servers. Additionally, helium drives consume as much as 27% less power than
+      traditional hard drives making NAS50 truly an eco-friendly cloud-based storage
+      server while saving considerable amount of money for customers at the same time.<br
+      />\r\n<br />\r\n<a href=\"http://eracks.com\" rel=\"nofollow\" target=\"_blank\">eRacks
+      Systems</a>&rsquo; new 10 Terabyte drives also make use of SMR technology. The
+      Shingled Magnetic Recording technology uses wide data tracks as opposed to traditional
+      narrow-track disks. The tracks on SMR drives overlap, removing the gap in between
+      tracks providing 25 to 100 percent more data storage capacity on the same drive.<br
+      />\r\n<br />\r\n&quot;A &#39;green&#39; Big Data / Private Cloud system like
+      this is the ultimate tool that any business out there should consider, as it
+      will not only reduce power consumption by typically 27%, but also offer 20%
+      greater storage capacity - and bring watts-per-petabyte efficiency to a completely
+      new level!&quot; said Joseph Wolff, Founder &amp; CTO, eRacks Open Source Systems.
+      He further adds that this is a great opportunity for businesses of all sizes
+      to &ldquo;Go-green&rdquo;.<br />\r\n&nbsp;\r\n<div><strong>Contact</strong><br
+      />\r\nJoseph Wolff<br />\r\n<a href=\"http://www.prlog.org/email-contact.html#12489059\">joe@eracks.com</a><br
+      />\r\n<br />\r\n<small>Photo:<br />\r\n<a class=\"photolink\" href=\"http://www.prlog.org/12489059-nas50-front-diag-565.jpg\"
+      target=\"_blank\">http://www.prlog.org/12489059/1</a></small></div>\r\n</div>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n",
+    created: ! '2015-09-09 15:44:40.871977', css: '', description: "eRacks Systems,
+      leading open-source and high-capacity storage server provider in U.S. announces
+      its latest\r\n\tupgrade to its flagship eRacks/NAS50, which will provide 500
+      Terabytes of data storage space. The\r\n\tcompany is taking pre-orders as the
+      product is in final stages of production.", heading: true, javascript: '', keywords: 'Storage
+      server, Open Source Servers, Servers, NAS50, eRacks/NAS50, Cloud computing,
+      Hosting, HGST, HelioSeal, SMR, Seagate Archive, Hard drives, rackmount storage
+      server', meta_title: '', name: eRacks taking pre-orders for 500TB eRacks/NAS50,
+    published: true, slug: aug-31-2015-eracks-systems-announces-imminent-500-terabyte-half-petabyte-eracks-nas50-cloud-ready-storage-servers,
+    template: quickpages/press.html, title: 'Aug 31, 2105 - eRacks Systems Announces
+      Imminent 500 Terabyte (Half Petabyte) eRacks/NAS50 Cloud-Ready Storage Server',
+    updated: ! '2015-11-03 11:03:05.431461'}
+  model: quickpages.quickpage
+  pk: 145
+- fields: {comments: 'Submitted via PRLog $49 w/image, PressReleaseJet $49 premium,
+      PressReleasePing ', content: "<p><img alt=\"eRacks/ZENBOOK15.UHD with 4K/UHD
+      Ultra High Definition and 16GB upgradable RAM\" src=\"/media/images/products/zenbook15uhd/erackszenbook15uhd-3.png\"
+      style=\"float:right; height:282px; width:450px\" /></p>\r\n\r\n<p><strong>Los
+      Gatos, California - September 29, 2015</strong>&nbsp;&ndash; eRacks Open Source
+      Systems, the pioneering provider of Open Source based laptop and desktop computers
+      in California, announced today the release of its new high-end Ultrabook computers
+      based on the 15.6&quot; Asus ZenBook Laptops.&nbsp; The company will be shipping
+      the <a href=\"https://eracks.com/products/laptops/ZENBOOK15.UHD/#overview\"><strong>eRacks/ZENBOOK15.UHD</strong>
+      </a>with choice of Linux or BSD Open Source operating system software pre-installed
+      and configured to work &ldquo;right out of the box.&rdquo;</p>\r\n\r\n<p>The
+      high-performing and stylish ZenBook Laptop computer by Asus is already established
+      as a masterpiece of Ultrabook technology for its powerful features, such as
+      4K/UHD display and up to 24GB RAM available (default is 16GB),&nbsp;as well
+      as elegance in design.&nbsp; The truly elegant diamond-cut design along with
+      the spun-metal finish gives this impressive Ultrabook an astonishingly sophisticated
+      look.</p>\r\n\r\n<p>eRacks Systems&rsquo; adoption of Asus ZenBook, unifies
+      the elegance and style presented by this astonishing laptop computer with the
+      power and freedom offered by Open Source operating systems. eRacks/ZENBOOK15.UHD
+      not only looks astounding but it also brings to users the liberty of choice
+      so-favored by devotees of Open Source software around the world.</p>\r\n\r\n<p>As
+      an added bonus, eRacks Systems pre-installs and guarantees that eRacks/ZENBOOK15.UHD&nbsp;
+      purchased from the company will work right out of the box &ldquo;removing any
+      uncertainty involved if the customers were to install the operating system themselves,&rdquo;
+      says Joseph Wolff, Founder and CTO of eRacks Open Source Systems.&nbsp; &ldquo;We
+      have with us the superior knowledge of what works, how to install all operating
+      systems, how to work around little incompatibilities, and make technology tweaks,
+      so we can ensure delivery of a fully functioning laptop or Ultrabook,&rdquo;
+      adds Wolff. &ldquo;We have gained this knowledge by having done this for over
+      16 years on both servers and laptops.&rdquo;</p>\r\n\r\n<p>In addition to pre-installation
+      and configuration of the Open Source operating system when delivering eRacks/ZENBOOK15.UHD,
+      the company also offers its customers upgrade options, hardware installations,
+      and guarantees not available elsewhere.&nbsp; These upgrades include RAM and
+      Hard Disk as well as other component upgrades.</p>\r\n\r\n<p>Founded in 1999
+      by system architects and network design consultants, eRacks Open Source Systems
+      has made its mark as a pioneering technology provider dedicated to open source
+      software integration with top brand names in the industry.&nbsp;&nbsp; The company
+      welcomes any unique customization required by its customers.</p>\r\n\r\n<p>The
+      company has offices in Hayward and Los Gatos, California. &nbsp;Customers can
+      contact eRacks Systems by phone number (714) 758-5423 or email at info@eracks.com.&nbsp;
+      Company&rsquo;s website <a href=\"https://eracks.com/\">https://eracks.com</a>
+      is available for further information on eRacks/ZENBOOK15.UHD and other Open
+      Source solutions provided by the company.</p>\r\n\r\n<p>eRacks Open Source Systems</p>\r\n\r\n<p>Phone:
+      (714) 758-5423</p>\r\n\r\n<p>Fax: (631) 392-9842</p>\r\n\r\n<p><a href=\"https://eracks.com/\">https://eRacks.com</a></p>\r\n\r\n<p>eMail:
+      <a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n", created: ! '2015-09-23
+      14:40:15.492787', css: '', description: eRacks Open Source Systems releases
+      new high-end Ultrabook computer based on Asus ZenBook Laptop. The company will
+      be shipping its eRacks/ZENBOOK15.UHD with choice of Linux or BSD Open Source
+      operating system software pre-installed and configured with RAM and/or SSD upgrades
+      to work right out of the box., heading: true, javascript: '', keywords: 'Laptop
+      Open Source, Laptop Open Source Operating System, Laptop Open OS, Linux, Linux
+      Ultrabook, LInux Zenbook, Asus, Zenbook, UX501, UX501 Zenbook', meta_title: '',
+    name: 'Sep 29, 2015 - eRacks Systems Releases 4K High-end 15.6" Linux-based Ultrabook
+      - the eRacks/ZENBOOK15.UHD', published: true, slug: sep-29-2015-eracks-systems-releases-4k-high-end-156-linux-based-ultrabook-erackszenbook15uhd,
+    template: quickpages/press.html, title: 'Sep 29, 2015 - eRacks Systems Releases
+      4K High-end 15.6" Linux-based Ultrabook - the eRacks/ZENBOOK15.UHD', updated: ! '2015-09-29
+      10:24:38.480131'}
+  model: quickpages.quickpage
+  pk: 146
+- fields: {comments: '', content: "google-site-verification: google18633f2b4299a9c8.html\r\n",
+    created: ! '2015-09-30 10:33:20.955808', css: '', description: '', heading: false,
+    javascript: '', keywords: '', meta_title: '', name: google18633f2b4299a9c8.html,
+    published: true, slug: google18633f2b4299a9c8.html, template: raw.html, title: google18633f2b4299a9c8.html,
+    updated: ! '2015-09-30 10:44:33.260534'}
+  model: quickpages.quickpage
+  pk: 147
+- fields: {comments: '', content: "<p><strong><img alt=\"\" src=\"/media/images/products/nas8/nas8_front_3u_option.jpeg\"
+      style=\"float:right; height:232px; width:450px\" />Los Gatos, California &ndash;
+      September 29, 2015</strong> &ndash; eRacks Open Source Systems, A leading provider
+      of Open Source rackmount storage server solutions based in Californian, announced
+      today a new upgrade to its four low-range, economy-size cloud-ready servers,
+      providing a selection between 32 to 128 Terabytes of raw storage space.&nbsp;
+      The servers provide a greener, eco-friendly solution by using 8 Terabytes HGST
+      hard drives.</p>\r\n\r\n<p>Utilizing the new high-end hard disk drives, eRacks/NAS4,
+      NAS8, NAS12, and NAS16 storage server models provide a versatile solution to
+      companies needing network-attached or cloud-based data storage space at an affordable
+      price.&nbsp; The 8 Terabytes HGST hard drives used in these models are the same
+      high quality and high capacity hard drives used in the higher-end server models
+      offered by the company.</p>\r\n\r\n<p>eRacks/NAS4 is a 1U high rackmount storage
+      server.&nbsp; The unit holds 4 hot-swappable drive bays for up to 32 Terabytes
+      of raw storage space and comes with four Gigabit Ethernet ports.&nbsp; These
+      server series are based on Intel single or dual Xeon-capable motherboards and
+      can be configured with up to 1.5 Terabytes of RAM.</p>\r\n\r\n<p>eRacks/NAS8
+      is another great rackmount storage server solution by eRacks Systems. The unit
+      is 2U high or can be 3U high with optional Optical Drive bay for CD, DVD, and
+      BluRay.&nbsp; The 2U unit can also come with a slim Optical Drive bay as an
+      option.&nbsp; This model holds 8 hot-swappable drive bays for up to 64 Terabytes
+      of total data storage space.</p>\r\n\r\n<p>eRacks/NAS12 is a remarkable economy-size
+      data storage server for small to medium size companies that would like an affordable
+      data storage solution but require the high-end power and cloud capabilities
+      that come with higher-end storage servers.&nbsp; This unit requires only 2U
+      on the datacenter rack and has 12 hot-swap drive bays for up to 96 Terabytes
+      of networked raw storage space.</p>\r\n\r\n<p>eRacks/NAS16 server model is a
+      top-of-the-line network-attached or cloud-ready solution that has power and
+      capacity enough to be considered almost a midrange solution.&nbsp; The 3U rackmount
+      unit has 16 hot-swappable drive bays and with the new 8 Terabytes HGST drive,
+      the server will offer up to 128 Terabytes of total capacity.</p>\r\n\r\n<p>&nbsp;eRacks
+      Systems is committed to providing high-quality open system and open source based
+      solutions that are affordable and easy to understand.&nbsp; The company makes
+      it a task to &ldquo;offer simple, good-better-best gradated solutions to customers,
+      and simplify the byzantine mess of configuration offered by other providers,&rdquo;
+      says Joseph Wolff, Founder and CTO of eRacks Open Source Systems</p>\r\n\r\n<p>The
+      servers purchased from eRacks Systems will come pre-installed and ready-to-use,
+      with your choice of open source operating system and software.&nbsp; Customers
+      can have other motherboard configurations as well such as AMD based configuration.&nbsp;
+      Customers are asked to contact the company for details.</p>\r\n\r\n<p>eRacks
+      Systems has offices in Hayward and Los Gatos, California.&nbsp; Customers can
+      contact eRacks Systems by phone number (714) 758-5423 or email at info@eracks.com.&nbsp;
+      Company&rsquo;s website <a href=\"https://eracks.com/\">https://eracks.com</a>
+      is available for further information on all Open Source solutions provided by
+      the eRacks Systems.</p>\r\n\r\n<p>eRacks Open Source Systems</p>\r\n\r\n<p>Phone:
+      (714) 758-5423</p>\r\n\r\n<p>Fax: (631) 392-9842</p>\r\n\r\n<p><a href=\"https://eracks.com/\">https://eRacks.com</a>&nbsp;</p>\r\n\r\n<p>eMail:
+      <a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n", created: ! '2015-10-28
+      15:35:52.267794', css: '', description: 'eRacks Open Source Systems, A leading
+      provider of Open Source rackmount storage server solutions based in Californian,
+      announced today a new upgrade to its four low-range, economy-size cloud-ready
+      servers, providing a selection between 32 to 128 Terabytes of raw storage space.  The
+      servers provide a greener, eco-friendly solution by using 8 Terabytes HGST hard
+      drives.', heading: true, javascript: '', keywords: 'Open Source, Cloud Base,
+      Cloud Server, Cloud Data Storage, High Capacity Storage, Terabyte Storage Servers,
+      Low-End Storage Server, Network Attached', meta_title: eRacks Systems Adds More
+      Capacity To Four NAS Green Cloud-Ready Storage Servers, name: eRacks Systems
+      Adds More Capacity To Four NAS Green Cloud-Ready Storage Servers, published: false,
+    slug: eracks-systems-adds-more-capacity-four-nas-green-cloud-ready-storage-servers,
+    template: quickpages/press.html, title: eRacks Systems Adds More Capacity To Four
+      NAS Green Cloud-Ready Storage Servers, updated: ! '2015-10-28 15:43:55.359944'}
+  model: quickpages.quickpage
+  pk: 148
+- fields: {body: "<nav id=\"nav_main\">\r\n    <a href=\"/products/\" title=\"eRacks
+      Product Categories\">Products</a> \xB7\r\n    <a href=\"/services/\" title=\"eRacks
+      Services\">Services</a> \xB7\r\n    <a href=\"/partners/\" title=\"eRacks Partners\">Partners</a>
+      \xB7\r\n    <a class=\"aloha-link-text\" href=\"/customers/\" title=\"eRacks
+      Customers and Testimonials\">Customers</a> \xB7\r\n    <a class=\"aloha-link-text\"
+      href=\"/faq/\" title=\"eRacks Frequently Asked Questions\">FAQ</a> \xB7\r\n
+      \   <a class=\"aloha-link-text\" href=\"/press/\" title=\"News about eRacks,
+      Press Releases\">Press</a> \xB7\r\n    <a class=\"aloha-link-text\" href=\"/corporate/\"
+      title=\"About eRacks\">About Us</a> \xB7 \r\n    <a href=\"http://blog.eracks.com/\"
+      title=\"eRacks Tech News and Blog\">Blog</a> \xB7\r\n    <a target=\"_self\"
+      class=\"aloha-link-pointer\" href=\"/contact/\" title=\"Contact eRacks\">Contact
+      Us</a>\r\n</nav>\r\n", comments: '', created: ! '2012-04-03 18:31:18.573738',
+    css: '', js: '', name: nav_main, published: false, title: Nav_Main - Main Nav
+      Bar, typ: raw, updated: ! '2012-10-20 22:06:47.813579'}
+  model: quickpages.quicksnippet
+  pk: 1
+- fields: {body: "<nav id=\"nav_small\">\r\n    <a href=\"/\" title=\"eRacks Open
+      Source Systems\">Home</a> \xB7\r\n    <a href=\"/products/\" title=\"eRacks
+      Product Showroom\">Products</a> \xB7\r\n    <a href=\"/services/\" title=\"eRacks
+      Services\">Services</a> \xB7\r\n    <a href=\"/corporate/\" title=\"About eRacks\">About
+      Us</a>\r\n</nav>\r\n", comments: '', created: ! '2012-04-08 23:07:11.839066',
+    css: '', js: '', name: nav_small, published: true, title: Nav_Small - Upper Left
+      Nav, typ: raw, updated: ! '2012-10-20 22:06:11.753886'}
+  model: quickpages.quicksnippet
+  pk: 2
+- fields: {body: "<nav id=\"nav_login\">\r\n    Social Logins:\r\n    <a href=\"/login/\"
+      title=\"Login at eRacks using BrowserID / Mozilla Persona\">\r\n      <img alt=\"BrowserID
+      / Persona button\" src=\"https://browserid.org/i/sign_in_orange.png\">\r\n    </a>
+      \xB7\r\n    <a href=\"/fb\" title=\"Login at eRacks with Facebook\">FB</a> \xB7\r\n
+      \   <a href=\"/tw\" title=\"Login at eRacks with Twitter\">Tw</a> \xB7\r\n    <a
+      href=\"/in\" title=\"Login at eRacks with LinkedIn\">In</a> \xB7\r\n</nav>\r\n",
+    comments: '', created: ! '2012-04-08 23:08:26.693513', css: '', js: '', name: nav_login,
+    published: true, title: Nav_Login - Upper Right Nav, typ: raw, updated: ! '2012-05-04
+      17:07:05.052150'}
+  model: quickpages.quicksnippet
+  pk: 3
+- fields: {body: "<div id=\"mailing_list\">\r\n  <form action=\"/customers/save_email/\"
+      class=\"nice\" method=\"POST\">\r\n  <i><b>Join Our Mailing List! </b></i>&nbsp;\r\n
+      \ <input type=\"email\" name=\"email\" placeholder=\"Enter your email address\"
+      />\r\n  <input type=\"submit\" class=\"nice small green radius button\" value=\"GO\"
+      />\r\n </form>\r\n</div>", comments: '', created: ! '2012-04-10 18:08:24.474937',
+    css: '', js: '', name: mailing_list, published: true, title: Mailing List, typ: raw,
+    updated: ! '2015-03-24 10:40:20.853426'}
+  model: quickpages.quicksnippet
+  pk: 4
+- fields: {body: "<div id=\"os_logos\">\r\n  <a href=\"http://www.ubuntu.com\" target=\"new\"><img
+      src=\"/images/logos/ubuntu.gif\" height=\"46\" width=\"40\" alt=\"Ubuntu\" border=\"0\"></a>&nbsp;\r\n
+      \ <!-- <a href=\"http://www.gentoo.org\" target=\"new\"><img src=\"http://eracks.com/images/logos/gentoo\"
+      alt=\"\" title=\"\" height=\"46\" width=\"45\" border=\"0\"></a>&nbsp; -->\r\n
+      \ <a href=\"http://www.debian.org\" target=\"new\"><img src=\"/images/logos/debian.gif\"
+      height=\"46\" width=\"50\" alt=\"Debian Linux\" border=\"0\"></a>&nbsp;\r\n
+      \ <a href=\"http://www.centos.org\" target=\"new\"><img src=\"/images/logos/centos.gif\"
+      height=\"46\" width=\"48\" alt=\"CentOS Linux\" border=\"0\"></a>&nbsp;\r\n
+      \ <a href=\"http://www.netbsd.org\" target=\"new\"><img src=\"/images/logos/netbsd_small.gif\"
+      height=\"46\" width=\"46\" alt=\"NetBSD\" border=\"0\"></a>&nbsp;\r\n  <a href=\"http://www.freebsd.org\"
+      target=\"new\"><img src=\"/images/logos/freebsd_small.gif\" height=\"46\" width=\"45\"
+      alt=\"FreeBSD\" border=\"0\"></a>&nbsp;\r\n  <a href=\"http://www.linux.org\"
+      target=\"new\"><img src=\"/images/logos/linux_small.gif\" height=\"46\" width=\"45\"
+      alt=\"Linux\" border=\"0\"></a>&nbsp;\r\n  <a href=\"http://www.openbsd.org\"
+      target=\"new\"><img src=\"/images/logos/openbsd_small.gif\" height=\"46\" width=\"55\"
+      alt=\"OpenBSD\" border=\"0\"></a>&nbsp; \r\n</div>", comments: '', created: ! '2012-04-23
+      21:58:53.002279', css: '', js: '', name: os_logos, published: true, title: Open
+      Source Operating System Logos, typ: raw, updated: ! '2012-04-24 22:40:10.297260'}
+  model: quickpages.quicksnippet
+  pk: 5
+- fields: {body: "<div id=\"social_login_logos\">\r\n  <img src=\"/images/logos/facebook-logo-45x45.png\"
+      height=\"24\" width=\"24\" alt=\"Facebook login\" border=\"0\"></a>&nbsp;\r\n</div>",
+    comments: '', created: ! '2012-04-23 22:39:01.136624', css: '', js: '', name: social_login_logos,
+    published: true, title: TODO, typ: raw, updated: ! '2012-04-23 22:39:01.136673'}
+  model: quickpages.quicksnippet
+  pk: 6
+- fields: {body: "\r\n<font color=\"red\"><b>New!</b></font><br>\r\nIntel e5-2600
+      <br>Quad/Six/Eight Core CPU<br>\r\n<a href=\"/products/Intel%20Systems/ESERVE\">eRacks/ESERVE</a>\r\n
+      and \r\n<a href=\"/products/Intel%20Systems/SANDYTOWER\">eRacks/SANDYTOWER</a>\r\n\r\n<a
+      href=\"/products/Intel%20Systems\"><img src=\"http://eracks.com/products/Intel%20Systems/intele5_chip_s\"
+      alt=\"\" title=\"\" height=\"52\" width=\"78\" border=\"0\"></a>\r\n<br>\r\n\r\n\r\n<hr
+      width=\"75%\"><br>\r\n\r\nIntel i3/i5/i7 <br>Dual- Quad- or Six- Core CPU<br>\r\n<a
+      href=\"/products/Desktops\"><img src=\"http://eracks.com/products/Desktops/i7chip_70\"
+      alt=\"\" title=\"Intel i7 CPU\" height=\"52\" width=\"70\" border=\"0\"></a>\r\n<br>\r\n\r\n\r\n<hr
+      width=\"75%\"><br>\r\n<font color=\"red\"><b>New!</b></font><br>\r\nUbuntu +
+      Thin + Light<br>\r\n<a href=\"/products/Laptops/ZENBOOK\"><img src=\"http://eracks.com/images/small/zenbook_100\"
+      alt=\"\" title=\"\" height=\"76\" width=\"100\" border=\"0\"></a>\r\n<br>\r\n<a
+      href=\"/products/Laptops/ZENBOOK\">eRacks/ZENBOOK</a>\r\n\r\n<hr width=\"75%\"><br>\r\n\r\nAMD
+      Fusion<br>A-Series Llano APU<br>\r\n<a href=\"/products/AMD%20Systems\"><img
+      src=\"http://eracks.com/products/AMD%20Systems/amd_70\" alt=\"\" title=\"AMD\"
+      height=\"76\" width=\"70\" border=\"0\"></a>\r\n<br>\r\n<a href=\"/products/ASERIES\">eRacks/ASERIES</a>\r\n
+      \ &  <br>\r\n<a href=\"/products/APURACK\">eRacks/APURACK</a>\r\n<p>\r\n\r\n<hr
+      width=\"75%\"><br>\r\n\r\n<b><a href=\"/products/Firewall%20Servers/\">eRacks/TWINGUARD</a>\r\n</b>\r\n<a
+      href=\"/products/Firewall%20Servers/\"><img src=\"http://eracks.com/products/Firewall%20Servers/openbsd_gunlogo_85\"
+      alt=\"\" title=\"\" height=\"69\" width=\"85\" border=\"0\"></a>\r\n<br>\r\n\r\nFailover
+      fully-redundant firewall system in one 1U chassis.\r\n\r\n<br>\r\n<hr width=\"75%\"><br>\r\n\r\nIntel
+      Xeon E7-4400 <br>&<br>Intel Xeon E7-8800<br>\r\n<a href=\"/products/Storage%20Servers%20-%20NAS\"><img
+      src=\"http://eracks.com/products/Storage%20Servers%20-%20NAS/intelE7_70\" alt=\"\"
+      title=\"\" height=\"53\" width=\"70\" border=\"0\"></a>\r\n<br>\r\n<a href=\"/products/NAS6X\">eRacks/NAS6X</a>\r\n
+      \ &  <br>\r\n<a href=\"/products/NAS16X\">eRacks/NAS16X</a>\r\n<p>\r\n\r\n<hr
+      width=\"75%\"><br>\r\n\r\n<a href=\"/products/NAS50\"><img src=\"http://eracks.com/products/Storage%20Servers%20-%20NAS/nas50_70\"
+      alt=\"\" title=\"eRacks/NAS50\" height=\"64\" width=\"70\" border=\"0\"></a>\r\n<br>\r\n<a
+      href=\"/products/NAS50\">150 TB Capacity</a>\r\n<br>\r\n<a href=\"/products/NAS50\">NAS
+      rackmount server</a>\r\n<p>\r\n\r\n<hr width=\"75%\"><br>\r\n\r\n\r\n\r\n<b>Ubuntu
+      11.10</b> Desktop and Server versions available on eRacks systems!<br>\r\n\r\n<img
+      src=\"products/Desktops/ubuntu_70\" border=\"0\" alt=\"Ubuntu logo\"><br>\r\n<hr
+      width=\"75%\"><br>\r\n\r\n<b>Follow us on <a href=\"http://twitter.com/eRacks\"
+      target=\"new\">Twitter</a>!</b>\r\n<a href=\"http://twitter.com/eRacks\" target=\"new\">
+      <img src=\"/images/twitter-bird\" border=\"0\" alt=\"Twitter bird\"></a><br>\r\nSales!
+      Price updates! News!<br>\r\n<hr width=\"75%\"><br>\r\n\r\n<a href=\"http://fedoraproject.org\"
+      target=\"new\"><img src=\"/images/fedora_logo\" border=\"0\" alt=\"Fedora logo\"></a><br>\r\n<b>Fedora</b>
+      16 ready!<p>\r\n\r\n", comments: '', created: ! '2012-04-23 22:56:54.225105',
+    css: '', js: '', name: right_column, published: true, title: TODO, typ: raw, updated: ! '2012-04-23
+      22:56:54.225151'}
+  model: quickpages.quicksnippet
+  pk: 7
+- fields: {body: '<a href="http://www.la.bbb.org/BusinessReport.aspx?CompanyID=13194335&source=ctc"
+      title="eRacks'' Better Business Bureau report"><img src="http://www.la.bbb.org/images/ClickToCheckVert.gif"
+      WIDTH="86" HEIGHT="139" BORDER="0"></a>', comments: '', created: ! '2012-06-23
+      09:42:10.868505', css: '', js: '', name: bbb_vertical, published: true, title: Vertical
+      Better Business Bureau Clickable Logo, typ: raw, updated: ! '2012-06-23 09:42:10.868570'}
+  model: quickpages.quicksnippet
+  pk: 8
+- fields: {body: '<a href="http://www.la.bbb.org/BusinessReport.aspx?CompanyID=13194335&source=ctc"
+      title="eRacks'' Better Business Bureau report"><img src="http://www.la.bbb.org/images/clickratingsm.gif"
+      WIDTH="135" HEIGHT="52" BORDER="0"></a>', comments: '', created: ! '2012-06-23
+      09:43:22.269853', css: '', js: '', name: bbb_horizontal_old, published: false,
+    title: Horizontal Better Business Bureau Clickable Logo, typ: raw, updated: ! '2013-10-06
+      15:38:12.982086'}
+  model: quickpages.quicksnippet
+  pk: 9
+- fields: {body: "<!-- see https://ssl.trustwave.com/support/siteseal.php -->\r\n<!--
+      script type=\"text/javascript\" src=\"https://sealserver.trustwave.com/seal.js?style=normal\"></script
+      \ -->\r\n<script type=\"text/javascript\" src=\"https://sealserver.trustwave.com/seal.js?code=w6oj3BWieJra4gUlPlTROdOFZidqDb\"></script>",
+    comments: '', created: ! '2012-06-23 09:55:19.651007', css: '', js: '', name: trustwave_siteseal,
+    published: true, title: 'TrustWave site seal - see https://ssl.trustwave.com/support/siteseal.php',
+    typ: raw, updated: ! '2013-06-21 14:58:14.758525'}
+  model: quickpages.quicksnippet
+  pk: 10
+- fields: {body: "<p><img alt=\"\" src=\"/media/home/images/home/line2flame-150.png\"
+      style=\"float:right; height:74px; width:100px\" />eRacks Open Source Systems
+      provides high-performance competitively-priced open source Rackmount Servers,
+      Desktop Computers, as well as a wide array of services including Open Source
+      enterprise migration, security, and network architecture design.</p>\r\n\r\n<p>eRacks
+      saves you both time and money by combining quality open source enterprise-level
+      software and easily-upgradeable industry-standard components in its rackmount
+      servers.</p>\r\n", comments: '', created: ! '2012-10-28 14:50:42.749047', css: '',
+    js: '', name: new_home_page_text_1, published: true, title: High Performance,
+    typ: html, updated: ! '2015-11-09 16:04:47.965808'}
+  model: quickpages.quicksnippet
+  pk: 11
+- fields: {body: "<h3 style=\"font-weight:normal;font-size:x-large\">\r\n  Pre-provisioned
+      OSS\r\n</h3>\r\n\r\n<p>eRacks' specialty is in preconfigured custom Linux rackmount
+      servers, FreeBSD, OpenBSD, and NetBSD rackmount servers. \r\n</p>\r\n\r\n<p>eRacks'
+      wide choice of operating systems also include Ubuntu, Debian, openSUSE, Fedora
+      Linux and other rackmount server configurations. \r\neRacks also provides onsite
+      installation, open source migration services, including network consulting and
+      software development services. \r\n</p>\r\n\r\n<script type=\"text/javascript\">\r\n\r\n
+      \ var _gaq = _gaq || [];\r\n  _gaq.push(['_setAccount', 'UA-37665012-1']);\r\n
+      \ _gaq.push(['_setDomainName', 'eracks.com']);\r\n  _gaq.push(['_trackPageview']);\r\n\r\n
+      \ (function() {\r\n    var ga = document.createElement('script'); ga.type =
+      'text/javascript'; ga.async = true;\r\n    ga.src = ('https:' == document.location.protocol
+      ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\r\n    var
+      s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
+      s);\r\n  })();\r\n\r\n</script>", comments: '', created: ! '2012-10-28 14:52:16.583062',
+    css: '', js: '', name: home_page_text_2, published: true, title: Home Page text
+      2, typ: raw, updated: ! '2015-09-22 21:07:13.803742'}
+  model: quickpages.quicksnippet
+  pk: 12
+- fields: {body: "<h5>\r\n  Experience, Custom design, Open Source, Quiet rackmounts\r\n</h5>\r\n\r\n<p>eRacks
+      also has extensive experience building quiet rackmount and desktop computers,
+      \r\nas well as customizing Linux and other Open Source OSes. Please call or
+      email us to \r\ndiscuss your computational needs.\r\n</p>\r\n\r\n<p> eRacks
+      also has extensive experience building quiet rackmount and desktop computers,
+      \r\nas well as customizing Linux and other Open Source OSes. Please call or
+      email us to discuss your computational needs.\r\n</p>\r\n\r\n<p>eRacks offers
+      more flexibility in rackmount server configuration at a better price!</p>",
+    comments: '', created: ! '2012-10-28 14:56:03.012592', css: '', js: '', name: home_page_text_3,
+    published: true, title: Home Page text 3, typ: raw, updated: ! '2015-04-15 02:07:57.885924'}
+  model: quickpages.quicksnippet
+  pk: 13
+- fields: {body: "<!--\r\n<script src=\"http://download.skype.com/share/skypebuttons/js/skypeCheck.js\"
+      type=\"text/javascript\"></script>\r\n\r\n<a href=\"skype:erackssales?call\">\r\n
+      <img width=\"91\" height=\"22\" alt=\"My status\" style=\"border: none;\" src=\"http://mystatus.skype.com/bigclassic/erackssales\">\r\n</a>\r\n\r\nSkype
+      'My status' button\r\nhttp://www.skype.com/go/skypebuttons\r\n-->\r\n<script
+      type=\"text/javascript\" src=\"http://download.skype.com/share/skypebuttons/js/skypeCheck.js\"></script>\r\n<a
+      href=\"skype:erackssales?call\"><img src=\"http://mystatus.skype.com/bigclassic/erackssales\"
+      style=\"border: none;\" width=\"182\" height=\"44\" alt=\"My status\" /></a>\r\n",
+    comments: '', created: ! '2012-10-28 21:59:14.179393', css: '', js: '', name: skype_widget,
+    published: true, title: Skype widget, typ: raw, updated: ! '2012-10-29 10:42:55.793997'}
+  model: quickpages.quicksnippet
+  pk: 14
+- fields: {body: "<div id=\"fb-root\"></div>\r\n<script>(function(d, s, id) {\r\n
+      \ var js, fjs = d.getElementsByTagName(s)[0];\r\n  if (d.getElementById(id))
+      return;\r\n  js = d.createElement(s); js.id = id;\r\n  js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1&appId=151775531612916\";\r\n
+      \ fjs.parentNode.insertBefore(js, fjs);\r\n}(document, 'script', 'facebook-jssdk'));</script>",
+    comments: '', created: ! '2013-01-06 17:13:26.517402', css: '', js: '', name: facebook_sdk,
+    published: true, title: 'Facebook JS SDK, aka root include', typ: raw, updated: ! '2013-01-06
+      17:13:26.517461'}
+  model: quickpages.quicksnippet
+  pk: 15
+- fields: {body: <div class="fb-like" data-send="false" data-layout="button_count"
+      data-width="450" data-show-faces="true"></div>, comments: '', created: ! '2013-01-06
+      17:14:03.271470', css: '', js: '', name: facebook_like, published: true, title: Facebook
+      Like Button, typ: raw, updated: ! '2013-01-06 17:14:03.271527'}
+  model: quickpages.quicksnippet
+  pk: 16
+- fields: {body: "<!-- Place this tag after the last +1 button tag. -->\r\n<script
+      type=\"text/javascript\">\r\n  (function() {\r\n    var po = document.createElement('script');
+      po.type = 'text/javascript'; po.async = true;\r\n    po.src = 'https://apis.google.com/js/plusone.js';\r\n
+      \   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po,
+      s);\r\n  })();\r\n</script>", comments: '', created: ! '2013-01-06 22:12:13.182089',
+    css: '', js: '', name: google_plus_include, published: true, title: Google+ widget,
+    typ: raw, updated: ! '2013-01-06 22:19:11.560214'}
+  model: quickpages.quicksnippet
+  pk: 17
+- fields: {body: "<!-- Place this tag where you want the +1 button to render. -->\r\n<div
+      class=\"g-plusone\" data-size=\"medium\" data-annotation=\"bubble\" data-width=\"70\"></div>\r\n\r\n",
+    comments: '', created: ! '2013-01-06 22:19:38.037254', css: '', js: '', name: google_plus_tag,
+    published: true, title: Google+ Tag, typ: raw, updated: ! '2013-01-12 14:16:37.596166'}
+  model: quickpages.quicksnippet
+  pk: 18
+- fields: {body: "<img src=\"/images/logos/cbbb-badge-horz.png\" WIDTH=\"135\" HEIGHT=\"52\"
+      BORDER=\"0\" alt=\"Better Business Bureau\" title=\"eRacks has an A+ Better
+      Business Bureau rating\">\r\n", comments: '', created: ! '2013-05-04 14:45:15.718675',
+    css: '', js: '', name: bbb_horizontal, published: true, title: Better Business
+      Bureau image, typ: raw, updated: ! '2015-04-15 02:11:53.344376'}
+  model: quickpages.quicksnippet
+  pk: 19
+- fields: {body: "<!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->\r\n<script
+      language=\"javascript\" type=\"text/javascript\" src=\"//smarticon.geotrust.com/si.js\"></script>\r\n",
+    comments: '', created: ! '2013-10-06 15:39:36.827375', css: '', js: '', name: geotrust_seal,
+    published: true, title: GeoTrust QuickSSL Site Seal, typ: raw, updated: ! '2013-10-06
+      15:42:52.171403'}
+  model: quickpages.quicksnippet
+  pk: 20
+- fields: {body: "<a class=\"twitter-timeline\" href=\"https://twitter.com/eRacks\"
+      data-widget-id=\"662158681019019264\">Tweets by @eRacks</a>\r\n<script>!function(d,s,id){var
+      js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\r\n",
+    comments: '', created: ! '2015-11-04 22:47:38.014725', css: '', js: '', name: twitter_widget,
+    published: true, title: eRacks Twitter Feed, typ: raw, updated: ! '2015-11-06
+      12:06:40.410238'}
+  model: quickpages.quicksnippet
+  pk: 21
+- fields: {body: "<h2 style=\"font-weight:normal;font-size:x-large;padding-top:0;margin-top:0\">\r\n
+      \ High Performance\r\n</h2>\r\n\r\n<p>eRacks Open Source Systems provides high-performance
+      competitively-priced open source Rackmount Servers, \r\nDesktop Computers, as
+      well as a wide array of services including Open Source enterprise migration,
+      \r\nsecurity, and network architecture design. \r\n</p>\r\n\r\n<p>eRacks saves
+      you both time and money by combining quality open source enterprise-level software
+      and \r\neasily-upgradeable industry-standard components in its rackmount servers.
+      \r\n</p>\r\n", comments: '', created: ! '2015-11-04 22:53:09.013171', css: '',
+    js: '', name: home_page_text_1, published: true, title: Home page text 1, typ: raw,
+    updated: ! '2015-11-04 22:53:09.013210'}
+  model: quickpages.quicksnippet
+  pk: 22
+- fields: {body: "<p><img alt=\"\" src=\"/media/home/images/logos/brands/misc/gpl-sign.jpg\"
+      style=\"float:right; height:100px; width:100px\" />eRacks&#39; specialty is
+      in preconfigured custom Linux rackmount servers, FreeBSD, OpenBSD, and NetBSD
+      rackmount servers.</p>\r\n\r\n<p>eRacks&#39; wide choice of operating systems
+      also include Ubuntu, Debian, openSUSE, Fedora Linux and other rackmount server
+      configurations. eRacks also provides onsite installation, open source migration
+      services, including network consulting and software development services.</p>\r\n",
+    comments: '', created: ! '2015-11-05 15:20:32.344318', css: '', js: '', name: new_home_page_text_2,
+    published: true, title: Pre-provisioned OSS, typ: html, updated: ! '2015-11-09
+      15:57:57.498217'}
+  model: quickpages.quicksnippet
+  pk: 23
+- fields: {body: "<p><img alt=\"\" src=\"/media/images/home/oldmanracks-150.jpg\"
+      style=\"float:right; height:113px; width:100px\" />eRacks also has extensive
+      experience building quiet rackmount and desktop computers, as well as customizing
+      Linux and other Open Source OSes. Please call or email us to discuss your computational
+      needs.</p>\r\n\r\n<p>eRacks offers more flexibility in rackmount server configuration
+      at a better price!</p>\r\n", comments: '', created: ! '2015-11-05 15:22:35.229554',
+    css: '', js: '', name: new_home_page_text_3, published: true, title: 'Experience,
+      Custom design, Open Source, Quiet rackmounts', typ: html, updated: ! '2015-11-09
+      16:14:02.359685'}
+  model: quickpages.quicksnippet
+  pk: 24
