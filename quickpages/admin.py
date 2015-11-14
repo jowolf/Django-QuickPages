@@ -2,6 +2,7 @@
 
 from django.contrib import admin
 
+from apps.utils import created, updated, publish, unpublish
 from quickpages.models import QuickPage, QuickSnippet
 
 
@@ -25,7 +26,7 @@ class QuickPageAdmin (admin.ModelAdmin):
                  )
 
     list_filter = ('published', 'created', 'updated', 'template')
-    list_display = ('name', 'slug', 'title', 'template', 'published', 'comments', 'created', 'updated')
+    list_display = ('name', 'slug', 'title', 'template', 'published', 'comments', created, updated)
     search_fields = ('name','slug','title', 'template','meta_title','description','keywords')
     save_as = True
     prepopulated_fields = {"slug": ("name",)}
@@ -36,7 +37,14 @@ class QuickPageAdmin (admin.ModelAdmin):
 
 class QuickSnippetAdmin (admin.ModelAdmin):
     change_form_template = 'quickpages/admin_wysiwyg_change_form.html'
+
+    list_display = ('name', 'title', 'js', 'css', 'body', 'comments', 'published', created, updated)
+    #list_filter = ('published','created','updated')
+    search_fields = ('name', 'title', 'js', 'css', 'body', 'comments')
+    #list_editable = ('link', 'title', 'caption', 'published', 'sortorder',)
+    list_per_page = 50
     save_as = True
+    actions = [publish, unpublish]
 
     #class Meta:
     #    proxy = True
