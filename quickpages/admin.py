@@ -35,10 +35,17 @@ class QuickPageAdmin (admin.ModelAdmin):
     #    js = ('/media/tinymce/tiny_mce.js','/media/tinymce/mce_setup.js')
 
 
+def tags (instance):
+    return ','.join (instance.tags.values_list ('name', flat=True))
+
+tags.short_description = 'Tags'
+tags.description = 'Tag(s) for this object'
+tags.allow_tags = True
+
 class QuickSnippetAdmin (admin.ModelAdmin):
     change_form_template = 'quickpages/admin_wysiwyg_change_form.html'
 
-    list_display = ('name', 'title', 'js', 'css', 'body', 'comments', 'published', created, updated)
+    list_display = ('name', 'title', tags, 'js', 'css', 'body', 'comments', 'published', created, updated)
     #list_filter = ('published','created','updated')
     search_fields = ('name', 'title', 'js', 'css', 'body', 'comments')
     #list_editable = ('link', 'title', 'caption', 'published', 'sortorder',)
