@@ -39,8 +39,8 @@ def _get_snippets():
         result [obj.name] = s
 
         if obj.js:
-          if obj.js.strip().lower().startswith ('<script'):  # pass thru verbatim
-            scripts += obj.js + '\n'
+          if obj.js.strip().lower().startswith ('<'):  # '<script'):  # pass thru verbatim
+            script_tags += obj.js + '\n'
           else:
             js += obj.js + '\n'
 
