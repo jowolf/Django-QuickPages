@@ -223,93 +223,91 @@
     title: Partners, updated: ! '2013-01-11 16:30:56.473660'}
   model: quickpages.quickpage
   pk: 4
-- fields: {comments: '', content: "<h5>\r\n\tAbout eRacks Open Source Systems</h5>\r\n<p>\r\n\teRacks
-      Open Source Systems features its own line of rackmount servers, desktops, and
-      laptops and offers a wide array of services including open source enterprise
-      migration, security, and network architecture services.</p>\r\n<p>\r\n\t<b>eRacks
-      Open Source Systems</b> strives to return the control of the IT department back
-      to the business owner, by providing quality open source enterprise-level applications
-      on easily-upgradable industry-standard hardware.</p>\r\n<p>\r\n\teRacks believes
-      businesses should not be required to rely on third-party closed-source software
-      vendors.</p>\r\n<h5>\r\n\t&nbsp;It&#39;s all about independence.</h5>\r\n<div
-      class=\"big\">\r\n\t<i>Being your own leader. Working toward your own goals.
-      Enjoying freedom of access, ability to customize, while remaining independent
-      of restrictions, licenses, and vendor lock-in. That&#39;s why eRacks believes
-      the future lies in Open Source software. </i></div>\r\n<p>\r\n\t<img alt=\"\"
-      border=\"0\" height=\"228\" src=\"/images/corporate/independencedog.png\" title=\"\"
-      width=\"500\" /></p>\r\n<div class=\"xbig\">\r\n\t&nbsp;<i>Who&#39;s holding
-      <b>your</b> leash?</i><br />\r\n\t&nbsp;</div>\r\n<p>\r\n\tThe eRacks technical
-      staff has both the technical knowledge and experience to be able to offer and
-      recommend effective enterprise-level solutions.</p>\r\n<p>\r\n\teRacks prides
-      itself in giving customers a wide choice of open source operating systems and
-      software to be preconfigured on the systems they purchase.</p>\r\n<h5>\r\n\tHistory:</h5>\r\n<p>\r\n\teRacks
+- fields: {comments: '', content: "<h3><img alt=\"\" src=\"/media/images/logos/e_small.png\"
+      style=\"float:right; height:145px; width:140px\" />About eRacks Open Source
+      Systems</h3>\r\n\r\n<p>eRacks Open Source Systems features its own line of rackmount
+      servers, desktops, and notebooks,&nbsp;and offers a wide array of services including
+      open source enterprise migration, security, DevOps,&nbsp;and network architecture
+      services.</p>\r\n\r\n<p><strong>eRacks Open Source Systems</strong> strives
+      to return the control of the IT department back to the business owner, by providing
+      world-class best-of-breed open source enterprise-level applications on easily-upgradable
+      industry-standard hardware.</p>\r\n\r\n<p>eRacks believes businesses should
+      not be required to rely on third-party closed-source software vendors.</p>\r\n\r\n<h3>It&#39;s
+      all about independence.</h3>\r\n\r\n<div class=\"big\"><em>Being your own leader.
+      Working toward your own goals. Enjoying freedom of access, ability to customize,
+      while remaining independent of restrictions, licenses, and vendor lock-in. That&#39;s
+      why eRacks believes the future lies in Open Source software. </em></div>\r\n\r\n<p><img
+      alt=\"\" src=\"/images/corporate/independencedog.png\" style=\"float:left; height:228px;
+      width:500px\" title=\"\" /></p>\r\n\r\n<div class=\"xbig\">&nbsp;<em>Who&#39;s
+      holding <strong>your</strong> leash?</em><br />\r\n&nbsp;</div>\r\n\r\n<p>The
+      eRacks technical staff has both the technical knowledge and experience to be
+      able to offer and recommend effective enterprise-level solutions.</p>\r\n\r\n<p>eRacks
+      prides itself in giving customers a wide choice of open source operating systems
+      and software to be preconfigured on the systems they purchase.</p>\r\n\r\n<h3>History:</h3>\r\n\r\n<p>eRacks
       was founded by system architects and network design consultants who over the
       last twenty-five years have had first-hand experience setting up enterprise-level
       computing infrastructures. eRacks&#39; founders decided to leverage their expertise
       by designing ready-to-run systems, saving customers money, configuration time,
-      and frustration.</p>\r\n<p>\r\n\tThe company was officially created at the end
-      of 1999, and was then called <i>eRacks Appliances and Thin Systems</i>. The
-      name was changed to <i>eRacks Open Source Rackmount Systems</i> in mid-2001
-      and then shortened to <i>eRacks Open Source Systems</i> at the end of 2002.</p>\r\n<p>\r\n\tThe
+      and frustration.</p>\r\n\r\n<p>The company was officially created at the end
+      of 1999, and was then called <em>eRacks Appliances and Thin Systems</em>. The
+      name was changed to <em>eRacks Open Source Rackmount Systems</em> in mid-2001
+      and then shortened to <em>eRacks Open Source Systems</em> at the end of 2002.</p>\r\n\r\n<p>The
       eRacks main facility was originally located in Laguna Beach, and moved to Orange,
-      California in May 2006. eRacks also has offices in Silicon Valley, California.</p>\r\n<h5>\r\n\tNews:</h5>\r\n<p>\r\n\tCompany
-      News and Press Releases: <a href=\"/press/\">Keep up with the news at eRacks!</a></p>\r\n<h5>\r\n\tJobs:</h5>\r\n<p>\r\n\tCareers
-      at eRacks: <a href=\"/jobs/\">Check on current job listings.</a></p>\r\n<p>\r\n\t<img
-      alt=\"eRacks BAY standard 1U chassis\" border=\"0\" height=\"111\" src=\"/images/corporate/BAY_closed.jpeg\"
-      width=\"300\" /></p>\r\n<h5>\r\n\tProducts and Services:</h5>\r\n<p>\r\n\teRacks&#39;
-      network appliances include <a href=\"/products/firewall-servers/\">Firewall
+      California in May 2006. eRacks also has offices in Silicon Valley, California.</p>\r\n\r\n<h3>News:</h3>\r\n\r\n<p>Company
+      News and Press Releases: <a href=\"/press/\">Keep up with the news at eRacks!</a></p>\r\n\r\n<h3>Jobs:</h3>\r\n\r\n<p>Careers
+      at eRacks: <a href=\"/jobs/\">Check on current job listings.</a></p>\r\n\r\n<p><img
+      alt=\"eRacks BAY standard 1U chassis\" src=\"/images/corporate/BAY_closed.jpeg\"
+      style=\"float:right; height:111px; width:300px\" /></p>\r\n\r\n<h3>Products
+      and Services:</h3>\r\n\r\n<p>eRacks&#39; network appliances include <a href=\"/products/firewall-servers/\">Firewall
       servers</a>, <a href=\"/products/network-servers/\">Web and Network servers</a>,
       <a href=\"/products/enterprise-servers/\">Enterprise servers</a>, and <a href=\"/products/storage-servers-nas/\">Network
       Attached Storage</a> servers. We also offer configuration, network design, and
       other consulting services either through our own in-house engineers or for larger
       projects, through our partner organization, <a href=\"http://thelibregroup.com\">The
-      Libre Group</a>.</p>\r\n<p>\r\n\tNeed a custom configured rackmount server that
+      Libre Group</a>.</p>\r\n\r\n<p>Need a custom configured rackmount server that
       you don&#39;t see in our existing selections? Just <a href=\"/products/custom-design/\">ask
       and we will customize it</a> for you - and save it for you for the future, so
       you can reorder it as many times as you like, and get the same tailored configuration
-      set to your individual specifications every time.</p>\r\n<p>\r\n\tHave more
-      questions? <a href=\"/contact-us/\">Contact</a> eRacks for further information.
-      Let us know how we can meet your business needs.</p>\r\n<h5>\r\n\tContact:</h5>\r\n<p>\r\n\t<addr>
-      eRacks Open Source Systems</addr><br />\r\n\tPhone: (714) 758-5423<br />\r\n\tFax:
-      (631) 392-9842<br />\r\n\t<a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n<p>\r\n\t<strong>eMail
-      is the best way to reach us</strong></p>\r\n<p>\r\n\t<img alt=\"eRacks Open
-      Source Systems logo\" border=\"0\" height=\"156\" src=\"/images/logos/eracks_logo_500.png\"
-      width=\"500\" /></p>\r\n", created: ! '2012-04-10 12:03:15.390673', css: '',
-    description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+      set to your individual specifications every time.</p>\r\n\r\n<p>Have more questions?
+      <a href=\"/contact-us/\">Contact</a> eRacks for further information. Let us
+      know how we can meet your business needs.</p>\r\n\r\n<h3>Contact:</h3>\r\n\r\n<p>eRacks
+      Open Source Systems<br />\r\nOffices in Hayward, CA and Los Gatos, CA<br />\r\nPhone:
+      (408) 455-0010<br />\r\nVM: (714) 758-5423 (Google Voice)<br />\r\nFax: (631)
+      392-9842<br />\r\n<a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n\r\n<p><strong>eMail
+      is the best way to reach us</strong></p>\r\n\r\n<p><img alt=\"eRacks Open Source
+      Systems logo\" src=\"/images/logos/eracks_logo_500.png\" style=\"float:left;
+      height:156px; width:500px\" /></p>\r\n", created: ! '2012-04-10 12:03:15.390673',
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
     name: Corporate, published: true, slug: corporate, template: quickpages/two_columns.html,
-    title: Corporate, updated: ! '2014-06-19 15:54:19.866396'}
+    title: Corporate, updated: ! '2015-12-06 11:33:18.180185'}
   model: quickpages.quickpage
   pk: 7
-- fields: {comments: '', content: "<div id=\"contact-us\">\r\n\t<p>\r\n\t\tCustomized
-      rackmount and desktop systems are our specialty! We frequently put configurations
-      together for customers that have unique requirements. Contact us today.</p>\r\n\t<p>\r\n\t\tNeed
-      network design help?<br />\r\n\t\t<br />\r\n\t\tOpen Source enterprise migration
-      services?<br />\r\n\t\t<br />\r\n\t\teRacks experts can make special arrangements
-      to tackle your design problems. <a href=\"mailto:consulting@eracks.com\">Tell
-      us</a> about your project.</p>\r\n\t<img alt=\"\" border=\"0\" height=\"306\"
-      src=\"/images/contact-us/bcard_hand.gif\" width=\"400\" />\r\n\t<p>\r\n\t\t<addr>
-      <strong>eRacks Open Source Systems</strong><br />\r\n\t\tHas offices in:</addr><addr></addr><addr><br
-      />\r\n\t\t&nbsp;- Fremont, CA</addr><addr></addr><addr></addr><addr><br />\r\n\t\t&nbsp;-
-      Los Gatos, CA</addr></p>\r\n\t<p>\r\n\t\t<b>Phone: (714) 758-5423</b> (Voicemail)<br
-      />\r\n\t\tFax: (631) 392-9842</p>\r\n\t<p>\r\n\t\teMail: <a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n\t<p>\r\n\t\t<strong>eMail
-      is the best way to contact us</strong></p>\r\n\t<p>\r\n\t\t&nbsp;</p>\r\n\t<p>\r\n\t\tTwitter:
+- fields: {comments: '', content: "<div id=\"contact-us\">\r\n<p>Customized rackmount
+      and desktop systems are our specialty! We frequently put configurations together
+      for customers that have unique requirements. Contact us today.</p>\r\n\r\n<p>Need
+      network design help?<br />\r\n<br />\r\nOpen Source enterprise migration services?<br
+      />\r\n<br />\r\neRacks experts can make special arrangements to tackle your
+      design problems. <a href=\"mailto:consulting@eracks.com\">Tell us</a> about
+      your project.</p>\r\n<img alt=\"\" src=\"/images/contact-us/bcard_hand.gif\"
+      style=\"height:306px; width:400px\" />\r\n<p><strong>eRacks Open Source Systems</strong><br
+      />\r\nHas offices in:<br />\r\n&nbsp;- Fremont, CA<br />\r\n&nbsp;- Los Gatos,
+      CA</p>\r\n\r\n<p><strong>Phone: (714) 758-5423</strong> (Voicemail)<br />\r\nFax:
+      (631) 392-9842</p>\r\n\r\n<p>eMail: <a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n\r\n<p><strong>eMail
+      is the best way to contact us</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Twitter:
       <a href=\"http://twitter.com/eracks\" target=\"new\"> <img alt=\"\" src=\"http://eracks.com/images/logos/twitterbtn.png\"
-      style=\"border-width: 0px; border-style: solid; width: 30px; height: 30px;\"
-      title=\"\" /><br />\r\n\t\ttwitter.com/eracks </a> <!--\r\nSkype 'Skype Me\x99!'
-      button\r\nhttp://www.skype.com/go/skypebuttons\r\n--></p>\r\n\t<p>\r\n\t\t<script
-      src=\"http://download.skype.com/share/skypebuttons/js/skypeCheck.js\" type=\"text/javascript\">
-      </script><a href=\"skype:erackssales?call\"><img alt=\"Skype Me !\" height=\"23\"
-      src=\"http://download.skype.com/share/skypebuttons/buttons/call_blue_transparent_70x23.png\"
-      style=\"border: none;\" width=\"70\" /> </a><br />\r\n\t\tSkype: erackssales</p>\r\n\t<b>Please
-      direct email inquires to:</b>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\tRegarding special
-      pricing, components, or any other information: <a href=\"mailto:info@eracks.com\">info@eracks.com</a></li>\r\n\t\t<li>\r\n\t\t\tRegarding
-      network design, custom progamming or other consulting: <a href=\"mailto:consulting@eracks.com\">consulting@eracks.com</a></li>\r\n\t\t<li>\r\n\t\t\tregarding
-      technical support, drivers, maintenance plans, etc: <a href=\"mailto:support@eracks.com\">support@eracks.com</a></li>\r\n\t</ul>\r\n\t<img
-      alt=\"\" border=\"0\" height=\"52\" src=\"/images/contact-us/bbb.gif\" width=\"135\"
-      /></div>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2012-04-10 12:07:16.716037',
+      style=\"border-style:solid; border-width:0px; height:30px; width:30px\" title=\"\"
+      /><br />\r\ntwitter.com/eracks </a> <!--\r\nSkype 'Skype Me\x99!' button\r\nhttp://www.skype.com/go/skypebuttons\r\n--></p>\r\n\r\n<p><a
+      href=\"skype:erackssales?call\"><img alt=\"Skype Me !\" src=\"http://download.skype.com/share/skypebuttons/buttons/call_blue_transparent_70x23.png\"
+      style=\"border:none; height:23px; width:70px\" /> </a><br />\r\nSkype: erackssales</p>\r\n<strong>Please
+      direct email inquires to:</strong>\r\n\r\n<ul>\r\n\t<li>Regarding special pricing,
+      components, or any other information: <a href=\"mailto:info@eracks.com\">info@eracks.com</a></li>\r\n\t<li>Regarding
+      network design, custom progamming or other consulting: <a href=\"mailto:consulting@eracks.com\">consulting@eracks.com</a></li>\r\n\t<li>regarding
+      technical support, drivers, maintenance plans, etc: <a href=\"mailto:support@eracks.com\">support@eracks.com</a></li>\r\n</ul>\r\n<img
+      alt=\"\" src=\"/images/contact-us/bbb.gif\" style=\"height:52px; width:135px\"
+      /></div>\r\n\r\n<p>&nbsp;</p>\r\n", created: ! '2012-04-10 12:07:16.716037',
     css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
-    name: Contact us, published: true, slug: contact-us, template: '', title: Contact
-      eRacks, updated: ! '2014-06-19 15:38:12.060499'}
+    name: Contact us, published: false, slug: contact-us, template: '', title: Contact
+      eRacks, updated: ! '2015-12-10 10:41:59.118783'}
   model: quickpages.quickpage
   pk: 10
 - fields: {comments: '', content: "<p>\r\n\teRacks Open Source Systems provides high-performance
@@ -406,31 +404,40 @@
     title: Product Showroom, updated: ! '2015-03-31 02:42:50.608864'}
   model: quickpages.quickpage
   pk: 15
-- fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<div
-      class=\"c6\">\r\n\t<img alt=\"\" src=\"/images/services/fullrack.jpeg\" style=\"border-width:
-      0px; border-style: solid; width: 251px; height: 694px; float: right;\" title=\"\"
-      /></div>\r\n<h4>\r\n\teRacks Consulting Services</h4>\r\n<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\t<p>\r\n\t\tIn
-      addition to a wide selection of customized servers and systems, eRacks&#39;
-      consultants offer expert-level assistance on:</p>\r\n\t<p>\r\n\t\t<strong>&nbsp;&middot;&nbsp;
+- fields: {comments: "11/22/15 BC JJW\r\n\r\nBullets, not just consulting:\r\n\r\nSupport
+      Services - \r\n\r\nWhether you bought it from us or not, we can help - \r\n\r\nWe
+      regularly get contacted by people who have purchased their systems elsewhere,
+      yet they want us to fix it or assist in helpting them fix it.\r\n\r\nOur shop
+      rates are $140/hr, 1/2 what others charge, and we'll be happy to do what we
+      can and offer our expertise in both hardware and open source to do so.\r\n\r\n-
+      Open source migration assessment - 3 tiers, minimum 2 days, 2/3/4 days\r\n\r\n-
+      Minimum engagement - 5 hours - \r\n- Basic consulting / provisioning  / configuration
+      / DevOps assessment - 1-2 days\r\n\r\n- support ticket - $140 (1hr) minimum
+      - gives you live phone attention, personal cell of your support contact\r\n\r\n\r\n\r\n",
+    content: "<!-- now content page goes in this cell-->\r\n<div class=\"c6\"><img
+      alt=\"\" src=\"/images/services/fullrack.jpeg\" style=\"border-style:solid;
+      border-width:0px; float:right; height:694px; width:251px\" title=\"\" /></div>\r\n\r\n<h4>eRacks
+      Consulting Services</h4>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<p>In addition
+      to a wide selection of customized servers and systems, eRacks&#39; consultants
+      offer expert-level assistance on:</p>\r\n\r\n<p><strong>&nbsp;&middot;&nbsp;
       <a href=\"/services/network/\">Network Design</a></strong>, including security
-      issues, firewalls, database architecture and more.</p>\r\n\t<p>\r\n\t\t<strong>&nbsp;&middot;&nbsp;
+      issues, firewalls, database architecture and more.</p>\r\n\r\n<p><strong>&nbsp;&middot;&nbsp;
       Open Source Enterprise Migration</strong> assessment, planning, and deployment.<br
-      />\r\n\t\teRacks Open Source Systems&#39; consultants can assist your business
-      in migrating its applications to open source, including Linux, Zope, Plone,
-      Python, Ajax, Ruby on Rails, MySQL, PostgreSQL, and more.</p>\r\n\t<p>\r\n\t\t<strong>&nbsp;&middot;&nbsp;
+      />\r\neRacks Open Source Systems&#39; consultants can assist your business in
+      migrating its applications to open source, including Linux, Zope, Plone, Python,
+      Ajax, Ruby on Rails, MySQL, PostgreSQL, and more.</p>\r\n\r\n<p><strong>&nbsp;&middot;&nbsp;
       </strong><a href=\"/services/open-mirror/\"><strong>eRacks/OpenMirror</strong>:</a><br
-      />\r\n\t\tReal Time Data Synchronization between two or more remote offices.</p>\r\n\t<p>\r\n\t\t<strong>&nbsp;&middot;&nbsp;
+      />\r\nReal Time Data Synchronization between two or more remote offices.</p>\r\n\r\n<p><strong>&nbsp;&middot;&nbsp;
       </strong><a href=\"http://erackshosting.com\"><strong>Dedicated Hosting</strong>:</a><br
-      />\r\n\t\teRacks provides Dedicated Hosting Services in top-tier facilities
-      in San Jose, California. Each customer receives full root access on a leased
-      custom-built dedicated physical server, connected to high-speed Internet lines.</p>\r\n</div>\r\n<div>\r\n\tFor
-      more information, contact:\r\n\t<p>\r\n\t\teRacks Open Source Systems</p>\r\n\t<p>\r\n\t\tPhone:
-      (714) 758-5423 voicemail<br />\r\n\t\tFax: (631) 392-9842</p>\r\n\t<p>\r\n\t\t<a
-      href=\"mailto:consulting@eracks.com\">consulting@eracks.com</a></p>\r\n</div>\r\n<p>\r\n\t<strong>eMail
-      is the best way to reach us</strong></p>\r\n<p>\r\n\t&nbsp;</p>\r\n", created: ! '2012-10-21
+      />\r\neRacks provides Dedicated Hosting Services in top-tier facilities in San
+      Jose, California. Each customer receives full root access on a leased custom-built
+      dedicated physical server, connected to high-speed Internet lines.</p>\r\n</div>\r\n\r\n<div>For
+      more information, contact:\r\n<p>eRacks Open Source Systems</p>\r\n\r\n<p>Phone:
+      (714) 758-5423 voicemail<br />\r\nFax: (631) 392-9842</p>\r\n\r\n<p><a href=\"mailto:consulting@eracks.com\">consulting@eracks.com</a></p>\r\n</div>\r\n\r\n<p><strong>eMail
+      is the best way to reach us</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n", created: ! '2012-10-21
       15:47:57.577848', css: '', description: '', heading: true, javascript: '', keywords: '',
     meta_title: '', name: Services, published: true, slug: services, template: '',
-    title: Services, updated: ! '2014-06-19 15:51:50.818847'}
+    title: Services, updated: ! '2015-11-22 19:59:05.116546'}
   model: quickpages.quickpage
   pk: 57
 - fields: {comments: '', content: "<!-- now content page goes in this cell-->\r\n<h2>\r\n\teRacks
@@ -1517,87 +1524,85 @@
     slug: faq, template: '', title: FAQ, updated: ! '2012-10-28 11:03:49.480313'}
   model: quickpages.quickpage
   pk: 58
-- fields: {comments: '', content: "<h5>\r\n\teRacks Open Source Systems News coverage,
-      PR, and Press Releases</h5>\r\n<p>\r\n\tPlease <a href=\"mailto:info@eracks.com\">email</a>
+- fields: {comments: '', content: "<h5>eRacks Open Source Systems News coverage, PR,
+      and Press Releases</h5>\r\n\r\n<p>Please <a href=\"mailto:info@eracks.com\">email</a>
       or call for a Press Kit.</p>\r\n<!--\r\n\t\t\t\t\tSee examples of some of eRacks&#39;
-      <a href=\"./brochures/index_html\">past brochures and flyers</a>. -->\r\n<p>\r\n\t<img
-      alt=\"\" src=\"/images/press/news.gif\" style=\"border-width: 0px; border-style:
-      solid; float: right;\" /></p>\r\n<p>\r\n\t<a href=\"120827\">Aug 27, 2012 -
-      eRacks Launches Amazon Storefront Featuring Custom Line of Computers and Servers</a></p>\r\n<p>\r\n\t<a
+      <a href=\"./brochures/index_html\">past brochures and flyers</a>. -->\r\n\r\n<p><img
+      alt=\"\" src=\"/images/press/news.gif\" style=\"border-style:solid; border-width:0px;
+      float:right\" /></p>\r\n\r\n<p><a href=\"120827\">Aug 27, 2012 - eRacks Launches
+      Amazon Storefront Featuring Custom Line of Computers and Servers</a></p>\r\n\r\n<p><a
       href=\"120521\">May 21 , 2012 - theVARGuy.com: eRacks Offers High-End PC to
-      Open Source Crowd</a></p>\r\n<p>\r\n\t<a href=\"120518\">May 18, 2012 - eRacks
+      Open Source Crowd</a></p>\r\n\r\n<p><a href=\"120518\">May 18, 2012 - eRacks
       Announces AresPro Line of High Performance Desktop Computers Tailored For Engineers,
-      Graphic Designers, Video Editors, and High-End Gamers</a></p>\r\n<p>\r\n\t<a
-      href=\"120509\">May 09, 2012 - Top 50 Open Source Companies: Where Are They
-      Now?</a></p>\r\n<p>\r\n\t<a href=\"120425\">April 25, 2012 - Custom NAS50 File
-      Server from eRacks Makes Petabyte-scale Data Storage Accessible for Every Business</a></p>\r\n<p>\r\n\t<a
+      Graphic Designers, Video Editors, and High-End Gamers</a></p>\r\n\r\n<p><a href=\"120509\">May
+      09, 2012 - Top 50 Open Source Companies: Where Are They Now?</a></p>\r\n\r\n<p><a
+      href=\"120425\">April 25, 2012 - Custom NAS50 File Server from eRacks Makes
+      Petabyte-scale Data Storage Accessible for Every Business</a></p>\r\n\r\n<p><a
       href=\"120409\">April 09, 2012 - eRacks Introduces Eseries Line of Fast, Green
-      Intel E5-Powered Rackmount Servers</a></p>\r\n<p>\r\n\t<a href=\"120328\">March
+      Intel E5-Powered Rackmount Servers</a></p>\r\n\r\n<p><a href=\"120328\">March
       28, 2012 - ownCloud Launches Partner Program, Announces Partnerships Across
-      the Globe</a></p>\r\n<p>\r\n\t<a href=\"120315\">March 15, 2012 - eRacks adds
-      blade servers to its rackmount server line.</a></p>\r\n<p>\r\n\t<a href=\"120201\">Feb
-      01, 2012 - MakeTechEasier.com: 2012 Linux Computer Buyer&#39;s Guide</a></p>\r\n<p>\r\n\t<a
-      href=\"120130\">Jan 30, 2012 - eRacks Bucks Server Trend Towards Higher Prices</a></p>\r\n<p>\r\n\t<a
+      the Globe</a></p>\r\n\r\n<p><a href=\"120315\">March 15, 2012 - eRacks adds
+      blade servers to its rackmount server line.</a></p>\r\n\r\n<p><a href=\"120201\">Feb
+      01, 2012 - MakeTechEasier.com: 2012 Linux Computer Buyer&#39;s Guide</a></p>\r\n\r\n<p><a
+      href=\"120130\">Jan 30, 2012 - eRacks Bucks Server Trend Towards Higher Prices</a></p>\r\n\r\n<p><a
       href=\"111121\">Nov 21, 2011 - eRacks releases line of Fully-Redundant Failover
-      Firewalls</a></p>\r\n<p>\r\n\t<a href=\"110909\">Sep 9, 2011 - eRacks Open Source
-      Systems Announces Reseller Agreement with Canonical</a></p>\r\n<p>\r\n\t<a href=\"110825\">Aug
+      Firewalls</a></p>\r\n\r\n<p><a href=\"110909\">Sep 9, 2011 - eRacks Open Source
+      Systems Announces Reseller Agreement with Canonical</a></p>\r\n\r\n<p><a href=\"110825\">Aug
       25, 2011 - eRacks Releases AMD Fusion A-Series Desktop and Rackmount Computer
-      Models</a></p>\r\n<p>\r\n\t<a href=\"110705\">July 5, 2011 - eRacks releases
-      Intel Xeon E7-4800 and E7-8800 series rackmount servers</a></p>\r\n<p>\r\n\t<a
-      href=\"110429\">Apr 29, 2011 - 10 Gigabit Ethernet Connectivity Available on
-      eRacks Rackmount Servers.</a></p>\r\n<p>\r\n\t<a href=\"110228\">Feb 28, 2011
-      - eRacks/SANDYCORE - utilizing the second generation Intel Core processor, Sandy
-      Bridge CPU</a></p>\r\n<p>\r\n\t<a href=\"110123\">Jan 23, 2011 - eRacks/FLAT:
-      the Dust-proof and Silent Small Form Factor Computer</a></p>\r\n<p>\r\n\t<a
+      Models</a></p>\r\n\r\n<p><a href=\"110705\">July 5, 2011 - eRacks releases Intel
+      Xeon E7-4800 and E7-8800 series rackmount servers</a></p>\r\n\r\n<p><a href=\"110429\">Apr
+      29, 2011 - 10 Gigabit Ethernet Connectivity Available on eRacks Rackmount Servers.</a></p>\r\n\r\n<p><a
+      href=\"110228\">Feb 28, 2011 - eRacks/SANDYCORE - utilizing the second generation
+      Intel Core processor, Sandy Bridge CPU</a></p>\r\n\r\n<p><a href=\"110123\">Jan
+      23, 2011 - eRacks/FLAT: the Dust-proof and Silent Small Form Factor Computer</a></p>\r\n\r\n<p><a
       href=\"101222\">Dec 22, 2010 - eRacks introduces the first 150TB storage server,
-      bringing affordable petabyte-class storage to a space-hungry market.</a></p>\r\n<p>\r\n\t<a
+      bringing affordable petabyte-class storage to a space-hungry market.</a></p>\r\n\r\n<p><a
       href=\"100924\">Sep 24, 2010 - eRacks presents the OPT4100 AMD low energy, high
-      power, affordable server.</a></p>\r\n<p>\r\n\t<a href=\"100513\">May 13, 2010
-      - eRacks releases the Opternator</a></p>\r\n<p>\r\n\t<a href=\"100126\">January
-      26, 2010 - eRacks Introduces largest NAS &amp; DAS storage systems</a></p>\r\n<p>\r\n\t<a
-      href=\"090828\">August 26, 2009 - eRacks introduces Cash for PC Clunkers program</a></p>\r\n<p>\r\n\t<a
+      power, affordable server.</a></p>\r\n\r\n<p><a href=\"100513\">May 13, 2010
+      - eRacks releases the Opternator</a></p>\r\n\r\n<p><a href=\"100126\">January
+      26, 2010 - eRacks Introduces largest NAS &amp; DAS storage systems</a></p>\r\n\r\n<p><a
+      href=\"090828\">August 26, 2009 - eRacks introduces Cash for PC Clunkers program</a></p>\r\n\r\n<p><a
       href=\"090716\">July 16, 2009 - eRacks Latest Virtualization Server Utilizes
-      the Six-Core AMD Opteron Processor</a></p>\r\n<p>\r\n\t<a href=\"090601\">June
+      the Six-Core AMD Opteron Processor</a></p>\r\n\r\n<p><a href=\"090601\">June
       01, 2009 -eRacks Introduces an Energy-Saving Quad-Core Xeon 5000 Rackmount Server,
-      the eRacks/NSERVE</a></p>\r\n<p>\r\n\t<a href=\"090407\">Apr 07, 2009 - eRacks
-      Introduces a Behemoth 100TB Capacity 8U Rackmount Server</a></p>\r\n<p>\r\n\t<a
+      the eRacks/NSERVE</a></p>\r\n\r\n<p><a href=\"090407\">Apr 07, 2009 - eRacks
+      Introduces a Behemoth 100TB Capacity 8U Rackmount Server</a></p>\r\n\r\n<p><a
       href=\"090306\">Mar 06, 2009 - eRacks to debut AMD AM3 rackmount server with
-      triple/quad core Phenom II CPUs</a></p>\r\n<p>\r\n\t<a href=\"090223\">Feb 23,
+      triple/quad core Phenom II CPUs</a></p>\r\n\r\n<p><a href=\"090223\">Feb 23,
       2009 - eRacks Announces New Shallow-Depth Rackmount Server for Broadcast and
-      Audio Studios</a></p>\r\n<p>\r\n\t<a href=\"090211\">Feb 11, 2009 - eRacks Announces
-      Significant Uptick in Demand for Open Source Systems</a></p>\r\n<p>\r\n\t<a
-      href=\"090108\">Jan 08, 2009 - eRacks offers top netbooks preinstalled with
-      Ubuntu and Fedora Linux</a></p>\r\n<p>\r\n\t<a href=\"081215\">Dec 15, 2008
-      - eRacks Announces a Linux Intel Core i7 Desktop Computer</a></p>\r\n<p>\r\n\t<a
-      href=\"071207\">Dec 7, 2007 - eRacks Open Source Systems announces eRacks Hosting,
-      a division offering dedicated hosting services.</a></p>\r\n<p>\r\n\t<a href=\"071019\">Oct
-      19, 2007 - Desktop Linux: The wide world of pre-installed Ubuntu</a></p>\r\n<p>\r\n\t<a
-      href=\"070801\">Aug 1, 2007 - eRacks offers a Virtualization Server Solution</a></p>\r\n<p>\r\n\t<a
-      href=\"070227\">Feb 27, 2007 - eRacks enables donations to OpenBSD with rackmount
-      server sales</a></p>\r\n<p>\r\n\t<a href=\"070216\">Feb 16, 2007 - eRacks partners
-      with Canonical to promote Ubuntu Linux</a></p>\r\n<p>\r\n\t<a href=\"061208\">Dec
-      8, 2006 - Processor Magazine: Server Quietization</a></p>\r\n<p>\r\n\t<a href=\"060929\">Sept
-      29, 2006 - Processor Magazine: Ready-To-Run Desktops &amp; Servers</a></p>\r\n<p>\r\n\t<a
-      href=\"060810\">August 10, 2006 - eRacks offers ready-to-run Ubuntu desktops
-      and servers.</a></p>\r\n<p>\r\n\t<a href=\"050525\">May 25, 2005 - Dual Redundant
-      Firewalls with Failover in Single 1U Rackmount Offered by eRacks</a></p>\r\n<p>\r\n\t<a
-      href=\"050201\">Feb 1, 2005 - eRacks Open Source Systems Enables &amp; Matches
-      Donation to EFF</a></p>\r\n<p>\r\n\t<a href=\"040928\">Sep 28, 2004 - eRacks
-      Open Source Systems offers Leasing</a></p>\r\n<p>\r\n\t<a href=\"040804\">Aug
-      3, 2004 - eRacks Introduces a 4-way Opteron Server</a></p>\r\n<p>\r\n\t<a href=\"040318\">Mar
-      18, 2004 - eRacks Offers a New Level of Server Customization</a></p>\r\n<p>\r\n\t<a
-      href=\"031231\">Dec 31, 2003 - eRacks Announces Linux Centrino Laptop</a></p>\r\n<p>\r\n\t<a
-      href=\"031021\">Oct 21, 2003 - eRacks Expands Line of Quiet Computers</a></p>\r\n<p>\r\n\t<a
-      href=\"031008\">Oct 8, 2003 - eRacks Contributes Web &amp; Mail Server to OCLUG</a></p>\r\n<p>\r\n\t<a
-      href=\"030922\">Sep 22, 2003 - eRacks Mirrors Two Terabytes in RealTime</a></p>\r\n<p>\r\n\t<a
-      href=\"030627\">Jun 27, 2003 - eRacks Presents QUIET Rackmount Systems</a></p>\r\n<p>\r\n\t<a
-      href=\"030510\">May 10, 2003 - eRacks Presents Open Source Laptops</a></p>\r\n<p>\r\n\t<a
-      href=\"020226\">Feb 26, 2002 - eRacks Announces ISP/ASP Partner Program</a></p>\r\n<p>\r\n\t<a
+      Audio Studios</a></p>\r\n\r\n<p><a href=\"090211\">Feb 11, 2009 - eRacks Announces
+      Significant Uptick in Demand for Open Source Systems</a></p>\r\n\r\n<p><a href=\"090108\">Jan
+      08, 2009 - eRacks offers top netbooks preinstalled with Ubuntu and Fedora Linux</a></p>\r\n\r\n<p><a
+      href=\"081215\">Dec 15, 2008 - eRacks Announces a Linux Intel Core i7 Desktop
+      Computer</a></p>\r\n\r\n<p><a href=\"071207\">Dec 7, 2007 - eRacks Open Source
+      Systems announces eRacks Hosting, a division offering dedicated hosting services.</a></p>\r\n\r\n<p><a
+      href=\"071019\">Oct 19, 2007 - Desktop Linux: The wide world of pre-installed
+      Ubuntu</a></p>\r\n\r\n<p><a href=\"070801\">Aug 1, 2007 - eRacks offers a Virtualization
+      Server Solution</a></p>\r\n\r\n<p><a href=\"070227\">Feb 27, 2007 - eRacks enables
+      donations to OpenBSD with rackmount server sales</a></p>\r\n\r\n<p><a href=\"070216\">Feb
+      16, 2007 - eRacks partners with Canonical to promote Ubuntu Linux</a></p>\r\n\r\n<p><a
+      href=\"061208\">Dec 8, 2006 - Processor Magazine: Server Quietization</a></p>\r\n\r\n<p><a
+      href=\"060929\">Sept 29, 2006 - Processor Magazine: Ready-To-Run Desktops &amp;
+      Servers</a></p>\r\n\r\n<p><a href=\"060810\">August 10, 2006 - eRacks offers
+      ready-to-run Ubuntu desktops and servers.</a></p>\r\n\r\n<p><a href=\"050525\">May
+      25, 2005 - Dual Redundant Firewalls with Failover in Single 1U Rackmount Offered
+      by eRacks</a></p>\r\n\r\n<p><a href=\"050201\">Feb 1, 2005 - eRacks Open Source
+      Systems Enables &amp; Matches Donation to EFF</a></p>\r\n\r\n<p><a href=\"040928\">Sep
+      28, 2004 - eRacks Open Source Systems offers Leasing</a></p>\r\n\r\n<p><a href=\"040804\">Aug
+      3, 2004 - eRacks Introduces a 4-way Opteron Server</a></p>\r\n\r\n<p><a href=\"040318\">Mar
+      18, 2004 - eRacks Offers a New Level of Server Customization</a></p>\r\n\r\n<p><a
+      href=\"031231\">Dec 31, 2003 - eRacks Announces Linux Centrino Laptop</a></p>\r\n\r\n<p><a
+      href=\"031021\">Oct 21, 2003 - eRacks Expands Line of Quiet Computers</a></p>\r\n\r\n<p><a
+      href=\"031008\">Oct 8, 2003 - eRacks Contributes Web &amp; Mail Server to OCLUG</a></p>\r\n\r\n<p><a
+      href=\"030922\">Sep 22, 2003 - eRacks Mirrors Two Terabytes in RealTime</a></p>\r\n\r\n<p><a
+      href=\"030627\">Jun 27, 2003 - eRacks Presents QUIET Rackmount Systems</a></p>\r\n\r\n<p><a
+      href=\"030510\">May 10, 2003 - eRacks Presents Open Source Laptops</a></p>\r\n\r\n<p><a
+      href=\"020226\">Feb 26, 2002 - eRacks Announces ISP/ASP Partner Program</a></p>\r\n\r\n<p><a
       href=\"010420\">April 20, 2001 - eRacks offers Preconfigured Rackmount Computers</a></p>\r\n",
     created: ! '2012-10-21 15:47:58.633808', css: '', description: '', heading: true,
-    javascript: '', keywords: '', meta_title: '', name: Press - old, published: true,
+    javascript: '', keywords: '', meta_title: '', name: Press - old, published: false,
     slug: press-old, template: quickpages/press.html, title: eRacks Press Releases
-      and Coverage, updated: ! '2014-03-13 10:29:38.962505'}
+      and Coverage, updated: ! '2015-12-10 11:09:06.781648'}
   model: quickpages.quickpage
   pk: 59
 - fields: {comments: '', content: "<!-- now content page goes in this cell--><!--
@@ -6310,68 +6315,483 @@
     updated: ! '2015-09-30 10:44:33.260534'}
   model: quickpages.quickpage
   pk: 147
-- fields: {comments: '', content: "<p><strong><img alt=\"\" src=\"/media/images/products/nas8/nas8_front_3u_option.jpeg\"
-      style=\"float:right; height:232px; width:450px\" />Los Gatos, California &ndash;
-      September 29, 2015</strong> &ndash; eRacks Open Source Systems, A leading provider
-      of Open Source rackmount storage server solutions based in Californian, announced
-      today a new upgrade to its four low-range, economy-size cloud-ready servers,
+- fields: {comments: "Ron:  Maybe do a summary (Most PR sites want one) and paste
+      it here in the comments.\r\n\r\n", content: "<p><strong><a href=\"https://eracks.com/NAS8\"><img
+      alt=\"\" src=\"/media/images/products/nas8/nas8_open_2u.jpeg\" style=\"float:right;
+      height:190px; width:300px\" /></a>Los Gatos, California &ndash; November 30,&nbsp;2015</strong>
+      &ndash; <a href=\"https://eRacks.com\">eRacks Open Source Systems</a>, the&nbsp;leading
+      provider of Open Source rackmount storage server solutions based in California,
+      announced today a new upgrade to its four value-range, cloud-ready servers,
       providing a selection between 32 to 128 Terabytes of raw storage space.&nbsp;
-      The servers provide a greener, eco-friendly solution by using 8 Terabytes HGST
-      hard drives.</p>\r\n\r\n<p>Utilizing the new high-end hard disk drives, eRacks/NAS4,
-      NAS8, NAS12, and NAS16 storage server models provide a versatile solution to
-      companies needing network-attached or cloud-based data storage space at an affordable
-      price.&nbsp; The 8 Terabytes HGST hard drives used in these models are the same
-      high quality and high capacity hard drives used in the higher-end server models
-      offered by the company.</p>\r\n\r\n<p>eRacks/NAS4 is a 1U high rackmount storage
-      server.&nbsp; The unit holds 4 hot-swappable drive bays for up to 32 Terabytes
-      of raw storage space and comes with four Gigabit Ethernet ports.&nbsp; These
-      server series are based on Intel single or dual Xeon-capable motherboards and
-      can be configured with up to 1.5 Terabytes of RAM.</p>\r\n\r\n<p>eRacks/NAS8
-      is another great rackmount storage server solution by eRacks Systems. The unit
-      is 2U high or can be 3U high with optional Optical Drive bay for CD, DVD, and
-      BluRay.&nbsp; The 2U unit can also come with a slim Optical Drive bay as an
-      option.&nbsp; This model holds 8 hot-swappable drive bays for up to 64 Terabytes
-      of total data storage space.</p>\r\n\r\n<p>eRacks/NAS12 is a remarkable economy-size
-      data storage server for small to medium size companies that would like an affordable
-      data storage solution but require the high-end power and cloud capabilities
-      that come with higher-end storage servers.&nbsp; This unit requires only 2U
-      on the datacenter rack and has 12 hot-swap drive bays for up to 96 Terabytes
-      of networked raw storage space.</p>\r\n\r\n<p>eRacks/NAS16 server model is a
-      top-of-the-line network-attached or cloud-ready solution that has power and
-      capacity enough to be considered almost a midrange solution.&nbsp; The 3U rackmount
-      unit has 16 hot-swappable drive bays and with the new 8 Terabytes HGST drive,
-      the server will offer up to 128 Terabytes of total capacity.</p>\r\n\r\n<p>&nbsp;eRacks
-      Systems is committed to providing high-quality open system and open source based
-      solutions that are affordable and easy to understand.&nbsp; The company makes
-      it a task to &ldquo;offer simple, good-better-best gradated solutions to customers,
-      and simplify the byzantine mess of configuration offered by other providers,&rdquo;
-      says Joseph Wolff, Founder and CTO of eRacks Open Source Systems</p>\r\n\r\n<p>The
-      servers purchased from eRacks Systems will come pre-installed and ready-to-use,
-      with your choice of open source operating system and software.&nbsp; Customers
-      can have other motherboard configurations as well such as AMD based configuration.&nbsp;
-      Customers are asked to contact the company for details.</p>\r\n\r\n<p>eRacks
+      The servers can provide a greener, eco-friendly solution by using 8 Terabyte
+      HGST hard drives, or an unprecedented price-point with the Seagate Archive 8TB
+      SMR drives.&nbsp; Either way, eRacks achieves high storage density with these
+      new 8TB-capacity drives.</p>\r\n\r\n<p>Utilizing the new high-end hard disk
+      drives, <a href=\"https://eracks.com/NAS4\"><strong>eRacks/NAS4</strong></a>,
+      <a href=\"https://eracks.com/NAS8\"><strong>NAS8</strong></a>, <a href=\"https://eracks.com/NAS12\"><strong>NAS12</strong></a>,
+      and <a href=\"https://eracks.com/NAS16\"><strong>NAS16</strong></a> storage
+      server models provide a versatile solution to companies needing network-attached
+      or cloud-based data storage space at an affordable price.&nbsp; The 8 Terabytes
+      HGST hard drives used in these models are the same high quality and high capacity
+      hard drives used in the higher-end server models offered by the company.</p>\r\n\r\n<p><strong><a
+      href=\"https://eracks.com/NAS4\">eRacks/NAS4</a> </strong>is a 1U high rackmount
+      storage server.&nbsp; The unit holds 4 hot-swappable drive bays for up to 32
+      Terabytes of raw storage space and comes with up to four Gigabit Ethernet ports.&nbsp;
+      These server series are based on Intel single or dual Xeon-capable motherboards
+      and can be configured with up to 1.5 Terabytes of RAM.</p>\r\n\r\n<p><strong><a
+      href=\"https://eracks.com/NAS8\">eRacks/NAS8</a> </strong>is another great rackmount
+      storage server solution by eRacks Systems. The unit is 2U high or can be 3U
+      high with optional Optical Drive bay for CD, DVD, and BluRay.&nbsp; The 2U unit
+      can also come with a slim Optical Drive bay as an option.&nbsp; This model holds
+      8 hot-swappable drive bays for up to 64 Terabytes of total data storage space.</p>\r\n\r\n<p><strong><a
+      href=\"https://eracks.com/NAS12\">eRacks/NAS12</a> </strong>is a remarkable
+      mid-size data storage server for small to medium size companies that would like
+      an affordable data storage solution but require the high-end power and cloud
+      capabilities that come with higher-end storage servers.&nbsp; This unit requires
+      only 2U on the datacenter rack and has 12 hot-swap drive bays for up to 96 Terabytes
+      of networked raw storage space.</p>\r\n\r\n<p><a href=\"https://eracks.com/NAS16\"><strong>eRacks/NAS16</strong></a>
+      server model is a top-of-the-line network-attached or cloud-ready solution that
+      has power and capacity enough to be considered a midrange solution.&nbsp; The
+      3U rackmount unit has 16 hot-swappable drive bays and with the new 8 Terabyte
+      drives, the server has 128 Terabytes of total capacity.</p>\r\n\r\n<p>Per eRacks&#39;
+      signature service, the servers come with your choice of open source operating
+      system installed (Ubuntu Linux by default, any other Linux or BSD available),
+      as well as proven, best-of breed cloud-read software such as OpenStack, CloudStack,
+      OpenNebula, or eRacks&#39; own eVirt, lightweight server virtualization platform.</p>\r\n\r\n<p>eRacks
+      Systems is committed to providing high-quality open-standards-based systems,
+      and open-source based solutions that are affordable and easy to build on.&nbsp;
+      The company makes it a task to &ldquo;..Offer simple, gradated solutions to
+      customers, and simplify the daunting task of configuration offered by other
+      providers,&rdquo; says Joseph Wolff, Founder and CTO of eRacks Open Source Systems.</p>\r\n\r\n<p>Customers
+      can have other motherboard configurations as well, such as AMD based configuration,
+      high-power quad-socket solutions (Intel or AMD), or low-end, budget-minded single-CPU
+      Non-ECC solutions.&nbsp; Contact the company for details.</p>\r\n\r\n<p>eRacks
       Systems has offices in Hayward and Los Gatos, California.&nbsp; Customers can
-      contact eRacks Systems by phone number (714) 758-5423 or email at info@eracks.com.&nbsp;
+      contact eRacks Systems by phone&nbsp;(408)455-0010 or via email at info@eracks.com.&nbsp;
       Company&rsquo;s website <a href=\"https://eracks.com/\">https://eracks.com</a>
       is available for further information on all Open Source solutions provided by
       the eRacks Systems.</p>\r\n\r\n<p>eRacks Open Source Systems</p>\r\n\r\n<p>Phone:
-      (714) 758-5423</p>\r\n\r\n<p>Fax: (631) 392-9842</p>\r\n\r\n<p><a href=\"https://eracks.com/\">https://eRacks.com</a>&nbsp;</p>\r\n\r\n<p>eMail:
-      <a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n", created: ! '2015-10-28
-      15:35:52.267794', css: '', description: 'eRacks Open Source Systems, A leading
-      provider of Open Source rackmount storage server solutions based in Californian,
-      announced today a new upgrade to its four low-range, economy-size cloud-ready
-      servers, providing a selection between 32 to 128 Terabytes of raw storage space.  The
-      servers provide a greener, eco-friendly solution by using 8 Terabytes HGST hard
-      drives.', heading: true, javascript: '', keywords: 'Open Source, Cloud Base,
-      Cloud Server, Cloud Data Storage, High Capacity Storage, Terabyte Storage Servers,
-      Low-End Storage Server, Network Attached', meta_title: eRacks Systems Adds More
-      Capacity To Four NAS Green Cloud-Ready Storage Servers, name: eRacks Systems
-      Adds More Capacity To Four NAS Green Cloud-Ready Storage Servers, published: false,
-    slug: eracks-systems-adds-more-capacity-four-nas-green-cloud-ready-storage-servers,
-    template: quickpages/press.html, title: eRacks Systems Adds More Capacity To Four
-      NAS Green Cloud-Ready Storage Servers, updated: ! '2015-10-28 15:43:55.359944'}
+      (408)455-0010</p>\r\n\r\n<p>Fax: (631) 392-9842</p>\r\n\r\n<p><a href=\"https://eracks.com/\">https://eRacks.com</a>&nbsp;</p>\r\n\r\n<p>eMail:
+      <a href=\"mailto:info@eracks.com\">info@eracks.com</a></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    created: ! '2015-10-28 15:35:52.267794', css: '', description: 'eRacks Open Source
+      Systems, The leading provider of Open Source rackmount storage server solutions
+      based in California, announced today a new upgrade to its four SMB value-range
+      cloud-ready servers, providing a selection between 32 to 128 Terabytes of raw
+      storage space.  The servers can provide a greener, eco-friendly solution by
+      offering 8-Terabyte HGST hard drives, or lower price points with Seagate 8TB
+      Archive SMR drives.', heading: true, javascript: '', keywords: 'Open Source,
+      Cloud Base, Cloud Server, Cloud Data Storage, High Capacity Storage, Terabyte
+      Storage Servers, Low-End Storage Server, Network Attached Storage, NAS, Open
+      Stack, Cloud Stack, Ceph', meta_title: eRacks Upgrades SMB Cloud-Ready Storage
+      Servers - 32 to 128TB in 1U-3U of Rackspace, name: 'Nov 30, 2015 - eRacks Upgrades
+      SMB Cloud / Storage Servers - 32 to 128TB in 1U-3U of Rackspace', published: true,
+    slug: nov-30-2015-eracks-upgrades-smb-cloud-storage-servers-32-128tb-1u-3u-rackspace,
+    template: quickpages/press.html, title: 'Nov 30, 2015 - eRacks Upgrades SMB Cloud
+      / Storage Servers - 32 to 128TB in 1U-3U of Rackspace', updated: ! '2015-11-30
+      15:04:52.776272'}
   model: quickpages.quickpage
   pk: 148
+- fields: {comments: '', content: "<pre>\r\nBe the first to evangelize the call to
+      open source created by the\r\nVolkswagen scandal\r\n1) never would have happened
+      with open source\r\n2) oss in the future to ensure transparency\r\n3) open source
+      to allow owner modification</pre>\r\n\r\n<p>Also mention the OSFA, was it?</p>\r\n",
+    created: ! '2015-11-09 19:49:15.314348', css: '', description: '', heading: true,
+    javascript: '', keywords: '', meta_title: '', name: .gov Call to Action, published: false,
+    slug: gov-call-action, template: '', title: .gov Call to Action, updated: ! '2015-11-09
+      19:50:46.920488'}
+  model: quickpages.quickpage
+  pk: 149
+- fields: {comments: '', content: "<pre>\r\n\r\nOpen hardware too, - find and paste
+      the section I sent to Mike Haden\r\nhere then continue: so we always strive
+      to be fair with our customers\r\nand to attract you because we provide a good
+      value and a good product -\r\nnot because of vendor lock in or because you&#39;re
+      stuck having to buy\r\nthings from us. As such As such we sell industry standard
+      form factors\r\nRAM hard disk memory rail tracks and everything. In addition
+      we like and\r\nsupport the idea of open hardware - and for a Time in the early
+      2000&#39;s,\r\nwe sold systems with open BIOS and Linux BIOS.\r\n\r\nWe are
+      still working on getting the motherboard manufacturers to support\r\nus in this
+      effort - it&#39;s difficult. Especially with Windows dictating\r\nthings like
+      trusted computing.\r\n\r\nSpeaking of trusted computing, there is progress on
+      this front though,\r\nshow link here to the guy the skinny guy from the Linux
+      Magazine -\r\nworked for open nebula, I think it was -\r\n\r\nAnd he forked
+      the Linux kernel recently too\r\n\r\nthis should of course go on the blog, as
+      well as in a footer doc\r\n\r\n\r\n</pre>\r\n", created: ! '2015-11-09 19:49:23.692653',
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: 'Open Hardware, Open Source Hardware', published: false, slug: open-hardware-open-source-hardware,
+    template: '', title: 'Open Hardware, Open Source Hardware', updated: ! '2015-11-09
+      19:49:23.692614'}
+  model: quickpages.quickpage
+  pk: 150
+- fields: {comments: '', content: "<p><br />\r\nIn our document about flash storage
+      myths vs. A good caching RAID controller, refer to our flash line of servers</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><br
+      />\r\nA good quality cashing read controller, is a exercise in high speed parallel
+      processing dash I like to call it be getting gun affect getting gun affect affect
+      affect affect affect eff ect affect<br />\r\n<br />\r\nSo effectively, you are
+      right complete at bus speeds, and it&#39;s up to the controller to ensure the
+      date is properly written to the array of 12 or 16 or however many drives.<br
+      />\r\n<br />\r\nIn practice, this is actually faster than a single drive on
+      a data connection or even an env any connection, depending on other factors
+      such as the type of drive, and the internal flash memory configuration of it<br
+      />\r\n<br />\r\nIt would be very very hard, to saturate the RAID controller
+      such as this, and would require incoming bandwidth in the hundreds of gigabits
+      to do so. If you have those kind of needs, call us and we will configure an
+      architecture for you :-).<br />\r\n<br />\r\nAll this said, it&#39;s possible
+      to combine the benefits of red controller, and the benefits of flash storage
+      - enter our flash line of storage servers :-)<br />\r\n<br />\r\nLet&#39;s focus
+      on the flash servers first that&#39;s in our Internet focused area, then later
+      we can do media servers - and tied in with this next footer document:</p>\r\n",
+    created: ! '2015-11-09 19:52:41.710931', css: '', description: '', heading: true,
+    javascript: '', keywords: '', meta_title: '', name: Flash Storage Myths, published: false,
+    slug: flash-storage-myths, template: '', title: Flash Storage Myths and Caching
+      RAID Controllers, updated: ! '2015-11-09 19:52:41.710838'}
+  model: quickpages.quickpage
+  pk: 151
+- fields: {comments: '', content: "<p>MythTV page<br />\r\n<br />\r\nOver the years,
+      we have built several custom MythTV boxes for various customers. Heck, in the
+      mid-2000s, we even talked to Isaac Richards about hiring him :-). Anyway now
+      is the time to formalize our efforts in this area: our line of media servers.
+      Available with your choice of MythTV, Cody, or even Plex, or what was that Ubuntu
+      one?<br />\r\n<br />\r\nAnyway, its the perfect thing for us to build, because
+      the hardware requirements of a good quality MythTV box are more stringent and
+      pickier than the average computer. And we know how to build these things to
+      interface with it and with open source in general., since we&#39;ve been doing
+      it in writing drivers as needed since 1999.<br />\r\n<br />\r\nbackblaze - why,
+      why not<br />\r\n<br />\r\nWow, check out the backblaze SMART stats on hard
+      drives - Seagate sucks</p>\r\n", created: ! '2015-11-09 19:53:36.096833', css: '',
+    description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Media Servers and MythTV, published: false, slug: media-servers-and-mythtv,
+    template: '', title: Media Servers and MythTV, updated: ! '2015-11-09 20:09:47.784253'}
+  model: quickpages.quickpage
+  pk: 152
+- fields: {comments: '', content: "<p><br />\r\nWith a subheading of &quot;10 little
+      Indians&quot;, or perhaps something more politically correct - we can also provision
+      and configure your general-purpose server, to do scale out - you can have several
+      identical configurations, with a few spares on hand to deploy by simply sliding
+      it into the rack<br />\r\n&nbsp;</p>\r\n", created: ! '2015-11-09 19:58:10.128883',
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Scale-out configurations, published: false, slug: scale-out-configurations,
+    template: '', title: Scale-out configurations and approaches, updated: ! '2015-11-09
+      19:58:10.128844'}
+  model: quickpages.quickpage
+  pk: 153
+- fields: {comments: '', content: "<p>DevOps - we&#39;re very familiar with the burgeoning
+      field of DevOps, and have been doing automated pre-configuring and provisioning
+      since the late 90s :-). That said we work with all the major DevOps frameworks
+      puppet since 2007, chef, since 2010, saltsack since 2012, and ansible since
+      2014.<br />\r\n<br />\r\nWe also played a little bit with rolling our own, or
+      CTO has written one called brewpub :-) to keep the theme going of the kitchen
+      ideas and metaphor is present in many of the other DevOps frameworks.<br />\r\n<br
+      />\r\nContact us today to see how we can help you put together a cohesive and
+      robust framework for your needs. Link to this document from the pre provisioning
+      box on the home page. Possibly change the pre-positioning heading to be DevOps.</p>\r\n",
+    created: ! '2015-11-09 19:59:57.075238', css: '', description: '', heading: true,
+    javascript: '', keywords: '', meta_title: '', name: DevOps and Provisioning, published: false,
+    slug: devops-and-provisioning, template: '', title: DevOps and Provisioning, updated: ! '2015-11-09
+      20:09:34.736026'}
+  model: quickpages.quickpage
+  pk: 154
+- fields: {comments: '', content: "<p><br />\r\nThe value of COTS<br />\r\nStandards-based
+      hardware since 1999<br />\r\nIn addition to components we use, also hard drives
+      we use or hard drives we recommend and why - copy the Backblaze Seagate vs Western
+      Digital chart</p>\r\n", created: ! '2015-11-09 20:02:58.491581', css: '', description: '',
+    heading: true, javascript: '', keywords: '', meta_title: '', name: Standards-Based
+      Hardware, published: false, slug: standards-based-hardware, template: '', title: Standards-Based
+      Hardware & COTS, updated: ! '2015-11-09 20:02:58.491543'}
+  model: quickpages.quickpage
+  pk: 155
+- fields: {comments: '', content: "<p><br />\r\nWhy we like hybrid clouds - my usual
+      talk about this, including the privacy value of a dedicated server, and using
+      the cloud the public cloud for scale out</p>\r\n", created: ! '2015-11-09 20:03:43.696877',
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Private & Hybrid Clouds, published: false, slug: private-hybrid-clouds,
+    template: '', title: Private & Hybrid Clouds, updated: ! '2015-11-09 20:03:43.696840'}
+  model: quickpages.quickpage
+  pk: 156
+- fields: {comments: '', content: "<p>Could break these out, too:</p>\r\n\r\n<p><br
+      />\r\nSecurity architectures, and the current state of security disasters<br
+      />\r\n<br />\r\nOur technology and web architecture<br />\r\n<br />\r\nOur colocation
+      and devops frameworks</p>\r\n", created: ! '2015-11-09 20:05:55.958357', css: '',
+    description: '', heading: true, javascript: '', keywords: '', meta_title: '',
+    name: Our Technology, published: false, slug: our-technology, template: '', title: 'Our
+      Technology, Architecture, Security, & Best-Practices', updated: ! '2015-11-09
+      20:09:20.720701'}
+  model: quickpages.quickpage
+  pk: 157
+- fields: {comments: '', content: "<p><br />\r\nFor services page: services can include
+      pre-setup reprovisioning and complete assembly at our facility in the Bay Area,
+      shipped in turn key shift turnkey ready to your site - and then link to a picture
+      of JG and the two stacks<br />\r\n<br />\r\nStaging services - can include provisioning,
+      shut up, pre-configuration, assembly, cabling, qualification and testing, I&#39;ll
+      perform that are Bay Area facility before shipping to your site. Turnkey!</p>\r\n",
+    created: ! '2015-11-09 20:08:30.036604', css: '', description: '', heading: true,
+    javascript: '', keywords: '', meta_title: '', name: Services edits, published: false,
+    slug: services-edits, template: '', title: x, updated: ! '2015-11-09 20:08:30.036567'}
+  model: quickpages.quickpage
+  pk: 158
+- fields: {comments: '', content: "<h2>Why we started the company</h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>I
+      should also hasten to add that a couple of the primary reasons we started the
+      company in 1999, was that HP and Dell were selling PCs which:<br />\r\n<br />\r\n1)
+      Were made of component parts which were factory seconds (they would often write
+      custom drivers to work around defects in the parts), and<br />\r\n<br />\r\n2)
+      They used incompatible components to create vendor-lock-in, such as rails, motherboards,
+      special RAM sockets, etc - which avoided open standards, and meant you had to
+      buy parts from them at 3x-10x the price of the COTS (Commodity Off-theShelf)
+      equivalents.&nbsp;<br />\r\n<br />\r\nWe have always strived to use only new,
+      top-quality parts in our systems, and always use open standards and interoperable
+      parts wherever possible, thus assuring the customer of upgradability.<br />\r\n<br
+      />\r\n<br />\r\n<span style=\"font-family:times new\r\n                roman,serif,serif;
+      font-size:12.0pt\">OK, but I wouldn&#39;t describe them as &quot;Custom&quot;,
+      I would describe them as our brand - eRacks.&nbsp; No, we are not as big as
+      Dell, HP, etc, but we are still here.<br />\r\n<br />\r\nDell, HP, etc, often
+      buy completed machines from the same upstream suppliers as we do (Quanta, Compal,
+      Supermicro, etc).<br />\r\n<br />\r\nIn addition, FWIW, Supermicro is a brand
+      that straddles the line between end-user awareness and resellers, we have several
+      brand-new-in-the-box Supermicro chasses in the lot.</span><br />\r\n&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    created: ! '2015-11-10 09:32:12.083907', css: '', description: '', heading: true,
+    javascript: '', keywords: '', meta_title: '', name: Why we started the company,
+    published: false, slug: why-we-started-company, template: '', title: Why we started
+      the company, updated: ! '2015-11-10 10:10:38.935661'}
+  model: quickpages.quickpage
+  pk: 159
+- fields: {comments: See Also "About our Bid", content: "<ul>\r\n\t<li><img alt=\"\"
+      src=\"/media/images/home/6535_04_western_digital_red_6tb_nas_consumer_hdd_review_medium.jpg\"
+      style=\"float:right; height:414px; width:300px\" />We build all our systems
+      to order, and</li>\r\n\t<li><strong>We only use factory fresh, new components
+      in our new systems.</strong></li>\r\n</ul>\r\n\r\n<p>This may seem like an obvious
+      thing to say, but it still needs to be said.</p>\r\n\r\n<p>Why?</p>\r\n\r\n<p>About
+      4-5 times a week, we get emails like the one at the end of this page -</p>\r\n\r\n<p>Offering
+      <strong>&quot;Clean pull&quot;</strong> components for low prices in large lots
+      - At best, these would be considered <strong>&quot;Refurb&quot;</strong> components,
+      but are really just plain <strong>used</strong>.&nbsp; They have a much shorter
+      (or no) warranty period than new components - they&#39;re also often factory
+      seconds or grey market parts, sold sideways to dodgy suppliers so that they
+      can build systems cheaper.</p>\r\n\r\n<p>We do not use these suppliers.</p>\r\n\r\n<p>So
+      again, we always use 100% new and factory-fresh components in our new-system
+      builds - (on occasion we sell our B-Stock systems, which are always clearly
+      marked as such, and say what they are - reconditioned, etc).</p>\r\n\r\n<p>Some
+      of the addiitonal ways it is possible to cut corners on building and assembling
+      IT equipment, in addition to used or refurbished parts, is to use <strong>factory
+      lot-ends</strong>, factory <strong>seconds</strong>, factory <strong>defects</strong>
+      with a &quot;Workaroundable&quot; defect - this is how <strong>Dell</strong>
+      got their start - they would buy large lots of, say, NIC cards (This was before
+      motherboards came with them onboard!), with a known defect, and write (and pre-install)
+      the Windows driver for it - almost always unbeknownst to the end-user, or disclaimed
+      in fine print in the EULA that the customer is forced to accept.</p>\r\n\r\n<p>In
+      the grey markets, there are also stolen, or &quot;hot&quot; hard drives, or
+      those with dubious serial numbers / history, which are also out there -</p>\r\n\r\n<p>On
+      the topic of this market, of storage servers, with large numbers of 3.5&quot;
+      hard disk drives, this is especially tempting for some box-builders to use components
+      such as these - again, we do not do this, and <strong>*always*</strong> purchase
+      new parts only, from reputable, nationally-known suppliers of components and
+      computer parts for our servers, especially such as hard disks, etc.</p>\r\n\r\n<p>Joe</p>\r\n\r\n<p>Joseph
+      Wolff<br />\r\nFounder and CTO<br />\r\neRacks Open Source Systems</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Here
+      is the example email:</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div style=\"background-color:lightgrey\">\r\n<pre>\r\nClean
+      Pull HDD offer ( Lot# ST4815)\r\n90 days warranty\r\nPayment Bank wire only\r\nEXW-
+      CA USA\r\n\r\nSeagate ST3120025ACE 120GB IDE 3.5&quot; Qty 820 pcs take all
+      deal @ 5.00 each\r\nSeagate ST3120026AS 120GB 7200RPM SATA 3.5&quot; Qty 1700
+      pcs  MOQ 500 pcs + @ $ 9.00 each\r\nSeagate ST3320310CS 320GB SATA 3.5&quot;
+      Qty 2400 pcs MOQ 1000 pcs + @ $ 13.50 each\r\nSeagate ST3320311CS 320GB SATA
+      3.5&quot; Qty 1400 pcs MOQ 1000 pcs + @ $ 13.50 each\r\nWD WD2500AAVS 250GB
+      SATA 3.5&quot; Qty 4000 pcs  MOQ 1000 pcs + @ $ 12.00 each\r\nWD WD3200AAJS
+      320GB SATA 3.5&quot; Qty 4500 pcs MOQ 1000 pcs + @ $ 14.00 each\r\nWD WD2500AAVS
+      250GB SATA 3.5&quot; Qty 4700 pcs MOQ 1000 pcs + @ $ 12.00 each\r\n\r\n\r\nAxxxxx\r\n\r\nGlobal
+      XXX Enterprises,INC 909-xxx-xxxx email: axxxx@xxxenterprises.net\r\nemail: xxxenterprisesusa@gmail.com\r\nWalnut,
+      CA 91789 USA\r\nwww.xxxenterprises.net\r\n\r\nCall/Email to us for large qty
+      discount .\r\n\r\nAGS  WTS /WTB  :\r\nWe carry a wide range of products. Please
+      contact us for your other requirements........\r\nHard drive ( Pull/refurb/New)
+      , CPU ( Pull/New), Laptop/Tablets ( Refurbished/New)\r\nMemory, Monitors,Keyborad
+      , Mice ,Networking Products ,Printer,  ETC\r\n\r\n</pre>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n",
+    created: ! '2015-11-10 10:15:24.016936', css: '', description: "We only use factory
+      fresh, new components in our new systems.\r\n\r\nWe do not use refurb, used,
+      \"clean-pull\", factory seconds, factory lot-ends, factory EOL, factory defects,
+      stolen, or grey market companonets - nor do we buy from suppliers who sell them.",
+    heading: true, javascript: '', keywords: 'components, eRacks, honesty, integrity,
+      transparency', meta_title: Components We Use, name: Components We Use, published: true,
+    slug: components-we-use, template: '', title: Components We Use, updated: ! '2015-12-06
+      10:27:27.684945'}
+  model: quickpages.quickpage
+  pk: 160
+- fields: {comments: '', content: "<p>Every few weeks, we get somebody asking the
+      question:</p>\r\n\r\n<blockquote>\r\n<p>&quot;Why don&#39;t you just use the
+      RAID that&#39;s on the motherboard?&quot;</p>\r\n</blockquote>\r\n\r\n<p>or,</p>\r\n\r\n<blockquote>\r\n<p>&quot;But
+      I thought this Intel C612C Chipset [or many others] came with RAID built in?&quot;</p>\r\n</blockquote>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Well
+      even though this practice has persisted for over a decade, it&#39;s important
+      that we explain, again, what does it go on its software RAID, proprietary, and
+      then standard. If you&#39;re going to use software RAID use the software RAID
+      that&#39;s built into Linux or BSD - it&#39;s tested tried and true and standard.<br
+      />\r\n<br />\r\n<br />\r\n<br />\r\nWe recommend Linux Software RAID, with LVM.<br
+      />\r\n<br />\r\n&quot;Motherboard RAID&quot;, also known as &quot;Fake RAID&quot;,
+      is (almost always) merely BIOS-assisted software RAID, implemented in firmware
+      - and is closed-source, proprietary, non-standard, and often buggy, and almost
+      always slower than the time-tested and reliable software RAID found in Linux.<br
+      />\r\n<br />\r\nPlus, if the motherboard fails, you&#39;re stuck having to find
+      an identical motherboard, because the proprietary firmware RAID implementations
+      are often not compatible.<br />\r\n<br />\r\nFurther reading:<br />\r\n<br />\r\n<a
+      href=\"https://wiki.archlinux.org/index.php/Installing_with_Fake_RAID\" target=\"_blank\">https://wiki.archlinux.org/index.php/Installing_with_Fake_RAID</a><br
+      />\r\n<br />\r\n<a href=\"https://ata.wiki.kernel.org/index.php/SATA_RAID_FAQ\"
+      target=\"_blank\">https://ata.wiki.kernel.org/index.php/SATA_RAID_FAQ</a><br
+      />\r\n<br />\r\n<br />\r\nLet us know if you have any additional questions,<br
+      />\r\n<br />\r\nBest,<br />\r\njoe</p>\r\n", created: ! '2015-11-17 16:42:16.723813',
+    css: '', description: '', heading: true, javascript: '', keywords: '', meta_title: BIOS
+      vs Liux RAID, name: BIOS vs Linux RAID, published: true, slug: bios-vs-linux-raid,
+    template: '', title: BIOS vs Linux RAID, updated: ! '2015-11-24 11:03:30.992923'}
+  model: quickpages.quickpage
+  pk: 161
+- fields: {comments: '', content: "<p>KDoc exceprt, to James:</p>\r\n\r\n<p>To us,
+      purchase decisions are more than just the cheapest prices, and phrases such
+      as &quot;Like kind&quot; or &quot;Equivalent product&quot; by their very nature,
+      ignore the value of the preconfiguration services and expertise we provide,
+      especially since much of this expertise was given pre-sales, and thus included
+      therefore in the bid request for free, for the other vendors to simply duplicate
+      (which may get the bid done, but leaves future expertise and decisions abandoned).<br
+      />\r\n&nbsp;<br />\r\nWe feel the services we offer are valuable, and have repeatedly
+      had expeiences such as this one when dealing with a bid situation, so we are
+      open to any insights you might have,<br />\r\n&nbsp;</p>\r\n\r\n<p>KDoc Excerpt,
+      to purchasing:</p>\r\n\r\n<pre>\r\n- We always use 100% new and  factory-fresh
+      components in our builds -\r\n\r\nSome of the ways it is possible to cut corners
+      on building and\r\nassembling IT equipment, is to use factory lot-ends, seconds,\r\nrefurbished
+      (or even used) components, imported out-of-area, or other\r\ngray-market componenets
+      - even stolen components (especially in the case\r\nof hard disks) have a strong
+      secondary market to some builders.\r\n\r\nIn this market, of storage servers,
+      with large numbers of 3.5&quot; hard disk\r\ndrives, this is especially tempting
+      for some box-builders to use\r\ncomponents such as these - again, we do not
+      do this, and <strong>*always*</strong>\r\npurchase new parts only, from reputable,
+      nationally-known suppliers of\r\ncomponents and computer parts for our servers,
+      especially such as hard\r\ndisks, etc.\r\n</pre>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>In
+      bold: we only use factory fresh, new components in our new systems. About 4-5
+      times a week, we get emails like the one at the end of this post - offering
+      quote clean pull on quote or refurb components for low prices user used or at
+      best have a much shorter warranty period then new components they&#39;re also
+      often factory seconds or grey market parts, sold sideways to dodgy suppliers
+      so that they can build systems cheaper. Great market Parts, sold sideways to
+      dad G suppliers so that they can be old systems cheaper. Periodically, we get
+      invited to bid dash I am consistently amazed by some of the systems that when
+      the bids dash off and below our cost. The only way they can do this, is by buying
+      the sorts of used, refurb, clean pull, or even stolen components to assemble
+      there systems. What kind of components do you want in your system?<br />\r\n&nbsp;</p>\r\n\r\n<p>and</p>\r\n\r\n<p>I
+      can summarize our position by saying that we are at once consultants and System
+      Architects, in addition to being server manufacturers - we specialize in architecting
+      solutions utilizing Open Source software (which ther is no charge for), and
+      working with our customers to make the best recommendationws, and pre-install
+      / pre-provision the software in place, going forward. For example, there are
+      over 50,400 packages for Ubuntu alone, our job is to ensure that our customers
+      use the right ones, and use the best-of-breed in each category, and are aware
+      of the landscape of active communities around each one, patch-management, security
+      updates, and the like; as well as our experiences for what constitutes best-practices
+      in the field, for each sub-category of software the customer is selecting from.
+      Anybody can install Linux and Apache, and claim that they know what they are
+      doing; the reality is far from this. Our architectural expertise also extends
+      to solutions which interoperate with, and/or use Windows, and we have put together
+      many shops&#39; local networks as such. We&#39;ve been doing this since 1999,
+      (and were consultants before that, installing rackmount networked systems for
+      our customers). This knowledge and expertise is included when a server is purchased
+      from us, and is included in the support package as well.</p>\r\n\r\n<div style=\"background-color:lightgrey\">\r\n<pre>\r\nClean
+      Pull HDD offer ( Lot# ST4815)\r\n90 days warranty\r\nPayment Bank wire only\r\nEXW-
+      CA USA\r\n\r\nSeagate ST3120025ACE 120GB IDE 3.5&quot; Qty 820 pcs take all
+      deal @ 5.00 each\r\nSeagate ST3120026AS 120GB 7200RPM SATA 3.5&quot; Qty 1700
+      pcs  MOQ 500 pcs + @ $ 9.00 each\r\nSeagate ST3320310CS 320GB SATA 3.5&quot;
+      Qty 2400 pcs MOQ 1000 pcs + @ $ 13.50 each\r\nSeagate ST3320311CS 320GB SATA
+      3.5&quot; Qty 1400 pcs MOQ 1000 pcs + @ $ 13.50 each\r\nWD WD2500AAVS 250GB
+      SATA 3.5&quot; Qty 4000 pcs  MOQ 1000 pcs + @ $ 12.00 each\r\nWD WD3200AAJS
+      320GB SATA 3.5&quot; Qty 4500 pcs MOQ 1000 pcs + @ $ 14.00 each\r\nWD WD2500AAVS
+      250GB SATA 3.5&quot; Qty 4700 pcs MOQ 1000 pcs + @ $ 12.00 each\r\n\r\n\r\nAxxxxx\r\n\r\nGlobal
+      XXX Enterprises,INC909-360-9993email: axxxx@xxxenterprises.net\r\nemail: xxxenterprisesusa@gmail.com\r\nWalnut,
+      CA 91789 USA\r\nwww.enterprises.net\r\n\r\nCall/Email to us for large qty discount
+      .\r\n\r\nAGS  WTS /WTB  :\r\nWe carry a wide range of products. Please contact
+      us for your other requirements........\r\nHard drive ( Pull/refurb/New) , CPU
+      ( Pull/New), Laptop/Tablets ( Refurbished/New)\r\nMemory, Monitors,Keyborad
+      , Mice ,Networking Products ,Printer,  ETC\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</pre>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div
+      class=\"qtdSeparateBR\">Example eMail:<br />\r\n&nbsp;</div>\r\n\r\n<div class=\"qtdSeparateBR\">&nbsp;</div>\r\n\r\n<div
+      class=\"yiv9922607057yqt5744792377\" id=\"yiv9922607057yqtfd09594\">\r\n<div
+      id=\"yui_3_16_0_1_1428863304754_156991\">\r\n<div id=\"yui_3_16_0_1_1428863304754_156990\"
+      style=\"color: rgb(0, 0, 0); font-family: times new roman, new york, times,
+      serif; font-size: 16px; background-color: rgb(255, 255, 255);\">\r\n<div id=\"yiv9922607057yui_3_16_0_1_1428863304754_83649\"
+      style=\"font-family: times new roman, new york, times, serif; font-size: 16px;\">\r\n<div
+      id=\"yiv9922607057yui_3_16_0_1_1428863304754_83648\" style=\"font-family: HelveticaNeue,
+      Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 16px;\">\r\n<div
+      class=\"yiv9922607057y_msg_container\" id=\"yiv9922607057yui_3_16_0_1_1428863304754_83653\">\r\n<div
+      id=\"yiv9922607057\">\r\n<div id=\"yiv9922607057yui_3_16_0_1_1428863304754_83652\">\r\n<div
+      id=\"yiv9922607057yui_3_16_0_1_1428863304754_83651\" style=\"color: rgb(0, 0,
+      0); font-family: times new roman, new york, times, serif; font-size: 16px; background-color:
+      rgb(255, 255, 255);\">\r\n<div id=\"yiv9922607057yui_3_16_0_1_1428516567098_71908\">Clean
+      Pull HDD offer ( Lot# ST4815)</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71941\">90
+      days warranty</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71942\">Payment
+      Bank wire only</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71947\">EXW-
+      CA USA</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71943\">&nbsp;</div>\r\n\r\n<div
+      dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71933\">Seagate ST3120025ACE
+      120GB IDE&nbsp;3.5&quot; Qty 820 pcs take all deal @ 5.00 each</div>\r\n\r\n<div
+      dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71955\">Seagate&nbsp;ST3120026AS
+      120GB&nbsp;7200RPM SATA 3.5&quot; Qty 1700 pcs&nbsp; MOQ 500 pcs + @ $ 9.00
+      each</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71971\">Seagate
+      ST3320310CS 320GB&nbsp;SATA 3.5&quot; Qty 2400 pcs MOQ 1000 pcs + @ $ 13.50
+      each</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71904\">Seagate
+      ST3320311CS 320GB&nbsp;SATA 3.5&quot; Qty 1400 pcs MOQ 1000 pcs + @ $ 13.50
+      each</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_72014\">WD
+      WD2500AAVS 250GB SATA 3.5&quot; Qty 4000 pcs&nbsp; MOQ 1000 pcs + @ $ 12.00
+      each</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_72036\">WD
+      WD3200AAJS 320GB SATA 3.5&quot; Qty 4500 pcs MOQ 1000 pcs + @ $ 14.00 each</div>\r\n\r\n<div
+      dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_72060\">WD WD2500AAVS
+      250GB SATA 3.5&quot; Qty 4700 pcs MOQ 1000 pcs + @ $ 12.00 each</div>\r\n\r\n<div
+      id=\"yiv9922607057yui_3_16_0_1_1428516567098_71905\">&nbsp;</div>\r\n\r\n<div
+      class=\"yiv9922607057signature\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71907\">\r\n<div
+      dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71906\" style=\"margin-right:
+      0px;\">&nbsp;</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71917\"
+      style=\"margin-right: 0px;\"><strong><em>Annisa</em></strong></div>\r\n\r\n<div
+      dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71925\" style=\"margin-right:
+      0px;\">&nbsp;</div>\r\n\r\n<div dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_71972\"
+      style=\"margin-right: 0px;\"><em><strong>Global AGS Enterprises,INC</strong><br
+      />\r\n<strong>909-360-9993<br />\r\nemail: </strong><a href=\"mailto:achui@agsenterprises.net\"
+      id=\"yiv9922607057yui_3_16_0_1_1428516567098_72100\" rel=\"nofollow\" target=\"_blank\"><strong>achui@agsenterprises.net</strong></a></em></div>\r\n\r\n<div
+      dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_72097\" style=\"margin-right:
+      0px;\"><em><strong>email: <a href=\"mailto:agsenterprisesusa@gmail.com\" rel=\"nofollow\"
+      target=\"_blank\">a</a></strong><a href=\"mailto:agsenterprisesusa@gmail.com\"
+      id=\"yiv9922607057yui_3_16_0_1_1428516567098_72095\" rel=\"nofollow\" target=\"_blank\"><strong>gsenterprisesusa@gmail.com</strong></a></em></div>\r\n\r\n<div
+      dir=\"ltr\" id=\"yiv9922607057yui_3_16_0_1_1428516567098_72084\" style=\"margin-right:
+      0px;\"><strong>Walnut ,</strong><strong>CA 91789 </strong><strong>USA</strong></div>\r\n\r\n<div
+      dir=\"ltr\" style=\"margin-right: 0px;\"><strong><a href=\"http://www.agsenterprises.net/\"
+      rel=\"nofollow\" target=\"_blank\">www.agsenterprises.net</a></strong></div>\r\n\r\n<div
+      id=\"yiv9922607057yui_3_16_0_1_1428516567098_72085\">&nbsp;</div>\r\n\r\n<div><strong>Call/Email
+      to us for large qty discount .</strong></div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div
+      id=\"yiv9922607057yui_3_16_0_1_1428516567098_72088\"><strong>AGS &nbsp;WTS /WTB&nbsp;
+      : </strong></div>\r\n\r\n<div><strong>We carry a wide range of products. Please
+      contact us for your other requirements........</strong></div>\r\n\r\n<div id=\"yiv9922607057yui_3_16_0_1_1428516567098_72091\"><strong>Hard
+      drive ( Pull/refurb/New) , CPU ( Pull/New), Laptop/Tablets ( Refurbished/New)</strong></div>\r\n\r\n<div><strong>Memory,
+      Monitors,Keyborad , Mice ,Networking Products ,Printer,&nbsp; ETC </strong></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    created: ! '2015-11-19 16:21:31.963715', css: '', description: '', heading: true,
+    javascript: '', keywords: '', meta_title: '', name: About Our Bid, published: false,
+    slug: about-our-bid, template: '', title: About Our Bid, updated: ! '2015-11-19
+      16:21:31.963677'}
+  model: quickpages.quickpage
+  pk: 162
+- fields: {comments: "best-practices, best-of-breed\r\n", content: "<p>JJW 11/29 BJs
+      valencia!</p>\r\n\r\n<p>So this should be the landing page for the main menu
+      &quot;Solutions&quot;&nbsp;choice</p>\r\n\r\n<p>- list the categories for which
+      we have a &#39;best-of-breed&#39; recommendation</p>\r\n\r\n<p>- list some as
+      &#39;coming soon&#39;</p>\r\n\r\n<p>- engage with the audience!</p>\r\n\r\n<p>-
+      file / NAS, Media / DLNA, slingbox-replaement, fwall / IDS / IPS, Mail, Cloud,
+      what else? &nbsp;lotsa lotsa</p>\r\n\r\n<p>Don&#39;t forget these should also
+      be referenced from the &quot;solutions&#39;-related home2 box!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>JJW
+      11/22/15 BC:</p>\r\n\r\n<p>Idea is to have a list of not-just-Projects, but
+      recommendations, best-of-breed solutions in each catgory or purpose of purpose-built
+      servers -&nbsp;</p>\r\n\r\n<p>File servers (LAN):&nbsp;SMB/CIFS, Samba, NFS,
+      AFP, NAS, SAN, DAS, ZFS, newcomer: SambaDev, etc - DLNA? UPNP? explain diff</p>\r\n\r\n<p>-
+      also Gnome copy of gold-brick-shaped server - who is it? Sklink?</p>\r\n\r\n<p>..although
+      that even better to mention &amp; discuss in the medai server doc (also category).</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Maybe
+      the best place for these docs is in the category desc? &nbsp;Seems like it should
+      be separate..</p>\r\n\r\n<p>Media servers &amp; softare - Plex, Kodi, MythTV,
+      etc - our pix &amp; recommendations</p>\r\n\r\n<p>(maybe later:) Hosting software
+      - plesk, etc</p>\r\n\r\n<p>Cloud/virt - ostack, cloudstack, oneb, evirt - compatible
+      w/upgrade path</p>\r\n\r\n<p>Storage / block - Ceph, ZFS, DRBD, iSCSI, AoE,
+      etc</p>\r\n\r\n<p>SDS?</p>\r\n\r\n<p>SDN?</p>\r\n\r\n<p>Studio sw - ubustud,
+      (dead)64stud, indamixxxxx, CCRMA, what else? &nbsp;there&#39;s a KDE one..</p>\r\n\r\n<p>Desktops
+      - highly political, but here&#39;s our take - and we&#39;ll installl anything
+      you want :)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    created: ! '2015-11-22 20:03:28.642749', css: '', description: "best-practices,
+      best-of-breed\r\n", heading: true, javascript: '', keywords: "best-practices,
+      best-of-breed\r\n", meta_title: '', name: Solutions, published: false, slug: solutions,
+    template: '', title: Solutions, updated: ! '2015-11-29 21:10:33.343888'}
+  model: quickpages.quickpage
+  pk: 163
 - fields: {body: "<nav id=\"nav_main\">\r\n    <a href=\"/products/\" title=\"eRacks
       Product Categories\">Products</a> \xB7\r\n    <a href=\"/services/\" title=\"eRacks
       Services\">Services</a> \xB7\r\n    <a href=\"/partners/\" title=\"eRacks Partners\">Partners</a>
@@ -6524,16 +6944,10 @@
       wide choice of operating systems also include Ubuntu, Debian, openSUSE, Fedora
       Linux and other rackmount server configurations. \r\neRacks also provides onsite
       installation, open source migration services, including network consulting and
-      software development services. \r\n</p>\r\n\r\n<script type=\"text/javascript\">\r\n\r\n
-      \ var _gaq = _gaq || [];\r\n  _gaq.push(['_setAccount', 'UA-37665012-1']);\r\n
-      \ _gaq.push(['_setDomainName', 'eracks.com']);\r\n  _gaq.push(['_trackPageview']);\r\n\r\n
-      \ (function() {\r\n    var ga = document.createElement('script'); ga.type =
-      'text/javascript'; ga.async = true;\r\n    ga.src = ('https:' == document.location.protocol
-      ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\r\n    var
-      s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
-      s);\r\n  })();\r\n\r\n</script>", comments: '', created: ! '2012-10-28 14:52:16.583062',
-    css: '', js: '', name: home_page_text_2, published: true, title: Home Page text
-      2, typ: raw, updated: ! '2015-09-22 21:07:13.803742'}
+      software development services. \r\n</p>\r\n\r\n", comments: google analytics
+      snippet removed 11/13/15 - JJW, created: ! '2012-10-28 14:52:16.583062', css: '',
+    js: '', name: home_page_text_2, published: true, title: Home Page text 2, typ: raw,
+    updated: ! '2015-11-13 17:14:39.399786'}
   model: quickpages.quicksnippet
   pk: 12
 - fields: {body: "<h5>\r\n  Experience, Custom design, Open Source, Quiet rackmounts\r\n</h5>\r\n\r\n<p>eRacks
@@ -6646,3 +7060,95 @@
       16:14:02.359685'}
   model: quickpages.quicksnippet
   pk: 24
+- fields: {body: "<a title=\"Real Time Analytics\" href=\"http://clicky.com/100894915\"><img
+      alt=\"Real Time Analytics\" src=\"//static.getclicky.com/media/links/badge.gif\"
+      border=\"0\" /></a>\r\n<script src=\"//static.getclicky.com/js\" type=\"text/javascript\"></script>\r\n<script
+      type=\"text/javascript\">try{ clicky.init(100894915); }catch(e){}</script>\r\n<noscript><p><img
+      alt=\"Clicky\" width=\"1\" height=\"1\" src=\"//in.getclicky.com/100894915ns.gif\"
+      /></p></noscript>\r\n", comments: "https://clicky.com/stats/prefs-tracking-code?site_id=100894915\r\njowolf\r\njoe@eracks.com",
+    created: ! '2015-11-13 12:01:43.450111', css: '', js: '', name: clicky_sync, published: false,
+    title: Clicky Widget - sync version, typ: raw, updated: ! '2015-11-13 12:01:43.450149'}
+  model: quickpages.quicksnippet
+  pk: 25
+- fields: {body: "<a title=\"Real Time Analytics\" href=\"http://clicky.com/100894915\"><img
+      alt=\"Real Time Analytics\" src=\"//static.getclicky.com/media/links/badge.gif\"
+      border=\"0\" /></a>\r\n<script type=\"text/javascript\">\r\nvar clicky_site_ids
+      = clicky_site_ids || [];\r\nclicky_site_ids.push(100894915);\r\n(function()
+      {\r\n  var s = document.createElement('script');\r\n  s.type = 'text/javascript';\r\n
+      \ s.async = true;\r\n  s.src = '//static.getclicky.com/js';\r\n  ( document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0] ).appendChild( s );\r\n})();\r\n</script>\r\n<noscript><p><img
+      alt=\"Clicky\" width=\"1\" height=\"1\" src=\"//in.getclicky.com/100894915ns.gif\"
+      /></p></noscript>\r\n", comments: "https://clicky.com/stats/prefs-tracking-code?site_id=100894915\r\njowolf\r\njoe@eracks.com\r\n\r\n(Goes
+      just above body close tag)", created: ! '2015-11-13 12:03:00.028183', css: '',
+    js: '', name: clicky_async, published: false, title: Clicky Widget - async version,
+    typ: raw, updated: ! '2015-11-13 12:03:00.028221'}
+  model: quickpages.quicksnippet
+  pk: 26
+- fields: {body: "<!-- <a title=\"Real Time Analytics\" href=\"http://clicky.com/100894915\"><img
+      alt=\"Real Time Analytics\" src=\"//static.getclicky.com/media/links/badge.gif\"
+      border=\"0\" /></a>\r\n-->\r\n<script type=\"text/javascript\">\r\nvar clicky_site_ids
+      = clicky_site_ids || [];\r\nclicky_site_ids.push(100894915);\r\n(function()
+      {\r\n  var s = document.createElement('script');\r\n  s.type = 'text/javascript';\r\n
+      \ s.async = true;\r\n  s.src = '//static.getclicky.com/js';\r\n  ( document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0] ).appendChild( s );\r\n})();\r\n</script>\r\n<noscript><p><img
+      alt=\"Clicky\" width=\"1\" height=\"1\" src=\"//in.getclicky.com/100894915ns.gif\"
+      /></p></noscript>\r\n", comments: "Copy of async version, published\r\nbadge
+      commented out", created: ! '2015-11-13 12:04:30.370826', css: '', js: '', name: clicky,
+    published: true, title: Clicky Widget, typ: raw, updated: ! '2015-11-13 16:55:35.648802'}
+  model: quickpages.quicksnippet
+  pk: 27
+- fields: {body: "<script type=\"text/javascript\">\r\n\r\n  var _gaq = _gaq || [];\r\n
+      \ _gaq.push(['_setAccount', 'UA-37665012-1']);\r\n  _gaq.push(['_setDomainName',
+      'eracks.com']);\r\n  _gaq.push(['_trackPageview']);\r\n\r\n  (function() {\r\n
+      \   var ga = document.createElement('script'); ga.type = 'text/javascript';
+      ga.async = true;\r\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+      : 'http://www') + '.google-analytics.com/ga.js';\r\n    var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);\r\n  })();\r\n\r\n</script>\r\n", comments: "This
+      was removed from the \"High Power Desktops\" bloglet on 11/13/15 - JJW\r\nAnd
+      from home_page_text_2 as well.\r\n", created: ! '2015-11-13 17:13:14.014991',
+    css: '', js: '', name: google_legacy_analytics, published: false, title: Old Google
+      Analytics snippet, typ: raw, updated: ! '2015-11-13 17:15:36.192707'}
+  model: quickpages.quicksnippet
+  pk: 28
+- fields: {body: "<p><strong><img alt=\"\" src=\"/media/images/home/kiddo-sweeping-dust_medium.jpg\"
+      style=\"float:right; height:170px; width:113px\" />Please pardon our dust -
+      We are in the process of updating the specs</strong> on many of our models -</p>\r\n\r\n<p>If
+      you see something you want or need that&#39;s not current let us know and we&#39;ll
+      get back to you right away and fix it -&nbsp;Thanks.</p>\r\n\r\n<p>We are also
+      retiring many older models, and will be introducing new models over the next
+      few weeks, before the end of 2015 - including <strong>Flash-based servers</strong>
+      (the 2U <strong>eRacks/FLASH24</strong>, for example!), a number of <strong>NVMe-based
+      systems</strong>, new desktops, <strong>Surveillance-targeted systems</strong>,
+      and a line of dedicated <strong>Media servers</strong> (early 2016).</p>\r\n\r\n<p>Join
+      our mailing list today to keep up on the latest, or follow our feeds on Twitter,
+      Facebook, etc!</p>\r\n", comments: '', created: ! '2015-11-29 12:30:34.425282',
+    css: '', js: '', name: Pardon our Dust, published: true, title: Please Pardon
+      Our Dust While We Update our Models, typ: html, updated: ! '2015-11-29 14:02:48.544547'}
+  model: quickpages.quicksnippet
+  pk: 29
+- fields: {body: "<p><img alt=\"\" src=\"/media/images/home/gty_money_rolls_ll_120404_wb_small.jpg\"
+      style=\"float:right; height:78px; width:140px\" />Over the years, eRacks&#39;
+      signature service has always been saving you time and money -</p>\r\n\r\n<p>By
+      pre-provisioning your system to be as turnkey as possible, eRacks can preinstall
+      and configure your server in one of several ways, and saves you the time and
+      expense of doing so yourself - and we give you, at no charge, our expertise
+      and recommendations for best-of-breed open source software in each of many leading
+      categories of purpose for open source projects:</p>\r\n\r\n<p>- File servers
+      - Cloud / Openstack, Block / Object storage / CEPH / Swift / iSCSI,&nbsp;SMB/CIFs,
+      DLNA/uPNP, NFS, AFP, rsync, etc<br />\r\n- Firewalls - OpenBSD, PFSense, IDS/IPS,
+      Snort / Suricata / Sagan, etc<br />\r\n- eMail serverrs - ZImbra, Postfix, Exim,
+      Dovecont, ASSP, ClamAV, antispam, Spam assassin, etc<br />\r\n-&nbsp;Databases
+      - PostgreSQL, MySQL, MariaDB, SQLite, etc</p>\r\n\r\n<p>Many more categories
+      forthcoming - keep an eye on our &#39;Solutions&#39; menu and our blog for details!</p>\r\n",
+    comments: '', created: ! '2015-11-29 12:35:35.305087', css: '', js: '', name: Our
+      Signature Service, published: true, title: eRacks' Signature Service is Saving
+      you Time and Money, typ: html, updated: ! '2015-11-29 14:02:37.334442'}
+  model: quickpages.quicksnippet
+  pk: 30
+- fields: {body: "<a href=\"http://instagram.com/erackssystems\" class=\"ig-b- ig-b-48\"
+      title=\"erackssystems instagram page\">\r\n <img src=\"//badges.instagram.com/static/images/ig-badge-48.png\"
+      alt=\"Instagram\" />\r\n</a>", comments: 'classes are from https://www.instagram.com/accounts/badges/',
+    created: ! '2015-12-09 21:53:25.306146', css: '', js: '', name: instagram, published: true,
+    title: instagram snippet, typ: raw, updated: ! '2015-12-09 21:53:25.306183'}
+  model: quickpages.quicksnippet
+  pk: 31
