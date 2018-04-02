@@ -8,7 +8,7 @@ RequestContext.
 """
 
 from django.conf import settings as django_settings
-from django.db.models import get_models, Manager
+from django.db.models import Manager
 from django.utils.safestring import mark_safe
 
 from quickpages.models import QuickSnippet
