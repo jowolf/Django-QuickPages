@@ -1,7 +1,7 @@
 # encoding: utf-8
 
-from django.shortcuts import get_object_or_404, render_to_response
-from django.template import RequestContext
+from django.shortcuts import get_object_or_404, render  #_to_response
+#from django.template import RequestContext
 #from django.http import HttpResponse
 #from django.conf import settings
 
@@ -57,4 +57,4 @@ def quickpage (request, slug=None, template='quickpages/base.html', breadcrumbs=
         )
     )
 
-    return render_to_response (template, kw, context_instance=RequestContext(request))
+    return render (request, template, kw) # , context_instance=RequestContext(request))
